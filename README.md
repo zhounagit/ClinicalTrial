@@ -1,3 +1,4 @@
 # ClinicalTrial
-Finding serious adverse events strong associated with death event, and optimize a classification model to predict clinical trial death events
-Investigated fields: conditions, interventions, phase, serious adverse events, participants average age, participant#, countries, etc.
+- Found top confidence serious adverse events which are strong associated with death event.
+- Optimize a classification model to predict clinical trial death events from investigated fields
+ conditions, interventions, phase, serious adverse events, participants average age, participant#, countries, etc.
