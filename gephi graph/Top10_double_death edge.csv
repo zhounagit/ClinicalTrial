@@ -1,0 +1,11 @@
+Confidence,Source,Frequency (arms#),Category,Target
+0.726973684,Cardiac_failure  Dizziness,304,Cardiac disorders-Nervous system disorders,Death
+0.716171617,Septic_shock  Cardiac_failure,303,Cardiac disorders-Infections and infestations,Death
+0.713804714,Haematuria  Bronchitis,297,Renal and urinary disorders-Infections and infestations,Death
+0.704819277,Cardiac_arrest  Back_pain,332,Cardiac disorders-Musculoskeletal and connective tissue disorders,Death
+0.703947368,Multi-organ_failure  Atrial_fibrillation,304,General disorders-Cardiac disorders,Death
+0.700657895,Vertigo  Sepsis,304,Ear and labyrinth disorders-Infections and infestations,Death
+0.699669967,Femur_fracture  Back_pain,303,"Injury, poisoning and procedural complications-Musculoskeletal and connective tissue disorders",Death
+0.699386503,Septic_shock  Back_pain,326,Infections and infestations-Musculoskeletal and connective tissue disorders,Death
+0.699115044,Cardiac_arrest  Cardiac_failure,339,Cardiac disorders,Death
+0.698717949,Dizziness  Respiratory_failure,312,"Nervous system disorders-Respiratory, thoracic and mediastinal disorders",Death
