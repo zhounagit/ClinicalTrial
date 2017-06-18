@@ -12,3 +12,7 @@
 - For more source data, please refer to Appendix.doc.
 - Analyzing Lethal Adverse Event Association Patterns in Clinical Trials_Draft.docx is the earlier version of paper draft, the classfication model on 3040 selected features can be considered in final paper. 
 - Refer to /Users/HIA/Na/serious or ~/other for more test results.
+- Startup mongoDB : /Users/HIA/project/tool/mongoDB
+  sh start-db.sh 
+  use Robomongo viewer to check each trial structure.
+- Desktop/weiheng/Readme/schema.txt to get each data element.
