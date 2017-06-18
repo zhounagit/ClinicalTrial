@@ -10,3 +10,4 @@
   For other classification source code, please refer to spark-rdd-dataframe-dataset-master project in IntelliJ IDEA.
 - Folder gephi graph (demo) folders have previous graphs made to domenstrate top high confidence/frequency serious adverse events to event "Death". 
 - For more source data, please refer to Appendix.doc.
+- Analyzing Lethal Adverse Event Association Patterns in Clinical Trials_Draft.docx is the earlier version of paper draft, the classfication model on 3040 selected features can be considered in final paper. 
