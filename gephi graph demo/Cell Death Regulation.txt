@@ -1,0 +1,165 @@
+degree	source	target	source_dept	target_dept	type
+36	Dowlati A	Houghton J	Developmental Therapeutics	Cell Death Regulation	undirected
+36	Fu P	Oleinick N	Developmental Therapeutics	Cell Death Regulation	undirected
+29	Gerson S	Lindner D	Hematopoietic Disorders	Cell Death Regulation	undirected
+25	Rini B	Lindner D	GU Malignancies	Cell Death Regulation	undirected
+23	Maciejewski J	Macklis R	Hematopoietic Disorders	Cell Death Regulation	undirected
+23	Maciejewski J	Houghton J	Hematopoietic Disorders	Cell Death Regulation	undirected
+23	Maciejewski J	Almasan A	Hematopoietic Disorders	Cell Death Regulation	undirected
+21	Borden E	Lindner D	Developmental Therapeutics	Cell Death Regulation	undirected
+20	Kalaycio M	Macklis R	Hematopoietic Disorders	Cell Death Regulation	undirected
+20	Kalaycio M	Houghton J	Hematopoietic Disorders	Cell Death Regulation	undirected
+20	Kalaycio M	Almasan A	Hematopoietic Disorders	Cell Death Regulation	undirected
+16	Kunos C	Oleinick N	Developmental Therapeutics	Cell Death Regulation	undirected
+16	Hsi E	Almasan A	Hematopoietic Disorders	Cell Death Regulation	undirected
+16	Copelan E	Macklis R	Hematopoietic Disorders	Cell Death Regulation	undirected
+16	Triozzi P	Lindner D	Developmental Therapeutics	Cell Death Regulation	undirected
+16	Schluchter M	Oleinick N	Developmental Therapeutics	Cell Death Regulation	undirected
+15	Chance M	Letterio J	Cancer Genetics	Cell Death Regulation	undirected
+15	Stark G	Bao S	Cancer Cell Signaling	Cell Death Regulation	undirected
+15	Sobecks R	Macklis R	Hematopoietic Disorders	Cell Death Regulation	undirected
+14	Lee Z	Luo G	Cancer Imaging	Cell Death Regulation	undirected
+14	Sloan A	Bao S	Developmental Therapeutics	Cell Death Regulation	undirected
+13	Radivoyevitch T	Oleinick N	Cancer Imaging	Cell Death Regulation	undirected
+13	Cooper K	Lam M	Hematopoietic Disorders	Cell Death Regulation	undirected
+13	Cooper K	Kenney M	Hematopoietic Disorders	Cell Death Regulation	undirected
+13	Cooper K	Oleinick N	Hematopoietic Disorders	Cell Death Regulation	undirected
+13	Cooper K	Matsuyama S	Hematopoietic Disorders	Cell Death Regulation	undirected
+13	Basilion J	Kenney M	Cancer Imaging	Cell Death Regulation	undirected
+13	Oleinick N	Baron E	Cell Death Regulation	Developmental Therapeutics	undirected
+13	Oleinick N	Lam M	Cell Death Regulation	Cell Death Regulation	undirected
+13	Oleinick N	Kenney M	Cell Death Regulation	Cell Death Regulation	undirected
+13	Oleinick N	Burda C	Cell Death Regulation	Developmental Therapeutics	undirected
+13	Oleinick N	Lavertu P	Cell Death Regulation	Developmental Therapeutics	undirected
+13	Oleinick N	Kunos C	Cell Death Regulation	Developmental Therapeutics	undirected
+13	Oleinick N	Cooper K	Cell Death Regulation	Hematopoietic Disorders	undirected
+13	Oleinick N	Fu P	Cell Death Regulation	Developmental Therapeutics	undirected
+13	Oleinick N	Schluchter M	Cell Death Regulation	Developmental Therapeutics	undirected
+13	Oleinick N	Radivoyevitch T	Cell Death Regulation	Cancer Imaging	undirected
+13	Oleinick N	Pink J	Cell Death Regulation	Developmental Therapeutics	undirected
+12	Sweetenham J	Macklis R	Hematopoietic Disorders	Cell Death Regulation	undirected
+12	Saunthararajah Y	Lindner D	Hematopoietic Disorders	Cell Death Regulation	undirected
+12	Bolwell B	Macklis R	Hematopoietic Disorders	Cell Death Regulation	undirected
+12	Pohlman B	Macklis R	Hematopoietic Disorders	Cell Death Regulation	undirected
+11	Kaplan D	Sy M	Hematopoietic Disorders	Cell Death Regulation	undirected
+11	Mccrae K	Luo G	Cancer Cell Signaling	Cell Death Regulation	undirected
+11	Liu L	Lindner D	Developmental Therapeutics	Cell Death Regulation	undirected
+11	Pink J	Oleinick N	Developmental Therapeutics	Cell Death Regulation	undirected
+11	Eng C	Houghton J	Cancer Genetics	Cell Death Regulation	undirected
+11	Eng C	Tanaka H	Cancer Genetics	Cell Death Regulation	undirected
+10	Dean R	Macklis R	Hematopoietic Disorders	Cell Death Regulation	undirected
+10	Weinberg A	Jin G	Cancer Prevention, Control and Population Research	Cell Death Regulation	undirected
+10	Lindner D	Saunthararajah Y	Cell Death Regulation	Hematopoietic Disorders	undirected
+10	Lindner D	Gerson S	Cell Death Regulation	Hematopoietic Disorders	undirected
+10	Lindner D	Borden E	Cell Death Regulation	Developmental Therapeutics	undirected
+10	Lindner D	Yi T	Cell Death Regulation	Developmental Therapeutics	undirected
+10	Lindner D	Liu L	Cell Death Regulation	Developmental Therapeutics	undirected
+10	Lindner D	Apte S	Cell Death Regulation	Cancer Cell Signaling	undirected
+10	Lindner D	Rini B	Cell Death Regulation	GU Malignancies	undirected
+10	Lindner D	Triozzi P	Cell Death Regulation	Developmental Therapeutics	undirected
+10	Rich J	Bao S	Cancer Cell Signaling	Cell Death Regulation	undirected
+9	Lee J	Bao S	Cancer Cell Signaling	Cell Death Regulation	undirected
+9	Wang B	Luo G	GU Malignancies	Cell Death Regulation	undirected
+9	Macklis R	Copelan E	Cell Death Regulation	Hematopoietic Disorders	undirected
+9	Macklis R	Sweetenham J	Cell Death Regulation	Hematopoietic Disorders	undirected
+9	Macklis R	Maciejewski J	Cell Death Regulation	Hematopoietic Disorders	undirected
+9	Macklis R	Bolwell B	Cell Death Regulation	Hematopoietic Disorders	undirected
+9	Macklis R	Pohlman B	Cell Death Regulation	Hematopoietic Disorders	undirected
+9	Macklis R	Kalaycio M	Cell Death Regulation	Hematopoietic Disorders	undirected
+9	Macklis R	Sobecks R	Cell Death Regulation	Hematopoietic Disorders	undirected
+9	Macklis R	Almasan A	Cell Death Regulation	Cell Death Regulation	undirected
+9	Macklis R	Dean R	Cell Death Regulation	Hematopoietic Disorders	undirected
+9	Lathia J	Bao S	Cancer Cell Signaling	Cell Death Regulation	undirected
+9	Danielpour D	Matsuyama S	GU Malignancies	Cell Death Regulation	undirected
+9	Kenney M	Oleinick N	Cell Death Regulation	Cell Death Regulation	undirected
+9	Kenney M	Burda C	Cell Death Regulation	Developmental Therapeutics	undirected
+9	Kenney M	Cooper K	Cell Death Regulation	Hematopoietic Disorders	undirected
+9	Kenney M	Basilion J	Cell Death Regulation	Cancer Imaging	undirected
+9	Kenney M	Baron E	Cell Death Regulation	Developmental Therapeutics	undirected
+9	Kenney M	Lam M	Cell Death Regulation	Cell Death Regulation	undirected
+9	Kenney M	Broome A	Cell Death Regulation	Cancer Imaging	undirected
+8	Lavertu P	Oleinick N	Developmental Therapeutics	Cell Death Regulation	undirected
+8	Koon H	Jin G	Cancer Imaging	Cell Death Regulation	undirected
+8	Hjelmeland A	Bao S	Cancer Cell Signaling	Cell Death Regulation	undirected
+7	Lam M	Cooper K	Cell Death Regulation	Hematopoietic Disorders	undirected
+7	Lam M	Oleinick N	Cell Death Regulation	Cell Death Regulation	undirected
+7	Lam M	Kao H	Cell Death Regulation	Cancer Cell Signaling	undirected
+7	Lam M	Matsuyama S	Cell Death Regulation	Cell Death Regulation	undirected
+7	Lam M	Kenney M	Cell Death Regulation	Cell Death Regulation	undirected
+7	Lam M	Baron E	Cell Death Regulation	Developmental Therapeutics	undirected
+7	Lam M	Distelhorst C	Cell Death Regulation	Cell Death Regulation	undirected
+7	Hambardzumyan D	Bao S	Cancer Cell Signaling	Cell Death Regulation	undirected
+7	Bao S	Sloan A	Cell Death Regulation	Developmental Therapeutics	undirected
+7	Bao S	Rich J	Cell Death Regulation	Cancer Cell Signaling	undirected
+7	Bao S	Stark G	Cell Death Regulation	Cancer Cell Signaling	undirected
+7	Bao S	Lathia J	Cell Death Regulation	Cancer Cell Signaling	undirected
+7	Bao S	Hjelmeland A	Cell Death Regulation	Cancer Cell Signaling	undirected
+7	Bao S	Lee J	Cell Death Regulation	Cancer Cell Signaling	undirected
+7	Bao S	Hambardzumyan D	Cell Death Regulation	Cancer Cell Signaling	undirected
+7	Almasan A	Fairchild R	Cell Death Regulation	Hematopoietic Disorders	undirected
+7	Almasan A	Hsi E	Cell Death Regulation	Hematopoietic Disorders	undirected
+7	Almasan A	Houghton J	Cell Death Regulation	Cell Death Regulation	undirected
+7	Almasan A	Maciejewski J	Cell Death Regulation	Hematopoietic Disorders	undirected
+7	Almasan A	Kalaycio M	Cell Death Regulation	Hematopoietic Disorders	undirected
+7	Almasan A	Matsuyama S	Cell Death Regulation	Cell Death Regulation	undirected
+7	Almasan A	Macklis R	Cell Death Regulation	Cell Death Regulation	undirected
+7	Matsuyama S	Distelhorst C	Cell Death Regulation	Cell Death Regulation	undirected
+7	Matsuyama S	Lam M	Cell Death Regulation	Cell Death Regulation	undirected
+7	Matsuyama S	Danielpour D	Cell Death Regulation	GU Malignancies	undirected
+7	Matsuyama S	Wald D	Cell Death Regulation	Developmental Therapeutics	undirected
+7	Matsuyama S	Almasan A	Cell Death Regulation	Cell Death Regulation	undirected
+7	Matsuyama S	Cooper K	Cell Death Regulation	Hematopoietic Disorders	undirected
+7	Baron E	Oleinick N	Developmental Therapeutics	Cell Death Regulation	undirected
+7	Baron E	Kenney M	Developmental Therapeutics	Cell Death Regulation	undirected
+7	Baron E	Lam M	Developmental Therapeutics	Cell Death Regulation	undirected
+7	Huang A	Letterio J	Hematopoietic Disorders	Cell Death Regulation	undirected
+7	Yi T	Lindner D	Developmental Therapeutics	Cell Death Regulation	undirected
+7	Letterio J	Huang A	Cell Death Regulation	Hematopoietic Disorders	undirected
+7	Letterio J	Cooke K	Cell Death Regulation	Hematopoietic Disorders	undirected
+7	Letterio J	Chance M	Cell Death Regulation	Cancer Genetics	undirected
+7	Letterio J	Min B	Cell Death Regulation	Hematopoietic Disorders	undirected
+7	Letterio J	Auletta J	Cell Death Regulation	Hematopoietic Disorders	undirected
+7	Letterio J	Tochtrop G	Cell Death Regulation	Developmental Therapeutics	undirected
+7	Kao H	Lam M	Cancer Cell Signaling	Cell Death Regulation	undirected
+7	Fox P	Jin G	Cancer Cell Signaling	Cell Death Regulation	undirected
+6	Broome A	Kenney M	Cancer Imaging	Cell Death Regulation	undirected
+6	Wald D	Matsuyama S	Developmental Therapeutics	Cell Death Regulation	undirected
+5	Jin G	Weinberg A	Cell Death Regulation	Cancer Prevention, Control and Population Research	undirected
+5	Jin G	Koon H	Cell Death Regulation	Cancer Imaging	undirected
+5	Jin G	Fox P	Cell Death Regulation	Cancer Cell Signaling	undirected
+5	Burda C	Kenney M	Developmental Therapeutics	Cell Death Regulation	undirected
+5	Burda C	Oleinick N	Developmental Therapeutics	Cell Death Regulation	undirected
+5	Luo G	Lou H	Cell Death Regulation	Cancer Genetics	undirected
+5	Luo G	Mccrae K	Cell Death Regulation	Cancer Cell Signaling	undirected
+5	Luo G	Wang B	Cell Death Regulation	GU Malignancies	undirected
+5	Luo G	Lee Z	Cell Death Regulation	Cancer Imaging	undirected
+5	Luo G	Schmaier A	Cell Death Regulation	Cancer Cell Signaling	undirected
+5	Haaga J	Welford S	Cancer Imaging	Cell Death Regulation	undirected
+5	Sy M	Kaplan D	Cell Death Regulation	Hematopoietic Disorders	undirected
+5	Sy M	Singh N	Cell Death Regulation	Cell Death Regulation	undirected
+5	Schmaier A	Luo G	Cancer Cell Signaling	Cell Death Regulation	undirected
+5	Houghton J	Dowlati A	Cell Death Regulation	Developmental Therapeutics	undirected
+5	Houghton J	Eng C	Cell Death Regulation	Cancer Genetics	undirected
+5	Houghton J	Maciejewski J	Cell Death Regulation	Hematopoietic Disorders	undirected
+5	Houghton J	Almasan A	Cell Death Regulation	Cell Death Regulation	undirected
+5	Houghton J	Kalaycio M	Cell Death Regulation	Hematopoietic Disorders	undirected
+5	Cooke K	Letterio J	Hematopoietic Disorders	Cell Death Regulation	undirected
+4	Brunengraber H	Mieyal J	Aging-Cancer Research	Cell Death Regulation	undirected
+4	Auletta J	Letterio J	Hematopoietic Disorders	Cell Death Regulation	undirected
+4	Distelhorst C	Matsuyama S	Cell Death Regulation	Cell Death Regulation	undirected
+4	Distelhorst C	Lam M	Cell Death Regulation	Cell Death Regulation	undirected
+4	Distelhorst C	Yee V	Cell Death Regulation	Cell Death Regulation	undirected
+3	Min B	Letterio J	Hematopoietic Disorders	Cell Death Regulation	undirected
+3	Singh N	Sy M	Cell Death Regulation	Cell Death Regulation	undirected
+2	Tochtrop G	Letterio J	Developmental Therapeutics	Cell Death Regulation	undirected
+2	Nilsen T	Valadkhan S	Cancer Genetics	Cell Death Regulation	undirected
+2	Leahy P	Haldar S	NPA (core)	Cell Death Regulation	undirected
+2	Welford S	Haaga J	Cell Death Regulation	Cancer Imaging	undirected
+2	Lou H	Luo G	Cancer Genetics	Cell Death Regulation	undirected
+2	Fairchild R	Almasan A	Hematopoietic Disorders	Cell Death Regulation	undirected
+1	Yee V	Distelhorst C	Cell Death Regulation	Cell Death Regulation	undirected
+1	Tanaka H	Eng C	Cell Death Regulation	Cancer Genetics	undirected
+1	Haldar S	Leahy P	Cell Death Regulation	NPA (core)	undirected
+1	Valadkhan S	Nilsen T	Cell Death Regulation	Cancer Genetics	undirected
+1	Apte S	Lindner D	Cancer Cell Signaling	Cell Death Regulation	undirected
+1	Mieyal J	Brunengraber H	Cell Death Regulation	Aging-Cancer Research	undirected

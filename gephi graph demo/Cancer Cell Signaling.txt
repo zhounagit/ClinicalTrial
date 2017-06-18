@@ -1,0 +1,291 @@
+degree	source	target	source_dept	target_dept	type
+36	Fu P	Levine A	Developmental Therapeutics	Cancer Cell Signaling	undirected
+36	Fu P	Mccrae K	Developmental Therapeutics	Cancer Cell Signaling	undirected
+23	Klein E	Manor D	GU Malignancies	Cancer Cell Signaling	undirected
+20	Flask C	Schiemann W	Cancer Imaging	Cancer Cell Signaling	undirected
+20	Flask C	Jain M	Cancer Imaging	Cancer Cell Signaling	undirected
+20	Flask C	Miller R	Cancer Imaging	Cancer Cell Signaling	undirected
+17	Willis J	Kao H	Cancer Genetics	Cancer Cell Signaling	undirected
+17	Willis J	Gerken T	Cancer Genetics	Cancer Cell Signaling	undirected
+17	Lazarus H	Mccrae K	Hematopoietic Disorders	Cancer Cell Signaling	undirected
+17	Lazarus H	Schmaier A	Hematopoietic Disorders	Cancer Cell Signaling	undirected
+16	Kunos C	Abdul karim F	Developmental Therapeutics	Cancer Cell Signaling	undirected
+16	Vogelbaum M	Gladson C	Developmental Therapeutics	Cancer Cell Signaling	undirected
+16	Markowitz S	Gerken T	Cancer Genetics	Cancer Cell Signaling	undirected
+16	Elston R	Buck M	Cancer Genetics	Cancer Cell Signaling	undirected
+15	Chance M	Hamilton T	Cancer Genetics	Cancer Cell Signaling	undirected
+15	Chance M	Egelhoff T	Cancer Genetics	Cancer Cell Signaling	undirected
+15	Chance M	Stark G	Cancer Genetics	Cancer Cell Signaling	undirected
+15	Chance M	Misra S	Cancer Genetics	Cancer Cell Signaling	undirected
+15	Chance M	Li X	Cancer Genetics	Cancer Cell Signaling	undirected
+15	Berger N	Rich J	Aging-Cancer Research	Cancer Cell Signaling	undirected
+15	Stark G	Lee J	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+15	Stark G	Lathia J	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+15	Stark G	Jackson M	Cancer Cell Signaling	Cancer Genetics	undirected
+15	Stark G	Rich J	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+15	Stark G	Hambardzumyan D	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+15	Stark G	Hjelmeland A	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+15	Stark G	Hamilton T	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+15	Stark G	Ransohoff R	Cancer Cell Signaling	Hematopoietic Disorders	undirected
+15	Stark G	Li X	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+15	Stark G	Bao S	Cancer Cell Signaling	Cell Death Regulation	undirected
+15	Stark G	Chance M	Cancer Cell Signaling	Cancer Genetics	undirected
+15	Stark G	Sen G	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+15	Stark G	Sloan A	Cancer Cell Signaling	Developmental Therapeutics	undirected
+15	Stark G	Jacobberger J	Cancer Cell Signaling	Cancer Imaging	undirected
+15	Barnholtz sloan J	Gerken T	Cancer Genetics	Cancer Cell Signaling	undirected
+15	Barnholtz sloan J	Manor D	Cancer Genetics	Cancer Cell Signaling	undirected
+14	Sloan A	Lee J	Developmental Therapeutics	Cancer Cell Signaling	undirected
+14	Sloan A	Hambardzumyan D	Developmental Therapeutics	Cancer Cell Signaling	undirected
+14	Sloan A	Lathia J	Developmental Therapeutics	Cancer Cell Signaling	undirected
+14	Sloan A	Miller R	Developmental Therapeutics	Cancer Cell Signaling	undirected
+14	Sloan A	Hjelmeland A	Developmental Therapeutics	Cancer Cell Signaling	undirected
+14	Sloan A	Brady kalnay S	Developmental Therapeutics	Cancer Cell Signaling	undirected
+14	Sloan A	Rich J	Developmental Therapeutics	Cancer Cell Signaling	undirected
+14	Sloan A	Stark G	Developmental Therapeutics	Cancer Cell Signaling	undirected
+13	Wiesner G	Gerken T	Cancer Genetics	Cancer Cell Signaling	undirected
+13	Radivoyevitch T	Abdul karim F	Cancer Imaging	Cancer Cell Signaling	undirected
+13	Cooper K	Levine A	Hematopoietic Disorders	Cancer Cell Signaling	undirected
+13	Basilion J	Miller R	Cancer Imaging	Cancer Cell Signaling	undirected
+13	Basilion J	Brady kalnay S	Cancer Imaging	Cancer Cell Signaling	undirected
+12	Miller R	Caplan A	Cancer Cell Signaling	Hematopoietic Disorders	undirected
+12	Miller R	Basilion J	Cancer Cell Signaling	Cancer Imaging	undirected
+12	Miller R	Scacheri P	Cancer Cell Signaling	Cancer Genetics	undirected
+12	Miller R	Wang Y	Cancer Cell Signaling	Cancer Imaging	undirected
+12	Miller R	Ransohoff R	Cancer Cell Signaling	Hematopoietic Disorders	undirected
+12	Miller R	Sloan A	Cancer Cell Signaling	Developmental Therapeutics	undirected
+12	Miller R	Tesar P	Cancer Cell Signaling	Hematopoietic Disorders	undirected
+12	Miller R	Medof M	Cancer Cell Signaling	Hematopoietic Disorders	undirected
+12	Miller R	Flask C	Cancer Cell Signaling	Cancer Imaging	undirected
+12	Miller R	Brady kalnay S	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+12	Miller R	Landreth G	Cancer Cell Signaling	Developmental Therapeutics	undirected
+11	Mccrae K	Luo G	Cancer Cell Signaling	Cell Death Regulation	undirected
+11	Mccrae K	Fu P	Cancer Cell Signaling	Developmental Therapeutics	undirected
+11	Mccrae K	Lazarus H	Cancer Cell Signaling	Hematopoietic Disorders	undirected
+11	Mccrae K	Baar J	Cancer Cell Signaling	Developmental Therapeutics	undirected
+11	Mccrae K	Silverman P	Cancer Cell Signaling	Developmental Therapeutics	undirected
+11	Mccrae K	Jain M	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+11	Mccrae K	Leeming R	Cancer Cell Signaling	Developmental Therapeutics	undirected
+11	Mccrae K	Schmaier A	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+11	Mccrae K	Qu C	Cancer Cell Signaling	Hematopoietic Disorders	undirected
+11	Silverman R	Sen G	GU Malignancies	Cancer Cell Signaling	undirected
+11	Pink J	Montano M	Developmental Therapeutics	Cancer Cell Signaling	undirected
+11	Wang Z	Kao H	Cancer Genetics	Cancer Cell Signaling	undirected
+11	Wang Z	Brady kalnay S	Cancer Genetics	Cancer Cell Signaling	undirected
+11	Jacobberger J	Stark G	Cancer Imaging	Cancer Cell Signaling	undirected
+10	Lindner D	Apte S	Cell Death Regulation	Cancer Cell Signaling	undirected
+10	Guda K	Kao H	Cancer Genetics	Cancer Cell Signaling	undirected
+10	Rich J	Hambardzumyan D	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+10	Rich J	Huang A	Cancer Cell Signaling	Hematopoietic Disorders	undirected
+10	Rich J	Stark G	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+10	Rich J	Reizes O	Cancer Cell Signaling	Aging-Cancer Research	undirected
+10	Rich J	Lee J	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+10	Rich J	Bao S	Cancer Cell Signaling	Cell Death Regulation	undirected
+10	Rich J	Sloan A	Cancer Cell Signaling	Developmental Therapeutics	undirected
+10	Rich J	Lathia J	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+10	Rich J	Berger N	Cancer Cell Signaling	Aging-Cancer Research	undirected
+10	Rich J	Hjelmeland A	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+10	Laframboise T	Levine A	Cancer Genetics	Cancer Cell Signaling	undirected
+10	Jain M	Yang Y	Cancer Cell Signaling	Developmental Therapeutics	undirected
+10	Jain M	Nieman M	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+10	Jain M	Schmaier A	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+10	Jain M	Keri R	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+10	Jain M	Flask C	Cancer Cell Signaling	Cancer Imaging	undirected
+10	Jain M	Leahy P	Cancer Cell Signaling	NPA (core)	undirected
+10	Jain M	Noy N	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+10	Jain M	Kim J	Cancer Cell Signaling	Cancer Imaging	undirected
+10	Jain M	Mccrae K	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+9	Lee J	Sloan A	Cancer Cell Signaling	Developmental Therapeutics	undirected
+9	Lee J	Lathia J	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+9	Lee J	Stark G	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+9	Lee J	Hambardzumyan D	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+9	Lee J	Rich J	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+9	Lee J	Weil R	Cancer Cell Signaling	Developmental Therapeutics	undirected
+9	Lee J	Bao S	Cancer Cell Signaling	Cell Death Regulation	undirected
+9	Lee J	Hjelmeland A	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+9	Lee J	Gladson C	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+9	Weil R	Gladson C	Developmental Therapeutics	Cancer Cell Signaling	undirected
+9	Weil R	Lee J	Developmental Therapeutics	Cancer Cell Signaling	undirected
+9	Wang B	Buck M	GU Malignancies	Cancer Cell Signaling	undirected
+9	Wang Y	Miller R	Cancer Imaging	Cancer Cell Signaling	undirected
+9	Dawson D	Gerken T	Cancer Genetics	Cancer Cell Signaling	undirected
+9	Lathia J	Hambardzumyan D	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+9	Lathia J	Lee J	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+9	Lathia J	Sloan A	Cancer Cell Signaling	Developmental Therapeutics	undirected
+9	Lathia J	Stark G	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+9	Lathia J	Hjelmeland A	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+9	Lathia J	Huang A	Cancer Cell Signaling	Hematopoietic Disorders	undirected
+9	Lathia J	Bao S	Cancer Cell Signaling	Cell Death Regulation	undirected
+9	Lathia J	Ransohoff R	Cancer Cell Signaling	Hematopoietic Disorders	undirected
+9	Lathia J	Rich J	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+9	Danielpour D	Manor D	GU Malignancies	Cancer Cell Signaling	undirected
+8	Ahluwalia M	Gladson C	Developmental Therapeutics	Cancer Cell Signaling	undirected
+8	Hjelmeland A	Hambardzumyan D	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+8	Hjelmeland A	Huang A	Cancer Cell Signaling	Hematopoietic Disorders	undirected
+8	Hjelmeland A	Lathia J	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+8	Hjelmeland A	Stark G	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+8	Hjelmeland A	Sloan A	Cancer Cell Signaling	Developmental Therapeutics	undirected
+8	Hjelmeland A	Bao S	Cancer Cell Signaling	Cell Death Regulation	undirected
+8	Hjelmeland A	Lee J	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+8	Hjelmeland A	Rich J	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+7	Kim J	Jain M	Cancer Imaging	Cancer Cell Signaling	undirected
+7	Lam M	Kao H	Cell Death Regulation	Cancer Cell Signaling	undirected
+7	Waggoner S	Abdul karim F	Developmental Therapeutics	Cancer Cell Signaling	undirected
+7	Hambardzumyan D	Lathia J	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+7	Hambardzumyan D	Rich J	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+7	Hambardzumyan D	Hjelmeland A	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+7	Hambardzumyan D	Sloan A	Cancer Cell Signaling	Developmental Therapeutics	undirected
+7	Hambardzumyan D	Stark G	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+7	Hambardzumyan D	Lee J	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+7	Hambardzumyan D	Bao S	Cancer Cell Signaling	Cell Death Regulation	undirected
+7	Bao S	Rich J	Cell Death Regulation	Cancer Cell Signaling	undirected
+7	Bao S	Stark G	Cell Death Regulation	Cancer Cell Signaling	undirected
+7	Bao S	Lathia J	Cell Death Regulation	Cancer Cell Signaling	undirected
+7	Bao S	Hjelmeland A	Cell Death Regulation	Cancer Cell Signaling	undirected
+7	Bao S	Lee J	Cell Death Regulation	Cancer Cell Signaling	undirected
+7	Bao S	Hambardzumyan D	Cell Death Regulation	Cancer Cell Signaling	undirected
+7	Wilson D	Brady kalnay S	Cancer Imaging	Cancer Cell Signaling	undirected
+7	Li X	Misra S	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+7	Li X	Fox P	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+7	Li X	Stark G	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+7	Li X	Min B	Cancer Cell Signaling	Hematopoietic Disorders	undirected
+7	Li X	Sen G	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+7	Li X	Chance M	Cancer Cell Signaling	Cancer Genetics	undirected
+7	Li X	Hamilton T	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+7	Huang A	Rich J	Hematopoietic Disorders	Cancer Cell Signaling	undirected
+7	Huang A	Hjelmeland A	Hematopoietic Disorders	Cancer Cell Signaling	undirected
+7	Huang A	Lathia J	Hematopoietic Disorders	Cancer Cell Signaling	undirected
+7	Keri R	Egelhoff T	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+7	Keri R	Sen G	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+7	Keri R	Jain M	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+7	Keri R	Schiemann W	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+7	Keri R	Reizes O	Cancer Cell Signaling	Aging-Cancer Research	undirected
+7	Keri R	Abdul karim F	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+7	Keri R	Montano M	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+7	Scacheri P	Miller R	Cancer Genetics	Cancer Cell Signaling	undirected
+7	Kao H	Wang Z	Cancer Cell Signaling	Cancer Genetics	undirected
+7	Kao H	Lam M	Cancer Cell Signaling	Cell Death Regulation	undirected
+7	Kao H	Guda K	Cancer Cell Signaling	Cancer Genetics	undirected
+7	Kao H	Xu Y	Cancer Cell Signaling	Developmental Therapeutics	undirected
+7	Kao H	Willis J	Cancer Cell Signaling	Cancer Genetics	undirected
+7	Kao H	Sedwick W	Cancer Cell Signaling	Cancer Genetics	undirected
+7	Xu Y	Montano M	Developmental Therapeutics	Cancer Cell Signaling	undirected
+7	Xu Y	Kao H	Developmental Therapeutics	Cancer Cell Signaling	undirected
+7	Fox P	Hamilton T	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+7	Fox P	Li X	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+7	Fox P	Willard B	Cancer Cell Signaling	NPA (core)	undirected
+7	Fox P	Jin G	Cancer Cell Signaling	Cell Death Regulation	undirected
+7	Fox P	Misra S	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+6	Sedwick W	Kao H	Cancer Genetics	Cancer Cell Signaling	undirected
+6	Misra S	Li X	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+6	Misra S	Hamilton T	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+6	Misra S	Qin J	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+6	Misra S	Chance M	Cancer Cell Signaling	Cancer Genetics	undirected
+6	Misra S	Fox P	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+6	Gladson C	Ahluwalia M	Cancer Cell Signaling	Developmental Therapeutics	undirected
+6	Gladson C	Vogelbaum M	Cancer Cell Signaling	Developmental Therapeutics	undirected
+6	Gladson C	Weil R	Cancer Cell Signaling	Developmental Therapeutics	undirected
+6	Gladson C	Lee J	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+6	Montano M	Xu Y	Cancer Cell Signaling	Developmental Therapeutics	undirected
+6	Montano M	Albert J	Cancer Cell Signaling	NPA (core)	undirected
+6	Montano M	Berdis A	Cancer Cell Signaling	Developmental Therapeutics	undirected
+6	Montano M	Pink J	Cancer Cell Signaling	Developmental Therapeutics	undirected
+6	Montano M	Keri R	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+6	Jackson M	Stark G	Cancer Genetics	Cancer Cell Signaling	undirected
+6	Brady kalnay S	Wilson D	Cancer Cell Signaling	Cancer Imaging	undirected
+6	Brady kalnay S	Wang Z	Cancer Cell Signaling	Cancer Genetics	undirected
+6	Brady kalnay S	Sloan A	Cancer Cell Signaling	Developmental Therapeutics	undirected
+6	Brady kalnay S	Basilion J	Cancer Cell Signaling	Cancer Imaging	undirected
+6	Brady kalnay S	Miller R	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+6	Byzova T	Qin J	GU Malignancies	Cancer Cell Signaling	undirected
+6	Byzova T	Plow E	GU Malignancies	Cancer Cell Signaling	undirected
+6	Byzova T	Sossey alaoui K	GU Malignancies	Cancer Cell Signaling	undirected
+6	Albert J	Montano M	NPA (core)	Cancer Cell Signaling	undirected
+5	Jin G	Fox P	Cell Death Regulation	Cancer Cell Signaling	undirected
+5	Plow E	Wang Q	Cancer Cell Signaling	NPA (core)	undirected
+5	Plow E	Sossey alaoui K	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+5	Plow E	Byzova T	Cancer Cell Signaling	GU Malignancies	undirected
+5	Plow E	Qin J	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+5	Luo G	Mccrae K	Cell Death Regulation	Cancer Cell Signaling	undirected
+5	Luo G	Schmaier A	Cell Death Regulation	Cancer Cell Signaling	undirected
+5	Hamilton T	Fox P	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+5	Hamilton T	Chance M	Cancer Cell Signaling	Cancer Genetics	undirected
+5	Hamilton T	Misra S	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+5	Hamilton T	Stark G	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+5	Hamilton T	Li X	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+5	Leeming R	Mccrae K	Developmental Therapeutics	Cancer Cell Signaling	undirected
+5	Abdul karim F	Kunos C	Cancer Cell Signaling	Developmental Therapeutics	undirected
+5	Abdul karim F	Schiemann W	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+5	Abdul karim F	Radivoyevitch T	Cancer Cell Signaling	Cancer Imaging	undirected
+5	Abdul karim F	Keri R	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+5	Abdul karim F	Waggoner S	Cancer Cell Signaling	Developmental Therapeutics	undirected
+5	Willard B	Fox P	NPA (core)	Cancer Cell Signaling	undirected
+5	Tesar P	Miller R	Hematopoietic Disorders	Cancer Cell Signaling	undirected
+5	Gerken T	Barnholtz sloan J	Cancer Cell Signaling	Cancer Genetics	undirected
+5	Gerken T	Markowitz S	Cancer Cell Signaling	Cancer Genetics	undirected
+5	Gerken T	Dawson D	Cancer Cell Signaling	Cancer Genetics	undirected
+5	Gerken T	Wiesner G	Cancer Cell Signaling	Cancer Genetics	undirected
+5	Gerken T	Willis J	Cancer Cell Signaling	Cancer Genetics	undirected
+5	Schmaier A	Jain M	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+5	Schmaier A	Nieman M	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+5	Schmaier A	Mccrae K	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+5	Schmaier A	Lazarus H	Cancer Cell Signaling	Hematopoietic Disorders	undirected
+5	Schmaier A	Luo G	Cancer Cell Signaling	Cell Death Regulation	undirected
+4	Manor D	Klein E	Cancer Cell Signaling	GU Malignancies	undirected
+4	Manor D	Barnholtz sloan J	Cancer Cell Signaling	Cancer Genetics	undirected
+4	Manor D	Danielpour D	Cancer Cell Signaling	GU Malignancies	undirected
+4	Manor D	Noy N	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+4	Egelhoff T	Reizes O	Cancer Cell Signaling	Aging-Cancer Research	undirected
+4	Egelhoff T	Keri R	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+4	Egelhoff T	Chance M	Cancer Cell Signaling	Cancer Genetics	undirected
+4	Iyengar S	Buck M	Cancer Genetics	Cancer Cell Signaling	undirected
+4	Schiemann W	Abdul karim F	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+4	Schiemann W	Carlin C	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+4	Schiemann W	Flask C	Cancer Cell Signaling	Cancer Imaging	undirected
+4	Schiemann W	Keri R	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+4	Sen G	Keri R	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+4	Sen G	Silverman R	Cancer Cell Signaling	GU Malignancies	undirected
+4	Sen G	Li X	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+4	Sen G	Stark G	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+4	Baar J	Mccrae K	Developmental Therapeutics	Cancer Cell Signaling	undirected
+4	Leidner R	Levine A	Developmental Therapeutics	Cancer Cell Signaling	undirected
+4	Qin J	Byzova T	Cancer Cell Signaling	GU Malignancies	undirected
+4	Qin J	Misra S	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+4	Qin J	Sossey alaoui K	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+4	Qin J	Plow E	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+4	Silverman P	Mccrae K	Developmental Therapeutics	Cancer Cell Signaling	undirected
+4	Caplan A	Miller R	Hematopoietic Disorders	Cancer Cell Signaling	undirected
+4	Levine A	Fu P	Cancer Cell Signaling	Developmental Therapeutics	undirected
+4	Levine A	Leidner R	Cancer Cell Signaling	Developmental Therapeutics	undirected
+4	Levine A	Cooper K	Cancer Cell Signaling	Hematopoietic Disorders	undirected
+4	Levine A	Laframboise T	Cancer Cell Signaling	Cancer Genetics	undirected
+4	Reizes O	Egelhoff T	Aging-Cancer Research	Cancer Cell Signaling	undirected
+4	Reizes O	Rich J	Aging-Cancer Research	Cancer Cell Signaling	undirected
+4	Reizes O	Keri R	Aging-Cancer Research	Cancer Cell Signaling	undirected
+4	Qu C	Mccrae K	Hematopoietic Disorders	Cancer Cell Signaling	undirected
+4	Ransohoff R	Stark G	Hematopoietic Disorders	Cancer Cell Signaling	undirected
+4	Ransohoff R	Miller R	Hematopoietic Disorders	Cancer Cell Signaling	undirected
+4	Ransohoff R	Lathia J	Hematopoietic Disorders	Cancer Cell Signaling	undirected
+3	Buck M	Iyengar S	Cancer Cell Signaling	Cancer Genetics	undirected
+3	Buck M	Wang B	Cancer Cell Signaling	GU Malignancies	undirected
+3	Buck M	Elston R	Cancer Cell Signaling	Cancer Genetics	undirected
+3	Min B	Li X	Hematopoietic Disorders	Cancer Cell Signaling	undirected
+3	Yang Y	Jain M	Developmental Therapeutics	Cancer Cell Signaling	undirected
+3	Sossey alaoui K	Qin J	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+3	Sossey alaoui K	Plow E	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+3	Sossey alaoui K	Byzova T	Cancer Cell Signaling	GU Malignancies	undirected
+3	Medof M	Miller R	Hematopoietic Disorders	Cancer Cell Signaling	undirected
+2	Leahy P	Jain M	NPA (core)	Cancer Cell Signaling	undirected
+2	Noy N	Jain M	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+2	Noy N	Manor D	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+2	Nieman M	Jain M	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+2	Nieman M	Schmaier A	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+2	Fairchild R	Gorbachev A	Hematopoietic Disorders	Cancer Cell Signaling	undirected
+1	Carlin C	Schiemann W	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+1	Wang Q	Plow E	NPA (core)	Cancer Cell Signaling	undirected
+1	Berdis A	Montano M	Developmental Therapeutics	Cancer Cell Signaling	undirected
+1	Apte S	Lindner D	Cancer Cell Signaling	Cell Death Regulation	undirected
+1	Gorbachev A	Fairchild R	Cancer Cell Signaling	Hematopoietic Disorders	undirected
+1	Mcdonald C	Abbott D	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+1	Abbott D	Mcdonald C	Cancer Cell Signaling	Cancer Cell Signaling	undirected
+1	Landreth G	Miller R	Developmental Therapeutics	Cancer Cell Signaling	undirected

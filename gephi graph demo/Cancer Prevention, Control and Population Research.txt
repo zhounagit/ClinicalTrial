@@ -1,0 +1,131 @@
+degree	source	target	source_dept	target_dept	type
+36	Fu P	Lederman M	Developmental Therapeutics	Cancer Prevention, Control and Population Research	undirected
+36	Fu P	Koroukian S	Developmental Therapeutics	Cancer Prevention, Control and Population Research	undirected
+23	Klein E	Wells B	GU Malignancies	Cancer Prevention, Control and Population Research	undirected
+23	Klein E	Kattan M	GU Malignancies	Cancer Prevention, Control and Population Research	undirected
+16	Schluchter M	Koroukian S	Developmental Therapeutics	Cancer Prevention, Control and Population Research	undirected
+16	Schluchter M	Borawski E	Developmental Therapeutics	Cancer Prevention, Control and Population Research	undirected
+16	Elston R	Li L	Cancer Genetics	Cancer Prevention, Control and Population Research	undirected
+15	Chance M	Weinberg A	Cancer Genetics	Cancer Prevention, Control and Population Research	undirected
+15	Berger N	Koroukian S	Aging-Cancer Research	Cancer Prevention, Control and Population Research	undirected
+15	Berger N	Li L	Aging-Cancer Research	Cancer Prevention, Control and Population Research	undirected
+15	Meyerson H	Lederman M	Hematopoietic Disorders	Cancer Prevention, Control and Population Research	undirected
+15	Barnholtz sloan J	Bordeaux J	Cancer Genetics	Cancer Prevention, Control and Population Research	undirected
+15	Barnholtz sloan J	Meropol N	Cancer Genetics	Cancer Prevention, Control and Population Research	undirected
+13	Wiesner G	Zyzanski S	Cancer Genetics	Cancer Prevention, Control and Population Research	undirected
+13	Wiesner G	Werner J	Cancer Genetics	Cancer Prevention, Control and Population Research	undirected
+13	Wiesner G	Marshall P	Cancer Genetics	Cancer Prevention, Control and Population Research	undirected
+13	Wiesner G	Acheson L	Cancer Genetics	Cancer Prevention, Control and Population Research	undirected
+13	Budd G	Moore H	Developmental Therapeutics	Cancer Prevention, Control and Population Research	undirected
+13	Cooper K	Bordeaux J	Hematopoietic Disorders	Cancer Prevention, Control and Population Research	undirected
+13	Stephenson A	Wells B	GU Malignancies	Cancer Prevention, Control and Population Research	undirected
+13	Stephenson A	Kattan M	GU Malignancies	Cancer Prevention, Control and Population Research	undirected
+11	Silverman R	Weinberg A	GU Malignancies	Cancer Prevention, Control and Population Research	undirected
+11	Silverman R	Lederman M	GU Malignancies	Cancer Prevention, Control and Population Research	undirected
+11	Koroukian S	Owusu C	Cancer Prevention, Control and Population Research	Aging-Cancer Research	undirected
+11	Koroukian S	Cherullo E	Cancer Prevention, Control and Population Research	GU Malignancies	undirected
+11	Koroukian S	Schluchter M	Cancer Prevention, Control and Population Research	Developmental Therapeutics	undirected
+11	Koroukian S	Cooper G	Cancer Prevention, Control and Population Research	Cancer Prevention, Control and Population Research	undirected
+11	Koroukian S	Gupta S	Cancer Prevention, Control and Population Research	GU Malignancies	undirected
+11	Koroukian S	Fu P	Cancer Prevention, Control and Population Research	Developmental Therapeutics	undirected
+11	Koroukian S	Berger N	Cancer Prevention, Control and Population Research	Aging-Cancer Research	undirected
+10	Weinberg A	Jin G	Cancer Prevention, Control and Population Research	Cell Death Regulation	undirected
+10	Weinberg A	Silverman R	Cancer Prevention, Control and Population Research	GU Malignancies	undirected
+10	Weinberg A	Koon H	Cancer Prevention, Control and Population Research	Cancer Imaging	undirected
+10	Weinberg A	Harding C	Cancer Prevention, Control and Population Research	Hematopoietic Disorders	undirected
+10	Weinberg A	Chance M	Cancer Prevention, Control and Population Research	Cancer Genetics	undirected
+10	Weinberg A	Lederman M	Cancer Prevention, Control and Population Research	Cancer Prevention, Control and Population Research	undirected
+10	Weinberg A	Demko C	Cancer Prevention, Control and Population Research	Cancer Prevention, Control and Population Research	undirected
+10	Krishnamurthi S	Meropol N	Developmental Therapeutics	Cancer Prevention, Control and Population Research	undirected
+10	Chak A	Cooper G	Cancer Genetics	Cancer Prevention, Control and Population Research	undirected
+10	Chak A	Li L	Cancer Genetics	Cancer Prevention, Control and Population Research	undirected
+9	Gilligan T	Kattan M	GU Malignancies	Cancer Prevention, Control and Population Research	undirected
+9	Gilligan T	Wells B	GU Malignancies	Cancer Prevention, Control and Population Research	undirected
+9	Zyzanski S	Wiesner G	Cancer Prevention, Control and Population Research	Cancer Genetics	undirected
+9	Zyzanski S	Rose J	Cancer Prevention, Control and Population Research	Aging-Cancer Research	undirected
+9	Zyzanski S	Stange K	Cancer Prevention, Control and Population Research	Cancer Prevention, Control and Population Research	undirected
+9	Zyzanski S	Litaker D	Cancer Prevention, Control and Population Research	Cancer Prevention, Control and Population Research	undirected
+9	Zyzanski S	Kodish E	Cancer Prevention, Control and Population Research	Cancer Prevention, Control and Population Research	undirected
+9	Zyzanski S	Werner J	Cancer Prevention, Control and Population Research	Cancer Prevention, Control and Population Research	undirected
+9	Zyzanski S	Acheson L	Cancer Prevention, Control and Population Research	Cancer Prevention, Control and Population Research	undirected
+8	O'toole E	Step M	Aging-Cancer Research	Cancer Prevention, Control and Population Research	undirected
+8	Li L	Acheson L	Cancer Prevention, Control and Population Research	Cancer Prevention, Control and Population Research	undirected
+8	Li L	Nock N	Cancer Prevention, Control and Population Research	Aging-Cancer Research	undirected
+8	Li L	Thompson C	Cancer Prevention, Control and Population Research	Cancer Prevention, Control and Population Research	undirected
+8	Li L	Berger N	Cancer Prevention, Control and Population Research	Aging-Cancer Research	undirected
+8	Li L	Chak A	Cancer Prevention, Control and Population Research	Cancer Genetics	undirected
+8	Li L	Elston R	Cancer Prevention, Control and Population Research	Cancer Genetics	undirected
+8	Koon H	Weinberg A	Cancer Imaging	Cancer Prevention, Control and Population Research	undirected
+8	Lederman M	Meyerson H	Cancer Prevention, Control and Population Research	Hematopoietic Disorders	undirected
+8	Lederman M	Fu P	Cancer Prevention, Control and Population Research	Developmental Therapeutics	undirected
+8	Lederman M	Harding C	Cancer Prevention, Control and Population Research	Hematopoietic Disorders	undirected
+8	Lederman M	Weinberg A	Cancer Prevention, Control and Population Research	Cancer Prevention, Control and Population Research	undirected
+8	Lederman M	Silverman R	Cancer Prevention, Control and Population Research	GU Malignancies	undirected
+8	Lederman M	Demko C	Cancer Prevention, Control and Population Research	Cancer Prevention, Control and Population Research	undirected
+7	Gupta S	Koroukian S	GU Malignancies	Cancer Prevention, Control and Population Research	undirected
+7	Cherullo E	Koroukian S	GU Malignancies	Cancer Prevention, Control and Population Research	undirected
+7	Kattan M	Wells B	Cancer Prevention, Control and Population Research	Cancer Prevention, Control and Population Research	undirected
+7	Kattan M	Meropol N	Cancer Prevention, Control and Population Research	Cancer Prevention, Control and Population Research	undirected
+7	Kattan M	Ciezki J	Cancer Prevention, Control and Population Research	GU Malignancies	undirected
+7	Kattan M	Gilligan T	Cancer Prevention, Control and Population Research	GU Malignancies	undirected
+7	Kattan M	Stephenson A	Cancer Prevention, Control and Population Research	GU Malignancies	undirected
+7	Kattan M	Klein E	Cancer Prevention, Control and Population Research	GU Malignancies	undirected
+7	Ciezki J	Kattan M	GU Malignancies	Cancer Prevention, Control and Population Research	undirected
+7	Rose J	Zyzanski S	Aging-Cancer Research	Cancer Prevention, Control and Population Research	undirected
+7	Rose J	Step M	Aging-Cancer Research	Cancer Prevention, Control and Population Research	undirected
+6	Harding C	Weinberg A	Hematopoietic Disorders	Cancer Prevention, Control and Population Research	undirected
+6	Harding C	Lederman M	Hematopoietic Disorders	Cancer Prevention, Control and Population Research	undirected
+6	Acheson L	Li L	Cancer Prevention, Control and Population Research	Cancer Prevention, Control and Population Research	undirected
+6	Acheson L	Wiesner G	Cancer Prevention, Control and Population Research	Cancer Genetics	undirected
+6	Acheson L	Thompson C	Cancer Prevention, Control and Population Research	Cancer Prevention, Control and Population Research	undirected
+6	Acheson L	Zyzanski S	Cancer Prevention, Control and Population Research	Cancer Prevention, Control and Population Research	undirected
+6	Acheson L	Werner J	Cancer Prevention, Control and Population Research	Cancer Prevention, Control and Population Research	undirected
+6	Albert J	Step M	NPA (core)	Cancer Prevention, Control and Population Research	undirected
+5	Werner J	Wiesner G	Cancer Prevention, Control and Population Research	Cancer Genetics	undirected
+5	Werner J	Stange K	Cancer Prevention, Control and Population Research	Cancer Prevention, Control and Population Research	undirected
+5	Werner J	Zyzanski S	Cancer Prevention, Control and Population Research	Cancer Prevention, Control and Population Research	undirected
+5	Werner J	Acheson L	Cancer Prevention, Control and Population Research	Cancer Prevention, Control and Population Research	undirected
+5	Werner J	Litaker D	Cancer Prevention, Control and Population Research	Cancer Prevention, Control and Population Research	undirected
+5	Jin G	Weinberg A	Cell Death Regulation	Cancer Prevention, Control and Population Research	undirected
+5	Owusu C	Koroukian S	Aging-Cancer Research	Cancer Prevention, Control and Population Research	undirected
+5	Demko C	Weinberg A	Cancer Prevention, Control and Population Research	Cancer Prevention, Control and Population Research	undirected
+5	Demko C	Lederman M	Cancer Prevention, Control and Population Research	Cancer Prevention, Control and Population Research	undirected
+5	Stange K	Werner J	Cancer Prevention, Control and Population Research	Cancer Prevention, Control and Population Research	undirected
+5	Stange K	Zyzanski S	Cancer Prevention, Control and Population Research	Cancer Prevention, Control and Population Research	undirected
+5	Stange K	Litaker D	Cancer Prevention, Control and Population Research	Cancer Prevention, Control and Population Research	undirected
+5	Stange K	Flocke S	Cancer Prevention, Control and Population Research	Cancer Prevention, Control and Population Research	undirected
+5	Stange K	Cooper G	Cancer Prevention, Control and Population Research	Cancer Prevention, Control and Population Research	undirected
+5	Honda K	Bordeaux J	Developmental Therapeutics	Cancer Prevention, Control and Population Research	undirected
+4	Wells B	Kattan M	Cancer Prevention, Control and Population Research	Cancer Prevention, Control and Population Research	undirected
+4	Wells B	Stephenson A	Cancer Prevention, Control and Population Research	GU Malignancies	undirected
+4	Wells B	Gilligan T	Cancer Prevention, Control and Population Research	GU Malignancies	undirected
+4	Wells B	Klein E	Cancer Prevention, Control and Population Research	GU Malignancies	undirected
+4	Nock N	Li L	Aging-Cancer Research	Cancer Prevention, Control and Population Research	undirected
+4	Nock N	Thompson C	Aging-Cancer Research	Cancer Prevention, Control and Population Research	undirected
+4	Cooper G	Flocke S	Cancer Prevention, Control and Population Research	Cancer Prevention, Control and Population Research	undirected
+4	Cooper G	Koroukian S	Cancer Prevention, Control and Population Research	Cancer Prevention, Control and Population Research	undirected
+4	Cooper G	Chak A	Cancer Prevention, Control and Population Research	Cancer Genetics	undirected
+4	Cooper G	Stange K	Cancer Prevention, Control and Population Research	Cancer Prevention, Control and Population Research	undirected
+4	Litaker D	Flocke S	Cancer Prevention, Control and Population Research	Cancer Prevention, Control and Population Research	undirected
+4	Litaker D	Stange K	Cancer Prevention, Control and Population Research	Cancer Prevention, Control and Population Research	undirected
+4	Litaker D	Zyzanski S	Cancer Prevention, Control and Population Research	Cancer Prevention, Control and Population Research	undirected
+4	Litaker D	Werner J	Cancer Prevention, Control and Population Research	Cancer Prevention, Control and Population Research	undirected
+3	Thompson C	Nock N	Cancer Prevention, Control and Population Research	Aging-Cancer Research	undirected
+3	Thompson C	Li L	Cancer Prevention, Control and Population Research	Cancer Prevention, Control and Population Research	undirected
+3	Thompson C	Acheson L	Cancer Prevention, Control and Population Research	Cancer Prevention, Control and Population Research	undirected
+3	Step M	Albert J	Cancer Prevention, Control and Population Research	NPA (core)	undirected
+3	Step M	Rose J	Cancer Prevention, Control and Population Research	Aging-Cancer Research	undirected
+3	Step M	O'toole E	Cancer Prevention, Control and Population Research	Aging-Cancer Research	undirected
+3	Meropol N	Kattan M	Cancer Prevention, Control and Population Research	Cancer Prevention, Control and Population Research	undirected
+3	Meropol N	Krishnamurthi S	Cancer Prevention, Control and Population Research	Developmental Therapeutics	undirected
+3	Meropol N	Barnholtz sloan J	Cancer Prevention, Control and Population Research	Cancer Genetics	undirected
+3	Bordeaux J	Barnholtz sloan J	Cancer Prevention, Control and Population Research	Cancer Genetics	undirected
+3	Bordeaux J	Cooper K	Cancer Prevention, Control and Population Research	Hematopoietic Disorders	undirected
+3	Bordeaux J	Honda K	Cancer Prevention, Control and Population Research	Developmental Therapeutics	undirected
+3	Flocke S	Cooper G	Cancer Prevention, Control and Population Research	Cancer Prevention, Control and Population Research	undirected
+3	Flocke S	Litaker D	Cancer Prevention, Control and Population Research	Cancer Prevention, Control and Population Research	undirected
+3	Flocke S	Stange K	Cancer Prevention, Control and Population Research	Cancer Prevention, Control and Population Research	undirected
+3	Kodish E	Zyzanski S	Cancer Prevention, Control and Population Research	Cancer Prevention, Control and Population Research	undirected
+2	Marshall P	Wiesner G	Cancer Prevention, Control and Population Research	Cancer Genetics	undirected
+1	Moore H	Budd G	Cancer Prevention, Control and Population Research	Developmental Therapeutics	undirected
+1	Borawski E	Schluchter M	Cancer Prevention, Control and Population Research	Developmental Therapeutics	undirected

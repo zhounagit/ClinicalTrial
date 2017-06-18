@@ -1,0 +1,407 @@
+degree	source	target	source_dept	target_dept	type
+41	Elson P	Maciejewski J	Developmental Therapeutics	Hematopoietic Disorders	undirected
+41	Elson P	Pohlman B	Developmental Therapeutics	Hematopoietic Disorders	undirected
+41	Elson P	Sekeres M	Developmental Therapeutics	Hematopoietic Disorders	undirected
+41	Elson P	Copelan E	Developmental Therapeutics	Hematopoietic Disorders	undirected
+41	Elson P	Hsi E	Developmental Therapeutics	Hematopoietic Disorders	undirected
+41	Elson P	Kalaycio M	Developmental Therapeutics	Hematopoietic Disorders	undirected
+41	Elson P	Tiu R	Developmental Therapeutics	Hematopoietic Disorders	undirected
+41	Elson P	Advani A	Developmental Therapeutics	Hematopoietic Disorders	undirected
+41	Elson P	Sobecks R	Developmental Therapeutics	Hematopoietic Disorders	undirected
+36	Dowlati A	Cooper B	Developmental Therapeutics	Hematopoietic Disorders	undirected
+36	Dowlati A	Gerson S	Developmental Therapeutics	Hematopoietic Disorders	undirected
+36	Fu P	Lazarus H	Developmental Therapeutics	Hematopoietic Disorders	undirected
+36	Fu P	Meyerson H	Developmental Therapeutics	Hematopoietic Disorders	undirected
+36	Fu P	Kaplan D	Developmental Therapeutics	Hematopoietic Disorders	undirected
+36	Fu P	Gerson S	Developmental Therapeutics	Hematopoietic Disorders	undirected
+36	Fu P	Cooper K	Developmental Therapeutics	Hematopoietic Disorders	undirected
+36	Fu P	Cooper B	Developmental Therapeutics	Hematopoietic Disorders	undirected
+29	Gerson S	Meyerson H	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+29	Gerson S	Dowlati A	Hematopoietic Disorders	Developmental Therapeutics	undirected
+29	Gerson S	Qu C	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+29	Gerson S	Yi T	Hematopoietic Disorders	Developmental Therapeutics	undirected
+29	Gerson S	Lindner D	Hematopoietic Disorders	Cell Death Regulation	undirected
+29	Gerson S	Advani A	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+29	Gerson S	Wald D	Hematopoietic Disorders	Developmental Therapeutics	undirected
+29	Gerson S	Borden E	Hematopoietic Disorders	Developmental Therapeutics	undirected
+29	Gerson S	Wang Y	Hematopoietic Disorders	Cancer Imaging	undirected
+29	Gerson S	Lee Z	Hematopoietic Disorders	Cancer Imaging	undirected
+29	Gerson S	Cooper B	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+29	Gerson S	Liu L	Hematopoietic Disorders	Developmental Therapeutics	undirected
+29	Gerson S	Wilson D	Hematopoietic Disorders	Cancer Imaging	undirected
+29	Gerson S	Kaplan D	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+29	Gerson S	Ma P	Hematopoietic Disorders	Developmental Therapeutics	undirected
+29	Gerson S	Flask C	Hematopoietic Disorders	Cancer Imaging	undirected
+29	Gerson S	Arts E	Hematopoietic Disorders	Developmental Therapeutics	undirected
+29	Gerson S	Fu P	Hematopoietic Disorders	Developmental Therapeutics	undirected
+29	Gerson S	Lazarus H	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+29	Gerson S	Zhou L	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+25	Rini B	Saunthararajah Y	GU Malignancies	Hematopoietic Disorders	undirected
+23	Maciejewski J	Sweetenham J	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+23	Maciejewski J	Elson P	Hematopoietic Disorders	Developmental Therapeutics	undirected
+23	Maciejewski J	Sobecks R	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+23	Maciejewski J	Kalaycio M	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+23	Maciejewski J	Copelan E	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+23	Maciejewski J	Macklis R	Hematopoietic Disorders	Cell Death Regulation	undirected
+23	Maciejewski J	Sekeres M	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+23	Maciejewski J	Houghton J	Hematopoietic Disorders	Cell Death Regulation	undirected
+23	Maciejewski J	Bolwell B	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+23	Maciejewski J	Radivoyevitch T	Hematopoietic Disorders	Cancer Imaging	undirected
+23	Maciejewski J	Advani A	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+23	Maciejewski J	Meyerson H	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+23	Maciejewski J	Dean R	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+23	Maciejewski J	Hsi E	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+23	Maciejewski J	Tiu R	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+23	Maciejewski J	Yang Y	Hematopoietic Disorders	Developmental Therapeutics	undirected
+23	Maciejewski J	Almasan A	Hematopoietic Disorders	Cell Death Regulation	undirected
+23	Maciejewski J	Lazarus H	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+23	Maciejewski J	Pohlman B	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+23	Maciejewski J	Saunthararajah Y	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+22	Cooney M	Cooper B	GU Malignancies	Hematopoietic Disorders	undirected
+21	Borden E	Gerson S	Developmental Therapeutics	Hematopoietic Disorders	undirected
+21	Borden E	Kalaycio M	Developmental Therapeutics	Hematopoietic Disorders	undirected
+20	Kalaycio M	Advani A	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+20	Kalaycio M	Sobecks R	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+20	Kalaycio M	Tiu R	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+20	Kalaycio M	Maciejewski J	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+20	Kalaycio M	Sweetenham J	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+20	Kalaycio M	Sekeres M	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+20	Kalaycio M	Saunthararajah Y	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+20	Kalaycio M	Dean R	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+20	Kalaycio M	Borden E	Hematopoietic Disorders	Developmental Therapeutics	undirected
+20	Kalaycio M	Copelan E	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+20	Kalaycio M	Elson P	Hematopoietic Disorders	Developmental Therapeutics	undirected
+20	Kalaycio M	Pohlman B	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+20	Kalaycio M	Bolwell B	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+20	Kalaycio M	Macklis R	Hematopoietic Disorders	Cell Death Regulation	undirected
+20	Kalaycio M	Houghton J	Hematopoietic Disorders	Cell Death Regulation	undirected
+20	Kalaycio M	Hsi E	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+20	Kalaycio M	Almasan A	Hematopoietic Disorders	Cell Death Regulation	undirected
+20	Kalaycio M	Radivoyevitch T	Hematopoietic Disorders	Cancer Imaging	undirected
+20	Flask C	Gerson S	Cancer Imaging	Hematopoietic Disorders	undirected
+19	Cooper B	Dowlati A	Hematopoietic Disorders	Developmental Therapeutics	undirected
+19	Cooper B	Meyerson H	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+19	Cooper B	Bokar J	Hematopoietic Disorders	Developmental Therapeutics	undirected
+19	Cooper B	Lazarus H	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+19	Cooper B	Kaplan D	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+19	Cooper B	Gerson S	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+19	Cooper B	Savvides P	Hematopoietic Disorders	Developmental Therapeutics	undirected
+19	Cooper B	Honda K	Hematopoietic Disorders	Developmental Therapeutics	undirected
+19	Cooper B	Koon H	Hematopoietic Disorders	Cancer Imaging	undirected
+19	Cooper B	Cooney M	Hematopoietic Disorders	GU Malignancies	undirected
+19	Cooper B	Baron E	Hematopoietic Disorders	Developmental Therapeutics	undirected
+19	Cooper B	Cooper K	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+19	Cooper B	Fu P	Hematopoietic Disorders	Developmental Therapeutics	undirected
+19	Cooper B	Krishnamurthi S	Hematopoietic Disorders	Developmental Therapeutics	undirected
+19	Cooper B	Nock C	Hematopoietic Disorders	Developmental Therapeutics	undirected
+17	Lazarus H	Bolwell B	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+17	Lazarus H	Meyerson H	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+17	Lazarus H	Cooper B	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+17	Lazarus H	Berger N	Hematopoietic Disorders	Aging-Cancer Research	undirected
+17	Lazarus H	Mccrae K	Hematopoietic Disorders	Cancer Cell Signaling	undirected
+17	Lazarus H	Kaplan D	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+17	Lazarus H	Lee Z	Hematopoietic Disorders	Cancer Imaging	undirected
+17	Lazarus H	Fu P	Hematopoietic Disorders	Developmental Therapeutics	undirected
+17	Lazarus H	Copelan E	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+17	Lazarus H	Maciejewski J	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+17	Lazarus H	Schmaier A	Hematopoietic Disorders	Cancer Cell Signaling	undirected
+17	Lazarus H	Gerson S	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+16	Hsi E	Copelan E	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+16	Hsi E	Saunthararajah Y	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+16	Hsi E	Sobecks R	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+16	Hsi E	Tiu R	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+16	Hsi E	Sekeres M	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+16	Hsi E	Elson P	Hematopoietic Disorders	Developmental Therapeutics	undirected
+16	Hsi E	Bolwell B	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+16	Hsi E	Advani A	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+16	Hsi E	Reu F	Hematopoietic Disorders	Developmental Therapeutics	undirected
+16	Hsi E	Pohlman B	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+16	Hsi E	Almasan A	Hematopoietic Disorders	Cell Death Regulation	undirected
+16	Hsi E	Maciejewski J	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+16	Hsi E	Sweetenham J	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+16	Hsi E	Kalaycio M	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+16	Hsi E	Dean R	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+16	Copelan E	Macklis R	Hematopoietic Disorders	Cell Death Regulation	undirected
+16	Copelan E	Hsi E	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+16	Copelan E	Sekeres M	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+16	Copelan E	Sobecks R	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+16	Copelan E	Maciejewski J	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+16	Copelan E	Pohlman B	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+16	Copelan E	Elson P	Hematopoietic Disorders	Developmental Therapeutics	undirected
+16	Copelan E	Dean R	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+16	Copelan E	Saunthararajah Y	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+16	Copelan E	Finke J	Hematopoietic Disorders	GU Malignancies	undirected
+16	Copelan E	Kalaycio M	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+16	Copelan E	Radivoyevitch T	Hematopoietic Disorders	Cancer Imaging	undirected
+16	Copelan E	Advani A	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+16	Copelan E	Bolwell B	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+16	Copelan E	Lazarus H	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+16	Copelan E	Sweetenham J	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+16	Triozzi P	Saunthararajah Y	Developmental Therapeutics	Hematopoietic Disorders	undirected
+16	Schluchter M	Caplan A	Developmental Therapeutics	Hematopoietic Disorders	undirected
+16	Schluchter M	Cooper K	Developmental Therapeutics	Hematopoietic Disorders	undirected
+16	Advani A	Kalaycio M	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+16	Advani A	Sweetenham J	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+16	Advani A	Gerson S	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+16	Advani A	Tiu R	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+16	Advani A	Bolwell B	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+16	Advani A	Hsi E	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+16	Advani A	Pohlman B	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+16	Advani A	Maciejewski J	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+16	Advani A	Sekeres M	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+16	Advani A	Radivoyevitch T	Hematopoietic Disorders	Cancer Imaging	undirected
+16	Advani A	Dean R	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+16	Advani A	Elson P	Hematopoietic Disorders	Developmental Therapeutics	undirected
+16	Advani A	Copelan E	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+16	Advani A	Sobecks R	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+16	Advani A	Saunthararajah Y	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+15	Chance M	Huang A	Cancer Genetics	Hematopoietic Disorders	undirected
+15	Chance M	Cooke K	Cancer Genetics	Hematopoietic Disorders	undirected
+15	Berger N	Lazarus H	Aging-Cancer Research	Hematopoietic Disorders	undirected
+15	Stark G	Ransohoff R	Cancer Cell Signaling	Hematopoietic Disorders	undirected
+15	Meyerson H	Cooper B	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+15	Meyerson H	Cooper K	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+15	Meyerson H	Lederman M	Hematopoietic Disorders	Cancer Prevention, Control and Population Research	undirected
+15	Meyerson H	Anderson J	Hematopoietic Disorders	Developmental Therapeutics	undirected
+15	Meyerson H	Gerson S	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+15	Meyerson H	Kaplan D	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+15	Meyerson H	Lazarus H	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+15	Meyerson H	Jacobberger J	Hematopoietic Disorders	Cancer Imaging	undirected
+15	Meyerson H	Qu C	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+15	Meyerson H	Auletta J	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+15	Meyerson H	Maciejewski J	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+15	Meyerson H	Fu P	Hematopoietic Disorders	Developmental Therapeutics	undirected
+15	Sobecks R	Kalaycio M	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+15	Sobecks R	Pohlman B	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+15	Sobecks R	Maciejewski J	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+15	Sobecks R	Saunthararajah Y	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+15	Sobecks R	Radivoyevitch T	Hematopoietic Disorders	Cancer Imaging	undirected
+15	Sobecks R	Hsi E	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+15	Sobecks R	Copelan E	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+15	Sobecks R	Dean R	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+15	Sobecks R	Sweetenham J	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+15	Sobecks R	Bolwell B	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+15	Sobecks R	Sekeres M	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+15	Sobecks R	Macklis R	Hematopoietic Disorders	Cell Death Regulation	undirected
+15	Sobecks R	Advani A	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+15	Sobecks R	Elson P	Hematopoietic Disorders	Developmental Therapeutics	undirected
+15	Bokar J	Cooper B	Developmental Therapeutics	Hematopoietic Disorders	undirected
+14	Lee Z	Gerson S	Cancer Imaging	Hematopoietic Disorders	undirected
+14	Lee Z	Lazarus H	Cancer Imaging	Hematopoietic Disorders	undirected
+13	Sekeres M	Tiu R	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+13	Sekeres M	Copelan E	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+13	Sekeres M	Pohlman B	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+13	Sekeres M	Elson P	Hematopoietic Disorders	Developmental Therapeutics	undirected
+13	Sekeres M	Kalaycio M	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+13	Sekeres M	Hsi E	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+13	Sekeres M	Sweetenham J	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+13	Sekeres M	Maciejewski J	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+13	Sekeres M	Advani A	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+13	Sekeres M	Radivoyevitch T	Hematopoietic Disorders	Cancer Imaging	undirected
+13	Sekeres M	Sobecks R	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+13	Sekeres M	Saunthararajah Y	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+13	Radivoyevitch T	Sobecks R	Cancer Imaging	Hematopoietic Disorders	undirected
+13	Radivoyevitch T	Maciejewski J	Cancer Imaging	Hematopoietic Disorders	undirected
+13	Radivoyevitch T	Sekeres M	Cancer Imaging	Hematopoietic Disorders	undirected
+13	Radivoyevitch T	Advani A	Cancer Imaging	Hematopoietic Disorders	undirected
+13	Radivoyevitch T	Copelan E	Cancer Imaging	Hematopoietic Disorders	undirected
+13	Radivoyevitch T	Kalaycio M	Cancer Imaging	Hematopoietic Disorders	undirected
+13	Radivoyevitch T	Saunthararajah Y	Cancer Imaging	Hematopoietic Disorders	undirected
+13	Cooper K	Meyerson H	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+13	Cooper K	Lam M	Hematopoietic Disorders	Cell Death Regulation	undirected
+13	Cooper K	Bordeaux J	Hematopoietic Disorders	Cancer Prevention, Control and Population Research	undirected
+13	Cooper K	Kenney M	Hematopoietic Disorders	Cell Death Regulation	undirected
+13	Cooper K	Honda K	Hematopoietic Disorders	Developmental Therapeutics	undirected
+13	Cooper K	Schluchter M	Hematopoietic Disorders	Developmental Therapeutics	undirected
+13	Cooper K	Koon H	Hematopoietic Disorders	Cancer Imaging	undirected
+13	Cooper K	Levine A	Hematopoietic Disorders	Cancer Cell Signaling	undirected
+13	Cooper K	Oleinick N	Hematopoietic Disorders	Cell Death Regulation	undirected
+13	Cooper K	Baron E	Hematopoietic Disorders	Developmental Therapeutics	undirected
+13	Cooper K	Matsuyama S	Hematopoietic Disorders	Cell Death Regulation	undirected
+13	Cooper K	Fu P	Hematopoietic Disorders	Developmental Therapeutics	undirected
+13	Cooper K	Cooper B	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+13	Oleinick N	Cooper K	Cell Death Regulation	Hematopoietic Disorders	undirected
+13	Finke J	Bolwell B	GU Malignancies	Hematopoietic Disorders	undirected
+13	Finke J	Copelan E	GU Malignancies	Hematopoietic Disorders	undirected
+12	Miller R	Caplan A	Cancer Cell Signaling	Hematopoietic Disorders	undirected
+12	Miller R	Ransohoff R	Cancer Cell Signaling	Hematopoietic Disorders	undirected
+12	Miller R	Tesar P	Cancer Cell Signaling	Hematopoietic Disorders	undirected
+12	Miller R	Medof M	Cancer Cell Signaling	Hematopoietic Disorders	undirected
+12	Sweetenham J	Maciejewski J	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+12	Sweetenham J	Advani A	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+12	Sweetenham J	Macklis R	Hematopoietic Disorders	Cell Death Regulation	undirected
+12	Sweetenham J	Kalaycio M	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+12	Sweetenham J	Sekeres M	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+12	Sweetenham J	Dean R	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+12	Sweetenham J	Sobecks R	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+12	Sweetenham J	Bolwell B	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+12	Sweetenham J	Pohlman B	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+12	Sweetenham J	Hsi E	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+12	Sweetenham J	Copelan E	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+12	Saunthararajah Y	Triozzi P	Hematopoietic Disorders	Developmental Therapeutics	undirected
+12	Saunthararajah Y	Hsi E	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+12	Saunthararajah Y	Sobecks R	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+12	Saunthararajah Y	Lindner D	Hematopoietic Disorders	Cell Death Regulation	undirected
+12	Saunthararajah Y	Eng C	Hematopoietic Disorders	Cancer Genetics	undirected
+12	Saunthararajah Y	Kalaycio M	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+12	Saunthararajah Y	Copelan E	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+12	Saunthararajah Y	Rini B	Hematopoietic Disorders	GU Malignancies	undirected
+12	Saunthararajah Y	Advani A	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+12	Saunthararajah Y	Radivoyevitch T	Hematopoietic Disorders	Cancer Imaging	undirected
+12	Saunthararajah Y	Maciejewski J	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+12	Saunthararajah Y	Sekeres M	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+12	Bolwell B	Lazarus H	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+12	Bolwell B	Pohlman B	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+12	Bolwell B	Dean R	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+12	Bolwell B	Macklis R	Hematopoietic Disorders	Cell Death Regulation	undirected
+12	Bolwell B	Advani A	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+12	Bolwell B	Hsi E	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+12	Bolwell B	Finke J	Hematopoietic Disorders	GU Malignancies	undirected
+12	Bolwell B	Maciejewski J	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+12	Bolwell B	Sweetenham J	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+12	Bolwell B	Kalaycio M	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+12	Bolwell B	Sobecks R	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+12	Bolwell B	Copelan E	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+12	Pohlman B	Sobecks R	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+12	Pohlman B	Bolwell B	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+12	Pohlman B	Dean R	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+12	Pohlman B	Elson P	Hematopoietic Disorders	Developmental Therapeutics	undirected
+12	Pohlman B	Sekeres M	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+12	Pohlman B	Copelan E	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+12	Pohlman B	Advani A	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+12	Pohlman B	Macklis R	Hematopoietic Disorders	Cell Death Regulation	undirected
+12	Pohlman B	Hsi E	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+12	Pohlman B	Kalaycio M	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+12	Pohlman B	Sweetenham J	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+12	Pohlman B	Maciejewski J	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+11	Kaplan D	Meyerson H	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+11	Kaplan D	Cooper B	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+11	Kaplan D	Sy M	Hematopoietic Disorders	Cell Death Regulation	undirected
+11	Kaplan D	Lazarus H	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+11	Kaplan D	Gerson S	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+11	Kaplan D	Fu P	Hematopoietic Disorders	Developmental Therapeutics	undirected
+11	Mccrae K	Lazarus H	Cancer Cell Signaling	Hematopoietic Disorders	undirected
+11	Mccrae K	Qu C	Cancer Cell Signaling	Hematopoietic Disorders	undirected
+11	Liu L	Gerson S	Developmental Therapeutics	Hematopoietic Disorders	undirected
+11	Silverman R	Harding C	GU Malignancies	Hematopoietic Disorders	undirected
+11	Wang Z	Tesar P	Cancer Genetics	Hematopoietic Disorders	undirected
+11	Jacobberger J	Meyerson H	Cancer Imaging	Hematopoietic Disorders	undirected
+11	Jacobberger J	Ransohoff R	Cancer Imaging	Hematopoietic Disorders	undirected
+11	Eng C	Saunthararajah Y	Cancer Genetics	Hematopoietic Disorders	undirected
+10	Dean R	Pohlman B	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+10	Dean R	Sobecks R	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+10	Dean R	Bolwell B	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+10	Dean R	Kalaycio M	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+10	Dean R	Copelan E	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+10	Dean R	Sweetenham J	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+10	Dean R	Maciejewski J	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+10	Dean R	Advani A	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+10	Dean R	Hsi E	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+10	Dean R	Macklis R	Hematopoietic Disorders	Cell Death Regulation	undirected
+10	Weinberg A	Harding C	Cancer Prevention, Control and Population Research	Hematopoietic Disorders	undirected
+10	Lindner D	Saunthararajah Y	Cell Death Regulation	Hematopoietic Disorders	undirected
+10	Lindner D	Gerson S	Cell Death Regulation	Hematopoietic Disorders	undirected
+10	Savvides P	Cooper B	Developmental Therapeutics	Hematopoietic Disorders	undirected
+10	Rich J	Huang A	Cancer Cell Signaling	Hematopoietic Disorders	undirected
+10	Ma P	Gerson S	Developmental Therapeutics	Hematopoietic Disorders	undirected
+10	Krishnamurthi S	Cooper B	Developmental Therapeutics	Hematopoietic Disorders	undirected
+10	Laframboise T	Tesar P	Cancer Genetics	Hematopoietic Disorders	undirected
+9	Wang Y	Gerson S	Cancer Imaging	Hematopoietic Disorders	undirected
+9	Macklis R	Copelan E	Cell Death Regulation	Hematopoietic Disorders	undirected
+9	Macklis R	Sweetenham J	Cell Death Regulation	Hematopoietic Disorders	undirected
+9	Macklis R	Maciejewski J	Cell Death Regulation	Hematopoietic Disorders	undirected
+9	Macklis R	Bolwell B	Cell Death Regulation	Hematopoietic Disorders	undirected
+9	Macklis R	Pohlman B	Cell Death Regulation	Hematopoietic Disorders	undirected
+9	Macklis R	Kalaycio M	Cell Death Regulation	Hematopoietic Disorders	undirected
+9	Macklis R	Sobecks R	Cell Death Regulation	Hematopoietic Disorders	undirected
+9	Macklis R	Dean R	Cell Death Regulation	Hematopoietic Disorders	undirected
+9	Lathia J	Huang A	Cancer Cell Signaling	Hematopoietic Disorders	undirected
+9	Lathia J	Ransohoff R	Cancer Cell Signaling	Hematopoietic Disorders	undirected
+9	Kenney M	Cooper K	Cell Death Regulation	Hematopoietic Disorders	undirected
+8	Koon H	Cooper K	Cancer Imaging	Hematopoietic Disorders	undirected
+8	Koon H	Cooper B	Cancer Imaging	Hematopoietic Disorders	undirected
+8	Nock C	Cooper B	Developmental Therapeutics	Hematopoietic Disorders	undirected
+8	Lederman M	Meyerson H	Cancer Prevention, Control and Population Research	Hematopoietic Disorders	undirected
+8	Lederman M	Harding C	Cancer Prevention, Control and Population Research	Hematopoietic Disorders	undirected
+8	Hjelmeland A	Huang A	Cancer Cell Signaling	Hematopoietic Disorders	undirected
+7	Lam M	Cooper K	Cell Death Regulation	Hematopoietic Disorders	undirected
+7	Almasan A	Fairchild R	Cell Death Regulation	Hematopoietic Disorders	undirected
+7	Almasan A	Hsi E	Cell Death Regulation	Hematopoietic Disorders	undirected
+7	Almasan A	Maciejewski J	Cell Death Regulation	Hematopoietic Disorders	undirected
+7	Almasan A	Kalaycio M	Cell Death Regulation	Hematopoietic Disorders	undirected
+7	Wilson D	Gerson S	Cancer Imaging	Hematopoietic Disorders	undirected
+7	Li X	Min B	Cancer Cell Signaling	Hematopoietic Disorders	undirected
+7	Matsuyama S	Cooper K	Cell Death Regulation	Hematopoietic Disorders	undirected
+7	Baron E	Cooper K	Developmental Therapeutics	Hematopoietic Disorders	undirected
+7	Baron E	Cooper B	Developmental Therapeutics	Hematopoietic Disorders	undirected
+7	Huang A	Letterio J	Hematopoietic Disorders	Cell Death Regulation	undirected
+7	Huang A	Rich J	Hematopoietic Disorders	Cancer Cell Signaling	undirected
+7	Huang A	Hjelmeland A	Hematopoietic Disorders	Cancer Cell Signaling	undirected
+7	Huang A	Chance M	Hematopoietic Disorders	Cancer Genetics	undirected
+7	Huang A	Lathia J	Hematopoietic Disorders	Cancer Cell Signaling	undirected
+7	Huang A	Zhou L	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+7	Huang A	Cooke K	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+7	Yi T	Gerson S	Developmental Therapeutics	Hematopoietic Disorders	undirected
+7	Letterio J	Huang A	Cell Death Regulation	Hematopoietic Disorders	undirected
+7	Letterio J	Cooke K	Cell Death Regulation	Hematopoietic Disorders	undirected
+7	Letterio J	Min B	Cell Death Regulation	Hematopoietic Disorders	undirected
+7	Letterio J	Auletta J	Cell Death Regulation	Hematopoietic Disorders	undirected
+7	Scacheri P	Tesar P	Cancer Genetics	Hematopoietic Disorders	undirected
+6	Tiu R	Sekeres M	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+6	Tiu R	Kalaycio M	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+6	Tiu R	Hsi E	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+6	Tiu R	Advani A	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+6	Tiu R	Elson P	Hematopoietic Disorders	Developmental Therapeutics	undirected
+6	Tiu R	Maciejewski J	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+6	Harding C	Dubyak G	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+6	Harding C	Weinberg A	Hematopoietic Disorders	Cancer Prevention, Control and Population Research	undirected
+6	Harding C	Lederman M	Hematopoietic Disorders	Cancer Prevention, Control and Population Research	undirected
+6	Harding C	Silverman R	Hematopoietic Disorders	GU Malignancies	undirected
+6	Wald D	Gerson S	Developmental Therapeutics	Hematopoietic Disorders	undirected
+5	Willard B	Gupta N	NPA (core)	Hematopoietic Disorders	undirected
+5	Tesar P	Wang Z	Hematopoietic Disorders	Cancer Genetics	undirected
+5	Tesar P	Miller R	Hematopoietic Disorders	Cancer Cell Signaling	undirected
+5	Tesar P	Laframboise T	Hematopoietic Disorders	Cancer Genetics	undirected
+5	Tesar P	Scacheri P	Hematopoietic Disorders	Cancer Genetics	undirected
+5	Sy M	Kaplan D	Cell Death Regulation	Hematopoietic Disorders	undirected
+5	Schmaier A	Lazarus H	Cancer Cell Signaling	Hematopoietic Disorders	undirected
+5	Houghton J	Maciejewski J	Cell Death Regulation	Hematopoietic Disorders	undirected
+5	Houghton J	Kalaycio M	Cell Death Regulation	Hematopoietic Disorders	undirected
+5	Cooke K	Auletta J	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+5	Cooke K	Letterio J	Hematopoietic Disorders	Cell Death Regulation	undirected
+5	Cooke K	Chance M	Hematopoietic Disorders	Cancer Genetics	undirected
+5	Cooke K	Huang A	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+5	Honda K	Cooper K	Developmental Therapeutics	Hematopoietic Disorders	undirected
+5	Honda K	Cooper B	Developmental Therapeutics	Hematopoietic Disorders	undirected
+4	Zhou L	Huang A	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+4	Zhou L	Gerson S	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+4	Caplan A	Miller R	Hematopoietic Disorders	Cancer Cell Signaling	undirected
+4	Caplan A	Schluchter M	Hematopoietic Disorders	Developmental Therapeutics	undirected
+4	Auletta J	Cooke K	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+4	Auletta J	Meyerson H	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+4	Auletta J	Letterio J	Hematopoietic Disorders	Cell Death Regulation	undirected
+4	Levine A	Cooper K	Cancer Cell Signaling	Hematopoietic Disorders	undirected
+4	Qu C	Gerson S	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+4	Qu C	Meyerson H	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+4	Qu C	Mccrae K	Hematopoietic Disorders	Cancer Cell Signaling	undirected
+4	Ransohoff R	Stark G	Hematopoietic Disorders	Cancer Cell Signaling	undirected
+4	Ransohoff R	Miller R	Hematopoietic Disorders	Cancer Cell Signaling	undirected
+4	Ransohoff R	Lathia J	Hematopoietic Disorders	Cancer Cell Signaling	undirected
+4	Ransohoff R	Jacobberger J	Hematopoietic Disorders	Cancer Imaging	undirected
+3	Min B	Letterio J	Hematopoietic Disorders	Cell Death Regulation	undirected
+3	Min B	Li X	Hematopoietic Disorders	Cancer Cell Signaling	undirected
+3	Min B	Haque S	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+3	Yang Y	Maciejewski J	Developmental Therapeutics	Hematopoietic Disorders	undirected
+3	Dubyak G	Medof M	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+3	Dubyak G	Harding C	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+3	Bordeaux J	Cooper K	Cancer Prevention, Control and Population Research	Hematopoietic Disorders	undirected
+3	Medof M	Dubyak G	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+3	Medof M	Miller R	Hematopoietic Disorders	Cancer Cell Signaling	undirected
+2	Arts E	Gerson S	Developmental Therapeutics	Hematopoietic Disorders	undirected
+2	Fairchild R	Almasan A	Hematopoietic Disorders	Cell Death Regulation	undirected
+2	Fairchild R	Gorbachev A	Hematopoietic Disorders	Cancer Cell Signaling	undirected
+1	Gupta N	Willard B	Hematopoietic Disorders	NPA (core)	undirected
+1	Reu F	Hsi E	Developmental Therapeutics	Hematopoietic Disorders	undirected
+1	Haque S	Min B	Hematopoietic Disorders	Hematopoietic Disorders	undirected
+1	Gorbachev A	Fairchild R	Cancer Cell Signaling	Hematopoietic Disorders	undirected
+1	Anderson J	Meyerson H	Developmental Therapeutics	Hematopoietic Disorders	undirected

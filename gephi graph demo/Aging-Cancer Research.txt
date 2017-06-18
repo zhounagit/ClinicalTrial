@@ -1,0 +1,95 @@
+degree	source	target	source_dept	target_dept	type
+41	Elson P	Shepard D	Developmental Therapeutics	Aging-Cancer Research	undirected
+21	Garcia J	Shepard D	GU Malignancies	Aging-Cancer Research	undirected
+20	Dreicer R	Shepard D	GU Malignancies	Aging-Cancer Research	undirected
+17	Lazarus H	Berger N	Hematopoietic Disorders	Aging-Cancer Research	undirected
+16	Schluchter M	Owusu C	Developmental Therapeutics	Aging-Cancer Research	undirected
+16	Schluchter M	Berger N	Developmental Therapeutics	Aging-Cancer Research	undirected
+16	Elston R	Nock N	Cancer Genetics	Aging-Cancer Research	undirected
+15	Berger N	Chak A	Aging-Cancer Research	Cancer Genetics	undirected
+15	Berger N	Lazarus H	Aging-Cancer Research	Hematopoietic Disorders	undirected
+15	Berger N	Nock N	Aging-Cancer Research	Aging-Cancer Research	undirected
+15	Berger N	Schluchter M	Aging-Cancer Research	Developmental Therapeutics	undirected
+15	Berger N	O'toole E	Aging-Cancer Research	Aging-Cancer Research	undirected
+15	Berger N	Reizes O	Aging-Cancer Research	Aging-Cancer Research	undirected
+15	Berger N	Koroukian S	Aging-Cancer Research	Cancer Prevention, Control and Population Research	undirected
+15	Berger N	Li L	Aging-Cancer Research	Cancer Prevention, Control and Population Research	undirected
+15	Berger N	Rich J	Aging-Cancer Research	Cancer Cell Signaling	undirected
+15	Berger N	Owusu C	Aging-Cancer Research	Aging-Cancer Research	undirected
+15	Bokar J	Mazanec P	Developmental Therapeutics	Aging-Cancer Research	undirected
+14	Lee Z	Brunengraber H	Cancer Imaging	Aging-Cancer Research	undirected
+11	Koroukian S	Owusu C	Cancer Prevention, Control and Population Research	Aging-Cancer Research	undirected
+11	Koroukian S	Berger N	Cancer Prevention, Control and Population Research	Aging-Cancer Research	undirected
+10	Rich J	Reizes O	Cancer Cell Signaling	Aging-Cancer Research	undirected
+10	Rich J	Berger N	Cancer Cell Signaling	Aging-Cancer Research	undirected
+10	Chak A	Berger N	Cancer Genetics	Aging-Cancer Research	undirected
+9	Zyzanski S	Rose J	Cancer Prevention, Control and Population Research	Aging-Cancer Research	undirected
+8	O'toole E	Deimling G	Aging-Cancer Research	Aging-Cancer Research	undirected
+8	O'toole E	Daly B	Aging-Cancer Research	Aging-Cancer Research	undirected
+8	O'toole E	Step M	Aging-Cancer Research	Cancer Prevention, Control and Population Research	undirected
+8	O'toole E	Berger N	Aging-Cancer Research	Aging-Cancer Research	undirected
+8	O'toole E	Bowman K	Aging-Cancer Research	Aging-Cancer Research	undirected
+8	O'toole E	Rose J	Aging-Cancer Research	Aging-Cancer Research	undirected
+8	Li L	Nock N	Cancer Prevention, Control and Population Research	Aging-Cancer Research	undirected
+8	Li L	Berger N	Cancer Prevention, Control and Population Research	Aging-Cancer Research	undirected
+7	Wilson D	Hanson R	Cancer Imaging	Aging-Cancer Research	undirected
+7	Keri R	Reizes O	Cancer Cell Signaling	Aging-Cancer Research	undirected
+7	Rose J	Zyzanski S	Aging-Cancer Research	Cancer Prevention, Control and Population Research	undirected
+7	Rose J	Deimling G	Aging-Cancer Research	Aging-Cancer Research	undirected
+7	Rose J	Albert J	Aging-Cancer Research	NPA (core)	undirected
+7	Rose J	Step M	Aging-Cancer Research	Cancer Prevention, Control and Population Research	undirected
+7	Rose J	O'toole E	Aging-Cancer Research	Aging-Cancer Research	undirected
+7	Rose J	Townsend A	Aging-Cancer Research	Aging-Cancer Research	undirected
+7	Rose J	Bowman K	Aging-Cancer Research	Aging-Cancer Research	undirected
+6	Daly B	Townsend A	Aging-Cancer Research	Aging-Cancer Research	undirected
+6	Daly B	O'toole E	Aging-Cancer Research	Aging-Cancer Research	undirected
+6	Daly B	Prince paul M	Aging-Cancer Research	Aging-Cancer Research	undirected
+6	Daly B	Mazanec P	Aging-Cancer Research	Aging-Cancer Research	undirected
+6	Albert J	Rose J	NPA (core)	Aging-Cancer Research	undirected
+5	Hoppel C	Hanson R	Developmental Therapeutics	Aging-Cancer Research	undirected
+5	Owusu C	Koroukian S	Aging-Cancer Research	Cancer Prevention, Control and Population Research	undirected
+5	Owusu C	Schluchter M	Aging-Cancer Research	Developmental Therapeutics	undirected
+5	Owusu C	Berger N	Aging-Cancer Research	Aging-Cancer Research	undirected
+4	Egelhoff T	Reizes O	Cancer Cell Signaling	Aging-Cancer Research	undirected
+4	Brunengraber H	Mieyal J	Aging-Cancer Research	Cell Death Regulation	undirected
+4	Brunengraber H	Tochtrop G	Aging-Cancer Research	Developmental Therapeutics	undirected
+4	Brunengraber H	Lee Z	Aging-Cancer Research	Cancer Imaging	undirected
+4	Mazanec P	Prince paul M	Aging-Cancer Research	Aging-Cancer Research	undirected
+4	Mazanec P	Townsend A	Aging-Cancer Research	Aging-Cancer Research	undirected
+4	Mazanec P	Bokar J	Aging-Cancer Research	Developmental Therapeutics	undirected
+4	Mazanec P	Daly B	Aging-Cancer Research	Aging-Cancer Research	undirected
+4	Bowman K	Townsend A	Aging-Cancer Research	Aging-Cancer Research	undirected
+4	Bowman K	Deimling G	Aging-Cancer Research	Aging-Cancer Research	undirected
+4	Bowman K	O'toole E	Aging-Cancer Research	Aging-Cancer Research	undirected
+4	Bowman K	Rose J	Aging-Cancer Research	Aging-Cancer Research	undirected
+4	Shepard D	Garcia J	Aging-Cancer Research	GU Malignancies	undirected
+4	Shepard D	Haddad A	Aging-Cancer Research	Aging-Cancer Research	undirected
+4	Shepard D	Elson P	Aging-Cancer Research	Developmental Therapeutics	undirected
+4	Shepard D	Dreicer R	Aging-Cancer Research	GU Malignancies	undirected
+4	Townsend A	Mazanec P	Aging-Cancer Research	Aging-Cancer Research	undirected
+4	Townsend A	Daly B	Aging-Cancer Research	Aging-Cancer Research	undirected
+4	Townsend A	Bowman K	Aging-Cancer Research	Aging-Cancer Research	undirected
+4	Townsend A	Rose J	Aging-Cancer Research	Aging-Cancer Research	undirected
+4	Nock N	Li L	Aging-Cancer Research	Cancer Prevention, Control and Population Research	undirected
+4	Nock N	Berger N	Aging-Cancer Research	Aging-Cancer Research	undirected
+4	Nock N	Thompson C	Aging-Cancer Research	Cancer Prevention, Control and Population Research	undirected
+4	Nock N	Elston R	Aging-Cancer Research	Cancer Genetics	undirected
+4	Deimling G	Rose J	Aging-Cancer Research	Aging-Cancer Research	undirected
+4	Deimling G	Kahana E	Aging-Cancer Research	Aging-Cancer Research	undirected
+4	Deimling G	Bowman K	Aging-Cancer Research	Aging-Cancer Research	undirected
+4	Deimling G	O'toole E	Aging-Cancer Research	Aging-Cancer Research	undirected
+4	Reizes O	Egelhoff T	Aging-Cancer Research	Cancer Cell Signaling	undirected
+4	Reizes O	Rich J	Aging-Cancer Research	Cancer Cell Signaling	undirected
+4	Reizes O	Keri R	Aging-Cancer Research	Cancer Cell Signaling	undirected
+4	Reizes O	Berger N	Aging-Cancer Research	Aging-Cancer Research	undirected
+3	Thompson C	Nock N	Cancer Prevention, Control and Population Research	Aging-Cancer Research	undirected
+3	Step M	Rose J	Cancer Prevention, Control and Population Research	Aging-Cancer Research	undirected
+3	Step M	O'toole E	Cancer Prevention, Control and Population Research	Aging-Cancer Research	undirected
+3	Hanson R	Wilson D	Aging-Cancer Research	Cancer Imaging	undirected
+3	Hanson R	Hoppel C	Aging-Cancer Research	Developmental Therapeutics	undirected
+2	Tochtrop G	Brunengraber H	Developmental Therapeutics	Aging-Cancer Research	undirected
+2	Prince paul M	Mazanec P	Aging-Cancer Research	Aging-Cancer Research	undirected
+2	Prince paul M	Daly B	Aging-Cancer Research	Aging-Cancer Research	undirected
+1	Kahana E	Deimling G	Aging-Cancer Research	Aging-Cancer Research	undirected
+1	Haddad A	Shepard D	Aging-Cancer Research	Aging-Cancer Research	undirected
+1	Mieyal J	Brunengraber H	Cell Death Regulation	Aging-Cancer Research	undirected

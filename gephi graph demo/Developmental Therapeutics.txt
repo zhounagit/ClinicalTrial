@@ -1,0 +1,595 @@
+degree	source	target	source_dept	target_dept	type
+41	Elson P	Klein E	Developmental Therapeutics	GU Malignancies	undirected
+41	Elson P	Rose P	Developmental Therapeutics	Developmental Therapeutics	undirected
+41	Elson P	Maciejewski J	Developmental Therapeutics	Hematopoietic Disorders	undirected
+41	Elson P	Cooney M	Developmental Therapeutics	GU Malignancies	undirected
+41	Elson P	Weil R	Developmental Therapeutics	Developmental Therapeutics	undirected
+41	Elson P	Pohlman B	Developmental Therapeutics	Hematopoietic Disorders	undirected
+41	Elson P	Suh J	Developmental Therapeutics	Developmental Therapeutics	undirected
+41	Elson P	Hansel D	Developmental Therapeutics	GU Malignancies	undirected
+41	Elson P	Sekeres M	Developmental Therapeutics	Hematopoietic Disorders	undirected
+41	Elson P	Dreicer R	Developmental Therapeutics	GU Malignancies	undirected
+41	Elson P	Stephenson A	Developmental Therapeutics	GU Malignancies	undirected
+41	Elson P	Budd G	Developmental Therapeutics	Developmental Therapeutics	undirected
+41	Elson P	Triozzi P	Developmental Therapeutics	Developmental Therapeutics	undirected
+41	Elson P	Copelan E	Developmental Therapeutics	Hematopoietic Disorders	undirected
+41	Elson P	Ganapathi R	Developmental Therapeutics	Developmental Therapeutics	undirected
+41	Elson P	Finke J	Developmental Therapeutics	GU Malignancies	undirected
+41	Elson P	Shepard D	Developmental Therapeutics	Aging-Cancer Research	undirected
+41	Elson P	Hsi E	Developmental Therapeutics	Hematopoietic Disorders	undirected
+41	Elson P	Garcia J	Developmental Therapeutics	GU Malignancies	undirected
+41	Elson P	Kalaycio M	Developmental Therapeutics	Hematopoietic Disorders	undirected
+41	Elson P	Peereboom D	Developmental Therapeutics	Developmental Therapeutics	undirected
+41	Elson P	Tiu R	Developmental Therapeutics	Hematopoietic Disorders	undirected
+41	Elson P	Heston W	Developmental Therapeutics	GU Malignancies	undirected
+41	Elson P	Yi T	Developmental Therapeutics	Developmental Therapeutics	undirected
+41	Elson P	Dowlati A	Developmental Therapeutics	Developmental Therapeutics	undirected
+41	Elson P	Gilligan T	Developmental Therapeutics	GU Malignancies	undirected
+41	Elson P	Campbell S	Developmental Therapeutics	GU Malignancies	undirected
+41	Elson P	Ahluwalia M	Developmental Therapeutics	Developmental Therapeutics	undirected
+41	Elson P	Advani A	Developmental Therapeutics	Hematopoietic Disorders	undirected
+41	Elson P	Vogelbaum M	Developmental Therapeutics	Developmental Therapeutics	undirected
+41	Elson P	Rini B	Developmental Therapeutics	GU Malignancies	undirected
+41	Elson P	Belinson J	Developmental Therapeutics	Developmental Therapeutics	undirected
+41	Elson P	Magi galluzzi C	Developmental Therapeutics	GU Malignancies	undirected
+41	Elson P	Bokar J	Developmental Therapeutics	Developmental Therapeutics	undirected
+41	Elson P	Chao S	Developmental Therapeutics	Cancer Imaging	undirected
+41	Elson P	Barnett G	Developmental Therapeutics	Developmental Therapeutics	undirected
+41	Elson P	Sobecks R	Developmental Therapeutics	Hematopoietic Disorders	undirected
+41	Elson P	Borden E	Developmental Therapeutics	Developmental Therapeutics	undirected
+36	Dowlati A	Cooper B	Developmental Therapeutics	Hematopoietic Disorders	undirected
+36	Dowlati A	Lee Z	Developmental Therapeutics	Cancer Imaging	undirected
+36	Dowlati A	Wang Y	Developmental Therapeutics	Cancer Imaging	undirected
+36	Dowlati A	Houghton J	Developmental Therapeutics	Cell Death Regulation	undirected
+36	Dowlati A	Cooney M	Developmental Therapeutics	GU Malignancies	undirected
+36	Dowlati A	Budd G	Developmental Therapeutics	Developmental Therapeutics	undirected
+36	Dowlati A	Gerson S	Developmental Therapeutics	Hematopoietic Disorders	undirected
+36	Dowlati A	Waggoner S	Developmental Therapeutics	Developmental Therapeutics	undirected
+36	Dowlati A	Liu L	Developmental Therapeutics	Developmental Therapeutics	undirected
+36	Dowlati A	Nock C	Developmental Therapeutics	Developmental Therapeutics	undirected
+36	Dowlati A	Schluchter M	Developmental Therapeutics	Developmental Therapeutics	undirected
+36	Dowlati A	Hoppel C	Developmental Therapeutics	Developmental Therapeutics	undirected
+36	Dowlati A	Krishnamurthi S	Developmental Therapeutics	Developmental Therapeutics	undirected
+36	Dowlati A	Triozzi P	Developmental Therapeutics	Developmental Therapeutics	undirected
+36	Dowlati A	Lavertu P	Developmental Therapeutics	Developmental Therapeutics	undirected
+36	Dowlati A	Borden E	Developmental Therapeutics	Developmental Therapeutics	undirected
+36	Dowlati A	Jacobberger J	Developmental Therapeutics	Cancer Imaging	undirected
+36	Dowlati A	Fu P	Developmental Therapeutics	Developmental Therapeutics	undirected
+36	Dowlati A	Kunos C	Developmental Therapeutics	Developmental Therapeutics	undirected
+36	Dowlati A	Dreicer R	Developmental Therapeutics	GU Malignancies	undirected
+36	Dowlati A	Garcia J	Developmental Therapeutics	GU Malignancies	undirected
+36	Dowlati A	Bokar J	Developmental Therapeutics	Developmental Therapeutics	undirected
+36	Dowlati A	Elson P	Developmental Therapeutics	Developmental Therapeutics	undirected
+36	Dowlati A	Flask C	Developmental Therapeutics	Cancer Imaging	undirected
+36	Dowlati A	Rini B	Developmental Therapeutics	GU Malignancies	undirected
+36	Dowlati A	Pink J	Developmental Therapeutics	Developmental Therapeutics	undirected
+36	Dowlati A	Savvides P	Developmental Therapeutics	Developmental Therapeutics	undirected
+36	Dowlati A	Ma P	Developmental Therapeutics	Developmental Therapeutics	undirected
+36	Fu P	Markowitz S	Developmental Therapeutics	Cancer Genetics	undirected
+36	Fu P	Savvides P	Developmental Therapeutics	Developmental Therapeutics	undirected
+36	Fu P	Koon H	Developmental Therapeutics	Cancer Imaging	undirected
+36	Fu P	Baron E	Developmental Therapeutics	Developmental Therapeutics	undirected
+36	Fu P	Levine A	Developmental Therapeutics	Cancer Cell Signaling	undirected
+36	Fu P	Gupta S	Developmental Therapeutics	GU Malignancies	undirected
+36	Fu P	Leeming R	Developmental Therapeutics	Developmental Therapeutics	undirected
+36	Fu P	Pink J	Developmental Therapeutics	Developmental Therapeutics	undirected
+36	Fu P	Mccrae K	Developmental Therapeutics	Cancer Cell Signaling	undirected
+36	Fu P	Lederman M	Developmental Therapeutics	Cancer Prevention, Control and Population Research	undirected
+36	Fu P	Dowlati A	Developmental Therapeutics	Developmental Therapeutics	undirected
+36	Fu P	Flask C	Developmental Therapeutics	Cancer Imaging	undirected
+36	Fu P	Leidner R	Developmental Therapeutics	Developmental Therapeutics	undirected
+36	Fu P	Koroukian S	Developmental Therapeutics	Cancer Prevention, Control and Population Research	undirected
+36	Fu P	Dawson D	Developmental Therapeutics	Cancer Genetics	undirected
+36	Fu P	Lazarus H	Developmental Therapeutics	Hematopoietic Disorders	undirected
+36	Fu P	Ellis R	Developmental Therapeutics	Cancer Imaging	undirected
+36	Fu P	Meyerson H	Developmental Therapeutics	Hematopoietic Disorders	undirected
+36	Fu P	Oleinick N	Developmental Therapeutics	Cell Death Regulation	undirected
+36	Fu P	Lavertu P	Developmental Therapeutics	Developmental Therapeutics	undirected
+36	Fu P	Bokar J	Developmental Therapeutics	Developmental Therapeutics	undirected
+36	Fu P	Kaplan D	Developmental Therapeutics	Hematopoietic Disorders	undirected
+36	Fu P	Hoppel C	Developmental Therapeutics	Developmental Therapeutics	undirected
+36	Fu P	Gerson S	Developmental Therapeutics	Hematopoietic Disorders	undirected
+36	Fu P	Silverman P	Developmental Therapeutics	Developmental Therapeutics	undirected
+36	Fu P	Ma P	Developmental Therapeutics	Developmental Therapeutics	undirected
+36	Fu P	Maclennan G	Developmental Therapeutics	GU Malignancies	undirected
+36	Fu P	Cooper K	Developmental Therapeutics	Hematopoietic Disorders	undirected
+36	Fu P	Cooper B	Developmental Therapeutics	Hematopoietic Disorders	undirected
+36	Fu P	Baar J	Developmental Therapeutics	Developmental Therapeutics	undirected
+36	Fu P	Cooney M	Developmental Therapeutics	GU Malignancies	undirected
+29	Gerson S	Dowlati A	Hematopoietic Disorders	Developmental Therapeutics	undirected
+29	Gerson S	Yi T	Hematopoietic Disorders	Developmental Therapeutics	undirected
+29	Gerson S	Wald D	Hematopoietic Disorders	Developmental Therapeutics	undirected
+29	Gerson S	Borden E	Hematopoietic Disorders	Developmental Therapeutics	undirected
+29	Gerson S	Liu L	Hematopoietic Disorders	Developmental Therapeutics	undirected
+29	Gerson S	Ma P	Hematopoietic Disorders	Developmental Therapeutics	undirected
+29	Gerson S	Arts E	Hematopoietic Disorders	Developmental Therapeutics	undirected
+29	Gerson S	Fu P	Hematopoietic Disorders	Developmental Therapeutics	undirected
+25	Rini B	Ganapathi R	GU Malignancies	Developmental Therapeutics	undirected
+25	Rini B	Vogelbaum M	GU Malignancies	Developmental Therapeutics	undirected
+25	Rini B	Borden E	GU Malignancies	Developmental Therapeutics	undirected
+25	Rini B	Triozzi P	GU Malignancies	Developmental Therapeutics	undirected
+25	Rini B	Dowlati A	GU Malignancies	Developmental Therapeutics	undirected
+25	Rini B	Elson P	GU Malignancies	Developmental Therapeutics	undirected
+25	Rini B	Bokar J	GU Malignancies	Developmental Therapeutics	undirected
+25	Rini B	Budd G	GU Malignancies	Developmental Therapeutics	undirected
+23	Klein E	Elson P	GU Malignancies	Developmental Therapeutics	undirected
+23	Klein E	Triozzi P	GU Malignancies	Developmental Therapeutics	undirected
+23	Maciejewski J	Elson P	Hematopoietic Disorders	Developmental Therapeutics	undirected
+23	Maciejewski J	Yang Y	Hematopoietic Disorders	Developmental Therapeutics	undirected
+22	Cooney M	Dowlati A	GU Malignancies	Developmental Therapeutics	undirected
+22	Cooney M	Elson P	GU Malignancies	Developmental Therapeutics	undirected
+22	Cooney M	Krishnamurthi S	GU Malignancies	Developmental Therapeutics	undirected
+22	Cooney M	Budd G	GU Malignancies	Developmental Therapeutics	undirected
+22	Cooney M	Triozzi P	GU Malignancies	Developmental Therapeutics	undirected
+22	Cooney M	Nock C	GU Malignancies	Developmental Therapeutics	undirected
+22	Cooney M	Bokar J	GU Malignancies	Developmental Therapeutics	undirected
+22	Cooney M	Savvides P	GU Malignancies	Developmental Therapeutics	undirected
+22	Cooney M	Ganapathi R	GU Malignancies	Developmental Therapeutics	undirected
+22	Cooney M	Borden E	GU Malignancies	Developmental Therapeutics	undirected
+22	Cooney M	Lavertu P	GU Malignancies	Developmental Therapeutics	undirected
+22	Cooney M	Fu P	GU Malignancies	Developmental Therapeutics	undirected
+21	Garcia J	Triozzi P	GU Malignancies	Developmental Therapeutics	undirected
+21	Garcia J	Bokar J	GU Malignancies	Developmental Therapeutics	undirected
+21	Garcia J	Vogelbaum M	GU Malignancies	Developmental Therapeutics	undirected
+21	Garcia J	Dowlati A	GU Malignancies	Developmental Therapeutics	undirected
+21	Garcia J	Elson P	GU Malignancies	Developmental Therapeutics	undirected
+21	Garcia J	Borden E	GU Malignancies	Developmental Therapeutics	undirected
+21	Garcia J	Budd G	GU Malignancies	Developmental Therapeutics	undirected
+21	Borden E	Rini B	Developmental Therapeutics	GU Malignancies	undirected
+21	Borden E	Budd G	Developmental Therapeutics	Developmental Therapeutics	undirected
+21	Borden E	Gerson S	Developmental Therapeutics	Hematopoietic Disorders	undirected
+21	Borden E	Dowlati A	Developmental Therapeutics	Developmental Therapeutics	undirected
+21	Borden E	Byzova T	Developmental Therapeutics	GU Malignancies	undirected
+21	Borden E	Kalaycio M	Developmental Therapeutics	Hematopoietic Disorders	undirected
+21	Borden E	Lindner D	Developmental Therapeutics	Cell Death Regulation	undirected
+21	Borden E	Liu L	Developmental Therapeutics	Developmental Therapeutics	undirected
+21	Borden E	Dreicer R	Developmental Therapeutics	GU Malignancies	undirected
+21	Borden E	Adelstein D	Developmental Therapeutics	Developmental Therapeutics	undirected
+21	Borden E	Garcia J	Developmental Therapeutics	GU Malignancies	undirected
+21	Borden E	Vogelbaum M	Developmental Therapeutics	Developmental Therapeutics	undirected
+21	Borden E	Triozzi P	Developmental Therapeutics	Developmental Therapeutics	undirected
+21	Borden E	Yi T	Developmental Therapeutics	Developmental Therapeutics	undirected
+21	Borden E	Cooney M	Developmental Therapeutics	GU Malignancies	undirected
+21	Borden E	Finke J	Developmental Therapeutics	GU Malignancies	undirected
+21	Borden E	Elson P	Developmental Therapeutics	Developmental Therapeutics	undirected
+20	Dreicer R	Triozzi P	GU Malignancies	Developmental Therapeutics	undirected
+20	Dreicer R	Ganapathi R	GU Malignancies	Developmental Therapeutics	undirected
+20	Dreicer R	Elson P	GU Malignancies	Developmental Therapeutics	undirected
+20	Dreicer R	Budd G	GU Malignancies	Developmental Therapeutics	undirected
+20	Dreicer R	Borden E	GU Malignancies	Developmental Therapeutics	undirected
+20	Dreicer R	Dowlati A	GU Malignancies	Developmental Therapeutics	undirected
+20	Dreicer R	Bokar J	GU Malignancies	Developmental Therapeutics	undirected
+20	Kalaycio M	Borden E	Hematopoietic Disorders	Developmental Therapeutics	undirected
+20	Kalaycio M	Elson P	Hematopoietic Disorders	Developmental Therapeutics	undirected
+20	Flask C	Ma P	Cancer Imaging	Developmental Therapeutics	undirected
+20	Flask C	Liu L	Cancer Imaging	Developmental Therapeutics	undirected
+20	Flask C	Fu P	Cancer Imaging	Developmental Therapeutics	undirected
+20	Flask C	Dowlati A	Cancer Imaging	Developmental Therapeutics	undirected
+19	Cooper B	Dowlati A	Hematopoietic Disorders	Developmental Therapeutics	undirected
+19	Cooper B	Bokar J	Hematopoietic Disorders	Developmental Therapeutics	undirected
+19	Cooper B	Savvides P	Hematopoietic Disorders	Developmental Therapeutics	undirected
+19	Cooper B	Honda K	Hematopoietic Disorders	Developmental Therapeutics	undirected
+19	Cooper B	Baron E	Hematopoietic Disorders	Developmental Therapeutics	undirected
+19	Cooper B	Fu P	Hematopoietic Disorders	Developmental Therapeutics	undirected
+19	Cooper B	Krishnamurthi S	Hematopoietic Disorders	Developmental Therapeutics	undirected
+19	Cooper B	Nock C	Hematopoietic Disorders	Developmental Therapeutics	undirected
+17	Willis J	Xu Y	Cancer Genetics	Developmental Therapeutics	undirected
+17	Lazarus H	Fu P	Hematopoietic Disorders	Developmental Therapeutics	undirected
+16	Kunos C	Schluchter M	Developmental Therapeutics	Developmental Therapeutics	undirected
+16	Kunos C	Pink J	Developmental Therapeutics	Developmental Therapeutics	undirected
+16	Kunos C	Kim J	Developmental Therapeutics	Cancer Imaging	undirected
+16	Kunos C	Abdul karim F	Developmental Therapeutics	Cancer Cell Signaling	undirected
+16	Kunos C	Jacobberger J	Developmental Therapeutics	Cancer Imaging	undirected
+16	Kunos C	Friedman L	Developmental Therapeutics	Developmental Therapeutics	undirected
+16	Kunos C	Dowlati A	Developmental Therapeutics	Developmental Therapeutics	undirected
+16	Kunos C	Oleinick N	Developmental Therapeutics	Cell Death Regulation	undirected
+16	Kunos C	Waggoner S	Developmental Therapeutics	Developmental Therapeutics	undirected
+16	Kunos C	Radivoyevitch T	Developmental Therapeutics	Cancer Imaging	undirected
+16	Kunos C	Rose P	Developmental Therapeutics	Developmental Therapeutics	undirected
+16	Kunos C	Sohn J	Developmental Therapeutics	Cancer Imaging	undirected
+16	Hsi E	Elson P	Hematopoietic Disorders	Developmental Therapeutics	undirected
+16	Hsi E	Reu F	Hematopoietic Disorders	Developmental Therapeutics	undirected
+16	Copelan E	Elson P	Hematopoietic Disorders	Developmental Therapeutics	undirected
+16	Vogelbaum M	Chao S	Developmental Therapeutics	Cancer Imaging	undirected
+16	Vogelbaum M	Rini B	Developmental Therapeutics	GU Malignancies	undirected
+16	Vogelbaum M	Finke J	Developmental Therapeutics	GU Malignancies	undirected
+16	Vogelbaum M	Garcia J	Developmental Therapeutics	GU Malignancies	undirected
+16	Vogelbaum M	Barnett G	Developmental Therapeutics	Developmental Therapeutics	undirected
+16	Vogelbaum M	Weil R	Developmental Therapeutics	Developmental Therapeutics	undirected
+16	Vogelbaum M	Adelstein D	Developmental Therapeutics	Developmental Therapeutics	undirected
+16	Vogelbaum M	Gladson C	Developmental Therapeutics	Cancer Cell Signaling	undirected
+16	Vogelbaum M	Peereboom D	Developmental Therapeutics	Developmental Therapeutics	undirected
+16	Vogelbaum M	Elson P	Developmental Therapeutics	Developmental Therapeutics	undirected
+16	Vogelbaum M	Borden E	Developmental Therapeutics	Developmental Therapeutics	undirected
+16	Vogelbaum M	Ahluwalia M	Developmental Therapeutics	Developmental Therapeutics	undirected
+16	Vogelbaum M	Suh J	Developmental Therapeutics	Developmental Therapeutics	undirected
+16	Triozzi P	Saunthararajah Y	Developmental Therapeutics	Hematopoietic Disorders	undirected
+16	Triozzi P	Garcia J	Developmental Therapeutics	GU Malignancies	undirected
+16	Triozzi P	Rini B	Developmental Therapeutics	GU Malignancies	undirected
+16	Triozzi P	Yi T	Developmental Therapeutics	Developmental Therapeutics	undirected
+16	Triozzi P	Cooney M	Developmental Therapeutics	GU Malignancies	undirected
+16	Triozzi P	Dreicer R	Developmental Therapeutics	GU Malignancies	undirected
+16	Triozzi P	Dowlati A	Developmental Therapeutics	Developmental Therapeutics	undirected
+16	Triozzi P	Elson P	Developmental Therapeutics	Developmental Therapeutics	undirected
+16	Triozzi P	Eng C	Developmental Therapeutics	Cancer Genetics	undirected
+16	Triozzi P	Finke J	Developmental Therapeutics	GU Malignancies	undirected
+16	Triozzi P	Klein E	Developmental Therapeutics	GU Malignancies	undirected
+16	Triozzi P	Borden E	Developmental Therapeutics	Developmental Therapeutics	undirected
+16	Triozzi P	Budd G	Developmental Therapeutics	Developmental Therapeutics	undirected
+16	Triozzi P	Lindner D	Developmental Therapeutics	Cell Death Regulation	undirected
+16	Schluchter M	Kunos C	Developmental Therapeutics	Developmental Therapeutics	undirected
+16	Schluchter M	Baron E	Developmental Therapeutics	Developmental Therapeutics	undirected
+16	Schluchter M	Caplan A	Developmental Therapeutics	Hematopoietic Disorders	undirected
+16	Schluchter M	Koroukian S	Developmental Therapeutics	Cancer Prevention, Control and Population Research	undirected
+16	Schluchter M	Dowlati A	Developmental Therapeutics	Developmental Therapeutics	undirected
+16	Schluchter M	Owusu C	Developmental Therapeutics	Aging-Cancer Research	undirected
+16	Schluchter M	Berger N	Developmental Therapeutics	Aging-Cancer Research	undirected
+16	Schluchter M	Lavertu P	Developmental Therapeutics	Developmental Therapeutics	undirected
+16	Schluchter M	Cooper K	Developmental Therapeutics	Hematopoietic Disorders	undirected
+16	Schluchter M	Krishnamurthi S	Developmental Therapeutics	Developmental Therapeutics	undirected
+16	Schluchter M	Borawski E	Developmental Therapeutics	Cancer Prevention, Control and Population Research	undirected
+16	Schluchter M	Friedman L	Developmental Therapeutics	Developmental Therapeutics	undirected
+16	Schluchter M	Savvides P	Developmental Therapeutics	Developmental Therapeutics	undirected
+16	Schluchter M	Oleinick N	Developmental Therapeutics	Cell Death Regulation	undirected
+16	Advani A	Elson P	Hematopoietic Disorders	Developmental Therapeutics	undirected
+16	Markowitz S	Fu P	Cancer Genetics	Developmental Therapeutics	undirected
+15	Berger N	Schluchter M	Aging-Cancer Research	Developmental Therapeutics	undirected
+15	Stark G	Sloan A	Cancer Cell Signaling	Developmental Therapeutics	undirected
+15	Meyerson H	Anderson J	Hematopoietic Disorders	Developmental Therapeutics	undirected
+15	Meyerson H	Fu P	Hematopoietic Disorders	Developmental Therapeutics	undirected
+15	Barnholtz sloan J	Sloan A	Cancer Genetics	Developmental Therapeutics	undirected
+15	Sobecks R	Elson P	Hematopoietic Disorders	Developmental Therapeutics	undirected
+15	Bokar J	Lavertu P	Developmental Therapeutics	Developmental Therapeutics	undirected
+15	Bokar J	Garcia J	Developmental Therapeutics	GU Malignancies	undirected
+15	Bokar J	Cooper B	Developmental Therapeutics	Hematopoietic Disorders	undirected
+15	Bokar J	Krishnamurthi S	Developmental Therapeutics	Developmental Therapeutics	undirected
+15	Bokar J	Cooney M	Developmental Therapeutics	GU Malignancies	undirected
+15	Bokar J	Mazanec P	Developmental Therapeutics	Aging-Cancer Research	undirected
+15	Bokar J	Dowlati A	Developmental Therapeutics	Developmental Therapeutics	undirected
+15	Bokar J	Savvides P	Developmental Therapeutics	Developmental Therapeutics	undirected
+15	Bokar J	Rini B	Developmental Therapeutics	GU Malignancies	undirected
+15	Bokar J	Fu P	Developmental Therapeutics	Developmental Therapeutics	undirected
+15	Bokar J	Elson P	Developmental Therapeutics	Developmental Therapeutics	undirected
+15	Bokar J	Dreicer R	Developmental Therapeutics	GU Malignancies	undirected
+15	Bokar J	Nock C	Developmental Therapeutics	Developmental Therapeutics	undirected
+14	Lee Z	Dowlati A	Cancer Imaging	Developmental Therapeutics	undirected
+14	Lee Z	Ma P	Cancer Imaging	Developmental Therapeutics	undirected
+14	Lee Z	Liu L	Cancer Imaging	Developmental Therapeutics	undirected
+14	Sloan A	Lee J	Developmental Therapeutics	Cancer Cell Signaling	undirected
+14	Sloan A	Hambardzumyan D	Developmental Therapeutics	Cancer Cell Signaling	undirected
+14	Sloan A	Lathia J	Developmental Therapeutics	Cancer Cell Signaling	undirected
+14	Sloan A	Basilion J	Developmental Therapeutics	Cancer Imaging	undirected
+14	Sloan A	Bao S	Developmental Therapeutics	Cell Death Regulation	undirected
+14	Sloan A	Wang B	Developmental Therapeutics	GU Malignancies	undirected
+14	Sloan A	Miller R	Developmental Therapeutics	Cancer Cell Signaling	undirected
+14	Sloan A	Hjelmeland A	Developmental Therapeutics	Cancer Cell Signaling	undirected
+14	Sloan A	Brady kalnay S	Developmental Therapeutics	Cancer Cell Signaling	undirected
+14	Sloan A	Barnholtz sloan J	Developmental Therapeutics	Cancer Genetics	undirected
+14	Sloan A	Rich J	Developmental Therapeutics	Cancer Cell Signaling	undirected
+14	Sloan A	Danielpour D	Developmental Therapeutics	GU Malignancies	undirected
+14	Sloan A	Stark G	Developmental Therapeutics	Cancer Cell Signaling	undirected
+13	Chao S	Suh J	Cancer Imaging	Developmental Therapeutics	undirected
+13	Chao S	Vogelbaum M	Cancer Imaging	Developmental Therapeutics	undirected
+13	Chao S	Adelstein D	Cancer Imaging	Developmental Therapeutics	undirected
+13	Chao S	Weil R	Cancer Imaging	Developmental Therapeutics	undirected
+13	Chao S	Ahluwalia M	Cancer Imaging	Developmental Therapeutics	undirected
+13	Chao S	Peereboom D	Cancer Imaging	Developmental Therapeutics	undirected
+13	Chao S	Barnett G	Cancer Imaging	Developmental Therapeutics	undirected
+13	Chao S	Elson P	Cancer Imaging	Developmental Therapeutics	undirected
+13	Sekeres M	Elson P	Hematopoietic Disorders	Developmental Therapeutics	undirected
+13	Radivoyevitch T	Pink J	Cancer Imaging	Developmental Therapeutics	undirected
+13	Radivoyevitch T	Kunos C	Cancer Imaging	Developmental Therapeutics	undirected
+13	Budd G	Dowlati A	Developmental Therapeutics	Developmental Therapeutics	undirected
+13	Budd G	Borden E	Developmental Therapeutics	Developmental Therapeutics	undirected
+13	Budd G	Cooney M	Developmental Therapeutics	GU Malignancies	undirected
+13	Budd G	Dreicer R	Developmental Therapeutics	GU Malignancies	undirected
+13	Budd G	Elson P	Developmental Therapeutics	Developmental Therapeutics	undirected
+13	Budd G	Moore H	Developmental Therapeutics	Cancer Prevention, Control and Population Research	undirected
+13	Budd G	Peereboom D	Developmental Therapeutics	Developmental Therapeutics	undirected
+13	Budd G	Yi T	Developmental Therapeutics	Developmental Therapeutics	undirected
+13	Budd G	Garcia J	Developmental Therapeutics	GU Malignancies	undirected
+13	Budd G	Triozzi P	Developmental Therapeutics	Developmental Therapeutics	undirected
+13	Budd G	Rini B	Developmental Therapeutics	GU Malignancies	undirected
+13	Cooper K	Honda K	Hematopoietic Disorders	Developmental Therapeutics	undirected
+13	Cooper K	Schluchter M	Hematopoietic Disorders	Developmental Therapeutics	undirected
+13	Cooper K	Baron E	Hematopoietic Disorders	Developmental Therapeutics	undirected
+13	Cooper K	Fu P	Hematopoietic Disorders	Developmental Therapeutics	undirected
+13	Basilion J	Sloan A	Cancer Imaging	Developmental Therapeutics	undirected
+13	Basilion J	Burda C	Cancer Imaging	Developmental Therapeutics	undirected
+13	Basilion J	Zborowski M	Cancer Imaging	Developmental Therapeutics	undirected
+13	Stephenson A	Elson P	GU Malignancies	Developmental Therapeutics	undirected
+13	Oleinick N	Baron E	Cell Death Regulation	Developmental Therapeutics	undirected
+13	Oleinick N	Burda C	Cell Death Regulation	Developmental Therapeutics	undirected
+13	Oleinick N	Lavertu P	Cell Death Regulation	Developmental Therapeutics	undirected
+13	Oleinick N	Kunos C	Cell Death Regulation	Developmental Therapeutics	undirected
+13	Oleinick N	Fu P	Cell Death Regulation	Developmental Therapeutics	undirected
+13	Oleinick N	Schluchter M	Cell Death Regulation	Developmental Therapeutics	undirected
+13	Oleinick N	Pink J	Cell Death Regulation	Developmental Therapeutics	undirected
+13	Finke J	Vogelbaum M	GU Malignancies	Developmental Therapeutics	undirected
+13	Finke J	Elson P	GU Malignancies	Developmental Therapeutics	undirected
+13	Finke J	Triozzi P	GU Malignancies	Developmental Therapeutics	undirected
+13	Finke J	Borden E	GU Malignancies	Developmental Therapeutics	undirected
+12	Hansel D	Elson P	GU Malignancies	Developmental Therapeutics	undirected
+12	Miller R	Sloan A	Cancer Cell Signaling	Developmental Therapeutics	undirected
+12	Miller R	Landreth G	Cancer Cell Signaling	Developmental Therapeutics	undirected
+12	Saunthararajah Y	Triozzi P	Hematopoietic Disorders	Developmental Therapeutics	undirected
+12	Pohlman B	Elson P	Hematopoietic Disorders	Developmental Therapeutics	undirected
+11	Kaplan D	Fu P	Hematopoietic Disorders	Developmental Therapeutics	undirected
+11	Mccrae K	Fu P	Cancer Cell Signaling	Developmental Therapeutics	undirected
+11	Mccrae K	Baar J	Cancer Cell Signaling	Developmental Therapeutics	undirected
+11	Mccrae K	Silverman P	Cancer Cell Signaling	Developmental Therapeutics	undirected
+11	Mccrae K	Leeming R	Cancer Cell Signaling	Developmental Therapeutics	undirected
+11	Liu L	Dowlati A	Developmental Therapeutics	Developmental Therapeutics	undirected
+11	Liu L	Gerson S	Developmental Therapeutics	Hematopoietic Disorders	undirected
+11	Liu L	Flask C	Developmental Therapeutics	Cancer Imaging	undirected
+11	Liu L	Borden E	Developmental Therapeutics	Developmental Therapeutics	undirected
+11	Liu L	Yi T	Developmental Therapeutics	Developmental Therapeutics	undirected
+11	Liu L	Wang Y	Developmental Therapeutics	Cancer Imaging	undirected
+11	Liu L	Lindner D	Developmental Therapeutics	Cell Death Regulation	undirected
+11	Liu L	Lee Z	Developmental Therapeutics	Cancer Imaging	undirected
+11	Liu L	Ma P	Developmental Therapeutics	Developmental Therapeutics	undirected
+11	Maclennan G	Fu P	GU Malignancies	Developmental Therapeutics	undirected
+11	Pink J	Jacobberger J	Developmental Therapeutics	Cancer Imaging	undirected
+11	Pink J	Radivoyevitch T	Developmental Therapeutics	Cancer Imaging	undirected
+11	Pink J	Kunos C	Developmental Therapeutics	Developmental Therapeutics	undirected
+11	Pink J	Fu P	Developmental Therapeutics	Developmental Therapeutics	undirected
+11	Pink J	Albert J	Developmental Therapeutics	NPA (core)	undirected
+11	Pink J	Montano M	Developmental Therapeutics	Cancer Cell Signaling	undirected
+11	Pink J	Dawson D	Developmental Therapeutics	Cancer Genetics	undirected
+11	Pink J	Waggoner S	Developmental Therapeutics	Developmental Therapeutics	undirected
+11	Pink J	Oleinick N	Developmental Therapeutics	Cell Death Regulation	undirected
+11	Pink J	Dowlati A	Developmental Therapeutics	Developmental Therapeutics	undirected
+11	Koroukian S	Schluchter M	Cancer Prevention, Control and Population Research	Developmental Therapeutics	undirected
+11	Koroukian S	Fu P	Cancer Prevention, Control and Population Research	Developmental Therapeutics	undirected
+11	Wang Z	Xu Y	Cancer Genetics	Developmental Therapeutics	undirected
+11	Ganapathi R	Rini B	Developmental Therapeutics	GU Malignancies	undirected
+11	Ganapathi R	Willard B	Developmental Therapeutics	NPA (core)	undirected
+11	Ganapathi R	Dreicer R	Developmental Therapeutics	GU Malignancies	undirected
+11	Ganapathi R	Elson P	Developmental Therapeutics	Developmental Therapeutics	undirected
+11	Ganapathi R	Rose P	Developmental Therapeutics	Developmental Therapeutics	undirected
+11	Ganapathi R	Cooney M	Developmental Therapeutics	GU Malignancies	undirected
+11	Ganapathi R	Belinson J	Developmental Therapeutics	Developmental Therapeutics	undirected
+11	Ganapathi R	Eng C	Developmental Therapeutics	Cancer Genetics	undirected
+11	Jacobberger J	Pink J	Cancer Imaging	Developmental Therapeutics	undirected
+11	Jacobberger J	Dowlati A	Cancer Imaging	Developmental Therapeutics	undirected
+11	Jacobberger J	Kunos C	Cancer Imaging	Developmental Therapeutics	undirected
+11	Eng C	Triozzi P	Cancer Genetics	Developmental Therapeutics	undirected
+11	Eng C	Ganapathi R	Cancer Genetics	Developmental Therapeutics	undirected
+10	Lindner D	Borden E	Cell Death Regulation	Developmental Therapeutics	undirected
+10	Lindner D	Yi T	Cell Death Regulation	Developmental Therapeutics	undirected
+10	Lindner D	Liu L	Cell Death Regulation	Developmental Therapeutics	undirected
+10	Lindner D	Triozzi P	Cell Death Regulation	Developmental Therapeutics	undirected
+10	Campbell S	Elson P	GU Malignancies	Developmental Therapeutics	undirected
+10	Guda K	Xu Y	Cancer Genetics	Developmental Therapeutics	undirected
+10	Savvides P	Fu P	Developmental Therapeutics	Developmental Therapeutics	undirected
+10	Savvides P	Cooper B	Developmental Therapeutics	Hematopoietic Disorders	undirected
+10	Savvides P	Lavertu P	Developmental Therapeutics	Developmental Therapeutics	undirected
+10	Savvides P	Krishnamurthi S	Developmental Therapeutics	Developmental Therapeutics	undirected
+10	Savvides P	Cooney M	Developmental Therapeutics	GU Malignancies	undirected
+10	Savvides P	Nock C	Developmental Therapeutics	Developmental Therapeutics	undirected
+10	Savvides P	Schluchter M	Developmental Therapeutics	Developmental Therapeutics	undirected
+10	Savvides P	Bokar J	Developmental Therapeutics	Developmental Therapeutics	undirected
+10	Savvides P	Dowlati A	Developmental Therapeutics	Developmental Therapeutics	undirected
+10	Rich J	Sloan A	Cancer Cell Signaling	Developmental Therapeutics	undirected
+10	Ma P	Wang Y	Developmental Therapeutics	Cancer Imaging	undirected
+10	Ma P	Koon H	Developmental Therapeutics	Cancer Imaging	undirected
+10	Ma P	Flask C	Developmental Therapeutics	Cancer Imaging	undirected
+10	Ma P	Gerson S	Developmental Therapeutics	Hematopoietic Disorders	undirected
+10	Ma P	Lee Z	Developmental Therapeutics	Cancer Imaging	undirected
+10	Ma P	Liu L	Developmental Therapeutics	Developmental Therapeutics	undirected
+10	Ma P	Fu P	Developmental Therapeutics	Developmental Therapeutics	undirected
+10	Ma P	Dowlati A	Developmental Therapeutics	Developmental Therapeutics	undirected
+10	Krishnamurthi S	Bokar J	Developmental Therapeutics	Developmental Therapeutics	undirected
+10	Krishnamurthi S	Cooney M	Developmental Therapeutics	GU Malignancies	undirected
+10	Krishnamurthi S	Dowlati A	Developmental Therapeutics	Developmental Therapeutics	undirected
+10	Krishnamurthi S	Meropol N	Developmental Therapeutics	Cancer Prevention, Control and Population Research	undirected
+10	Krishnamurthi S	Schluchter M	Developmental Therapeutics	Developmental Therapeutics	undirected
+10	Krishnamurthi S	Savvides P	Developmental Therapeutics	Developmental Therapeutics	undirected
+10	Krishnamurthi S	Nock C	Developmental Therapeutics	Developmental Therapeutics	undirected
+10	Krishnamurthi S	Cooper B	Developmental Therapeutics	Hematopoietic Disorders	undirected
+10	Laframboise T	Leidner R	Cancer Genetics	Developmental Therapeutics	undirected
+10	Jain M	Yang Y	Cancer Cell Signaling	Developmental Therapeutics	undirected
+9	Lee J	Sloan A	Cancer Cell Signaling	Developmental Therapeutics	undirected
+9	Lee J	Weil R	Cancer Cell Signaling	Developmental Therapeutics	undirected
+9	Gilligan T	Elson P	GU Malignancies	Developmental Therapeutics	undirected
+9	Weil R	Suh J	Developmental Therapeutics	Developmental Therapeutics	undirected
+9	Weil R	Elson P	Developmental Therapeutics	Developmental Therapeutics	undirected
+9	Weil R	Ahluwalia M	Developmental Therapeutics	Developmental Therapeutics	undirected
+9	Weil R	Peereboom D	Developmental Therapeutics	Developmental Therapeutics	undirected
+9	Weil R	Chao S	Developmental Therapeutics	Cancer Imaging	undirected
+9	Weil R	Vogelbaum M	Developmental Therapeutics	Developmental Therapeutics	undirected
+9	Weil R	Gladson C	Developmental Therapeutics	Cancer Cell Signaling	undirected
+9	Weil R	Lee J	Developmental Therapeutics	Cancer Cell Signaling	undirected
+9	Weil R	Barnett G	Developmental Therapeutics	Developmental Therapeutics	undirected
+9	Barnett G	Peereboom D	Developmental Therapeutics	Developmental Therapeutics	undirected
+9	Barnett G	Adelstein D	Developmental Therapeutics	Developmental Therapeutics	undirected
+9	Barnett G	Vogelbaum M	Developmental Therapeutics	Developmental Therapeutics	undirected
+9	Barnett G	Suh J	Developmental Therapeutics	Developmental Therapeutics	undirected
+9	Barnett G	Chao S	Developmental Therapeutics	Cancer Imaging	undirected
+9	Barnett G	Ahluwalia M	Developmental Therapeutics	Developmental Therapeutics	undirected
+9	Barnett G	Weil R	Developmental Therapeutics	Developmental Therapeutics	undirected
+9	Barnett G	Elson P	Developmental Therapeutics	Developmental Therapeutics	undirected
+9	Wang B	Sloan A	GU Malignancies	Developmental Therapeutics	undirected
+9	Wang Y	Dowlati A	Cancer Imaging	Developmental Therapeutics	undirected
+9	Wang Y	Ma P	Cancer Imaging	Developmental Therapeutics	undirected
+9	Wang Y	Liu L	Cancer Imaging	Developmental Therapeutics	undirected
+9	Dawson D	Pink J	Cancer Genetics	Developmental Therapeutics	undirected
+9	Dawson D	Fu P	Cancer Genetics	Developmental Therapeutics	undirected
+9	Suh J	Weil R	Developmental Therapeutics	Developmental Therapeutics	undirected
+9	Suh J	Chao S	Developmental Therapeutics	Cancer Imaging	undirected
+9	Suh J	Elson P	Developmental Therapeutics	Developmental Therapeutics	undirected
+9	Suh J	Adelstein D	Developmental Therapeutics	Developmental Therapeutics	undirected
+9	Suh J	Ahluwalia M	Developmental Therapeutics	Developmental Therapeutics	undirected
+9	Suh J	Barnett G	Developmental Therapeutics	Developmental Therapeutics	undirected
+9	Suh J	Vogelbaum M	Developmental Therapeutics	Developmental Therapeutics	undirected
+9	Suh J	Peereboom D	Developmental Therapeutics	Developmental Therapeutics	undirected
+9	Lathia J	Sloan A	Cancer Cell Signaling	Developmental Therapeutics	undirected
+9	Danielpour D	Sloan A	GU Malignancies	Developmental Therapeutics	undirected
+9	Kenney M	Burda C	Cell Death Regulation	Developmental Therapeutics	undirected
+9	Kenney M	Baron E	Cell Death Regulation	Developmental Therapeutics	undirected
+8	Peereboom D	Barnett G	Developmental Therapeutics	Developmental Therapeutics	undirected
+8	Peereboom D	Ahluwalia M	Developmental Therapeutics	Developmental Therapeutics	undirected
+8	Peereboom D	Weil R	Developmental Therapeutics	Developmental Therapeutics	undirected
+8	Peereboom D	Budd G	Developmental Therapeutics	Developmental Therapeutics	undirected
+8	Peereboom D	Chao S	Developmental Therapeutics	Cancer Imaging	undirected
+8	Peereboom D	Elson P	Developmental Therapeutics	Developmental Therapeutics	undirected
+8	Peereboom D	Vogelbaum M	Developmental Therapeutics	Developmental Therapeutics	undirected
+8	Peereboom D	Suh J	Developmental Therapeutics	Developmental Therapeutics	undirected
+8	Lavertu P	Bokar J	Developmental Therapeutics	Developmental Therapeutics	undirected
+8	Lavertu P	Dowlati A	Developmental Therapeutics	Developmental Therapeutics	undirected
+8	Lavertu P	Schluchter M	Developmental Therapeutics	Developmental Therapeutics	undirected
+8	Lavertu P	Savvides P	Developmental Therapeutics	Developmental Therapeutics	undirected
+8	Lavertu P	Oleinick N	Developmental Therapeutics	Cell Death Regulation	undirected
+8	Lavertu P	Adelstein D	Developmental Therapeutics	Developmental Therapeutics	undirected
+8	Lavertu P	Fu P	Developmental Therapeutics	Developmental Therapeutics	undirected
+8	Lavertu P	Cooney M	Developmental Therapeutics	GU Malignancies	undirected
+8	Ahluwalia M	Peereboom D	Developmental Therapeutics	Developmental Therapeutics	undirected
+8	Ahluwalia M	Weil R	Developmental Therapeutics	Developmental Therapeutics	undirected
+8	Ahluwalia M	Chao S	Developmental Therapeutics	Cancer Imaging	undirected
+8	Ahluwalia M	Gladson C	Developmental Therapeutics	Cancer Cell Signaling	undirected
+8	Ahluwalia M	Suh J	Developmental Therapeutics	Developmental Therapeutics	undirected
+8	Ahluwalia M	Elson P	Developmental Therapeutics	Developmental Therapeutics	undirected
+8	Ahluwalia M	Barnett G	Developmental Therapeutics	Developmental Therapeutics	undirected
+8	Ahluwalia M	Vogelbaum M	Developmental Therapeutics	Developmental Therapeutics	undirected
+8	Koon H	Fu P	Cancer Imaging	Developmental Therapeutics	undirected
+8	Koon H	Honda K	Cancer Imaging	Developmental Therapeutics	undirected
+8	Koon H	Ma P	Cancer Imaging	Developmental Therapeutics	undirected
+8	Nock C	Dowlati A	Developmental Therapeutics	Developmental Therapeutics	undirected
+8	Nock C	Cooney M	Developmental Therapeutics	GU Malignancies	undirected
+8	Nock C	Savvides P	Developmental Therapeutics	Developmental Therapeutics	undirected
+8	Nock C	Bokar J	Developmental Therapeutics	Developmental Therapeutics	undirected
+8	Nock C	Krishnamurthi S	Developmental Therapeutics	Developmental Therapeutics	undirected
+8	Nock C	Cooper B	Developmental Therapeutics	Hematopoietic Disorders	undirected
+8	Lederman M	Fu P	Cancer Prevention, Control and Population Research	Developmental Therapeutics	undirected
+8	Hjelmeland A	Sloan A	Cancer Cell Signaling	Developmental Therapeutics	undirected
+7	Rollins A	Belinson J	Cancer Imaging	Developmental Therapeutics	undirected
+7	Kim J	Kunos C	Cancer Imaging	Developmental Therapeutics	undirected
+7	Kim J	Leeming R	Cancer Imaging	Developmental Therapeutics	undirected
+7	Lam M	Baron E	Cell Death Regulation	Developmental Therapeutics	undirected
+7	Waggoner S	Dowlati A	Developmental Therapeutics	Developmental Therapeutics	undirected
+7	Waggoner S	Pink J	Developmental Therapeutics	Developmental Therapeutics	undirected
+7	Waggoner S	Abdul karim F	Developmental Therapeutics	Cancer Cell Signaling	undirected
+7	Waggoner S	Kunos C	Developmental Therapeutics	Developmental Therapeutics	undirected
+7	Waggoner S	Rose P	Developmental Therapeutics	Developmental Therapeutics	undirected
+7	Gupta S	Fu P	GU Malignancies	Developmental Therapeutics	undirected
+7	Hambardzumyan D	Sloan A	Cancer Cell Signaling	Developmental Therapeutics	undirected
+7	Bao S	Sloan A	Cell Death Regulation	Developmental Therapeutics	undirected
+7	Matsuyama S	Wald D	Cell Death Regulation	Developmental Therapeutics	undirected
+7	Baron E	Oleinick N	Developmental Therapeutics	Cell Death Regulation	undirected
+7	Baron E	Schluchter M	Developmental Therapeutics	Developmental Therapeutics	undirected
+7	Baron E	Fu P	Developmental Therapeutics	Developmental Therapeutics	undirected
+7	Baron E	Kenney M	Developmental Therapeutics	Cell Death Regulation	undirected
+7	Baron E	Cooper K	Developmental Therapeutics	Hematopoietic Disorders	undirected
+7	Baron E	Cooper B	Developmental Therapeutics	Hematopoietic Disorders	undirected
+7	Baron E	Lam M	Developmental Therapeutics	Cell Death Regulation	undirected
+7	Adelstein D	Barnett G	Developmental Therapeutics	Developmental Therapeutics	undirected
+7	Adelstein D	Chao S	Developmental Therapeutics	Cancer Imaging	undirected
+7	Adelstein D	Suh J	Developmental Therapeutics	Developmental Therapeutics	undirected
+7	Adelstein D	Vogelbaum M	Developmental Therapeutics	Developmental Therapeutics	undirected
+7	Adelstein D	Lavertu P	Developmental Therapeutics	Developmental Therapeutics	undirected
+7	Adelstein D	Borden E	Developmental Therapeutics	Developmental Therapeutics	undirected
+7	Yi T	Triozzi P	Developmental Therapeutics	Developmental Therapeutics	undirected
+7	Yi T	Gerson S	Developmental Therapeutics	Hematopoietic Disorders	undirected
+7	Yi T	Liu L	Developmental Therapeutics	Developmental Therapeutics	undirected
+7	Yi T	Elson P	Developmental Therapeutics	Developmental Therapeutics	undirected
+7	Yi T	Lindner D	Developmental Therapeutics	Cell Death Regulation	undirected
+7	Yi T	Budd G	Developmental Therapeutics	Developmental Therapeutics	undirected
+7	Yi T	Borden E	Developmental Therapeutics	Developmental Therapeutics	undirected
+7	Letterio J	Tochtrop G	Cell Death Regulation	Developmental Therapeutics	undirected
+7	Kao H	Xu Y	Cancer Cell Signaling	Developmental Therapeutics	undirected
+7	Xu Y	Montano M	Developmental Therapeutics	Cancer Cell Signaling	undirected
+7	Xu Y	Kao H	Developmental Therapeutics	Cancer Cell Signaling	undirected
+7	Xu Y	Wang Z	Developmental Therapeutics	Cancer Genetics	undirected
+7	Xu Y	Wald D	Developmental Therapeutics	Developmental Therapeutics	undirected
+7	Xu Y	Guda K	Developmental Therapeutics	Cancer Genetics	undirected
+7	Xu Y	Sedwick W	Developmental Therapeutics	Cancer Genetics	undirected
+7	Xu Y	Willis J	Developmental Therapeutics	Cancer Genetics	undirected
+7	Rose P	Elson P	Developmental Therapeutics	Developmental Therapeutics	undirected
+7	Rose P	Ganapathi R	Developmental Therapeutics	Developmental Therapeutics	undirected
+7	Rose P	Zanotti K	Developmental Therapeutics	Developmental Therapeutics	undirected
+7	Rose P	Belinson J	Developmental Therapeutics	Developmental Therapeutics	undirected
+7	Rose P	Waggoner S	Developmental Therapeutics	Developmental Therapeutics	undirected
+7	Rose P	Kunos C	Developmental Therapeutics	Developmental Therapeutics	undirected
+6	Sedwick W	Xu Y	Cancer Genetics	Developmental Therapeutics	undirected
+6	Broome A	Burda C	Cancer Imaging	Developmental Therapeutics	undirected
+6	Tiu R	Elson P	Hematopoietic Disorders	Developmental Therapeutics	undirected
+6	Gladson C	Ahluwalia M	Cancer Cell Signaling	Developmental Therapeutics	undirected
+6	Gladson C	Vogelbaum M	Cancer Cell Signaling	Developmental Therapeutics	undirected
+6	Gladson C	Weil R	Cancer Cell Signaling	Developmental Therapeutics	undirected
+6	Montano M	Xu Y	Cancer Cell Signaling	Developmental Therapeutics	undirected
+6	Montano M	Berdis A	Cancer Cell Signaling	Developmental Therapeutics	undirected
+6	Montano M	Pink J	Cancer Cell Signaling	Developmental Therapeutics	undirected
+6	Jackson M	Wald D	Cancer Genetics	Developmental Therapeutics	undirected
+6	Brady kalnay S	Sloan A	Cancer Cell Signaling	Developmental Therapeutics	undirected
+6	Byzova T	Borden E	GU Malignancies	Developmental Therapeutics	undirected
+6	Albert J	Pink J	NPA (core)	Developmental Therapeutics	undirected
+6	Wald D	Jackson M	Developmental Therapeutics	Cancer Genetics	undirected
+6	Wald D	Gerson S	Developmental Therapeutics	Hematopoietic Disorders	undirected
+6	Wald D	Xu Y	Developmental Therapeutics	Developmental Therapeutics	undirected
+6	Wald D	Matsuyama S	Developmental Therapeutics	Cell Death Regulation	undirected
+5	Hoppel C	Dowlati A	Developmental Therapeutics	Developmental Therapeutics	undirected
+5	Hoppel C	Hanson R	Developmental Therapeutics	Aging-Cancer Research	undirected
+5	Hoppel C	Fu P	Developmental Therapeutics	Developmental Therapeutics	undirected
+5	Burda C	Broome A	Developmental Therapeutics	Cancer Imaging	undirected
+5	Burda C	Basilion J	Developmental Therapeutics	Cancer Imaging	undirected
+5	Burda C	Kenney M	Developmental Therapeutics	Cell Death Regulation	undirected
+5	Burda C	Oleinick N	Developmental Therapeutics	Cell Death Regulation	undirected
+5	Magi galluzzi C	Elson P	GU Malignancies	Developmental Therapeutics	undirected
+5	Owusu C	Schluchter M	Aging-Cancer Research	Developmental Therapeutics	undirected
+5	Leeming R	Fu P	Developmental Therapeutics	Developmental Therapeutics	undirected
+5	Leeming R	Kim J	Developmental Therapeutics	Cancer Imaging	undirected
+5	Leeming R	Silverman P	Developmental Therapeutics	Developmental Therapeutics	undirected
+5	Leeming R	Mccrae K	Developmental Therapeutics	Cancer Cell Signaling	undirected
+5	Leeming R	Baar J	Developmental Therapeutics	Developmental Therapeutics	undirected
+5	Abdul karim F	Kunos C	Cancer Cell Signaling	Developmental Therapeutics	undirected
+5	Abdul karim F	Waggoner S	Cancer Cell Signaling	Developmental Therapeutics	undirected
+5	Willard B	Ganapathi R	NPA (core)	Developmental Therapeutics	undirected
+5	Heston W	Elson P	GU Malignancies	Developmental Therapeutics	undirected
+5	Houghton J	Dowlati A	Cell Death Regulation	Developmental Therapeutics	undirected
+5	Belinson J	Rollins A	Developmental Therapeutics	Cancer Imaging	undirected
+5	Belinson J	Rose P	Developmental Therapeutics	Developmental Therapeutics	undirected
+5	Belinson J	Ganapathi R	Developmental Therapeutics	Developmental Therapeutics	undirected
+5	Belinson J	Elson P	Developmental Therapeutics	Developmental Therapeutics	undirected
+5	Honda K	Koon H	Developmental Therapeutics	Cancer Imaging	undirected
+5	Honda K	Cooper K	Developmental Therapeutics	Hematopoietic Disorders	undirected
+5	Honda K	Cooper B	Developmental Therapeutics	Hematopoietic Disorders	undirected
+5	Honda K	Bordeaux J	Developmental Therapeutics	Cancer Prevention, Control and Population Research	undirected
+4	Brunengraber H	Tochtrop G	Aging-Cancer Research	Developmental Therapeutics	undirected
+4	Mazanec P	Bokar J	Aging-Cancer Research	Developmental Therapeutics	undirected
+4	Baar J	Mccrae K	Developmental Therapeutics	Cancer Cell Signaling	undirected
+4	Baar J	Silverman P	Developmental Therapeutics	Developmental Therapeutics	undirected
+4	Baar J	Leeming R	Developmental Therapeutics	Developmental Therapeutics	undirected
+4	Baar J	Fu P	Developmental Therapeutics	Developmental Therapeutics	undirected
+4	Leidner R	Levine A	Developmental Therapeutics	Cancer Cell Signaling	undirected
+4	Leidner R	Laframboise T	Developmental Therapeutics	Cancer Genetics	undirected
+4	Leidner R	Fu P	Developmental Therapeutics	Developmental Therapeutics	undirected
+4	Silverman P	Leeming R	Developmental Therapeutics	Developmental Therapeutics	undirected
+4	Silverman P	Mccrae K	Developmental Therapeutics	Cancer Cell Signaling	undirected
+4	Silverman P	Baar J	Developmental Therapeutics	Developmental Therapeutics	undirected
+4	Silverman P	Fu P	Developmental Therapeutics	Developmental Therapeutics	undirected
+4	Caplan A	Schluchter M	Hematopoietic Disorders	Developmental Therapeutics	undirected
+4	Shepard D	Elson P	Aging-Cancer Research	Developmental Therapeutics	undirected
+4	Levine A	Fu P	Cancer Cell Signaling	Developmental Therapeutics	undirected
+4	Levine A	Leidner R	Cancer Cell Signaling	Developmental Therapeutics	undirected
+3	Labhasetwar V	Zborowski M	Cancer Imaging	Developmental Therapeutics	undirected
+3	Meropol N	Krishnamurthi S	Cancer Prevention, Control and Population Research	Developmental Therapeutics	undirected
+3	Hanson R	Hoppel C	Aging-Cancer Research	Developmental Therapeutics	undirected
+3	Yang Y	Jain M	Developmental Therapeutics	Cancer Cell Signaling	undirected
+3	Yang Y	Maciejewski J	Developmental Therapeutics	Hematopoietic Disorders	undirected
+3	Bordeaux J	Honda K	Cancer Prevention, Control and Population Research	Developmental Therapeutics	undirected
+2	Tochtrop G	Brunengraber H	Developmental Therapeutics	Aging-Cancer Research	undirected
+2	Tochtrop G	Letterio J	Developmental Therapeutics	Cell Death Regulation	undirected
+2	Friedman L	Kunos C	Developmental Therapeutics	Developmental Therapeutics	undirected
+2	Friedman L	Schluchter M	Developmental Therapeutics	Developmental Therapeutics	undirected
+2	Zborowski M	Labhasetwar V	Developmental Therapeutics	Cancer Imaging	undirected
+2	Zborowski M	Basilion J	Developmental Therapeutics	Cancer Imaging	undirected
+2	Arts E	Gerson S	Developmental Therapeutics	Hematopoietic Disorders	undirected
+1	Reu F	Hsi E	Developmental Therapeutics	Hematopoietic Disorders	undirected
+1	Zanotti K	Rose P	Developmental Therapeutics	Developmental Therapeutics	undirected
+1	Ellis R	Fu P	Cancer Imaging	Developmental Therapeutics	undirected
+1	Sohn J	Kunos C	Cancer Imaging	Developmental Therapeutics	undirected
+1	Berdis A	Montano M	Developmental Therapeutics	Cancer Cell Signaling	undirected
+1	Moore H	Budd G	Cancer Prevention, Control and Population Research	Developmental Therapeutics	undirected
+1	Anderson J	Meyerson H	Developmental Therapeutics	Hematopoietic Disorders	undirected
+1	Landreth G	Miller R	Developmental Therapeutics	Cancer Cell Signaling	undirected
+1	Borawski E	Schluchter M	Cancer Prevention, Control and Population Research	Developmental Therapeutics	undirected

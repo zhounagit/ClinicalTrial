@@ -1,0 +1,315 @@
+degree	source	target	source_dept	target_dept	type
+41	Elson P	Klein E	Developmental Therapeutics	GU Malignancies	undirected
+41	Elson P	Cooney M	Developmental Therapeutics	GU Malignancies	undirected
+41	Elson P	Hansel D	Developmental Therapeutics	GU Malignancies	undirected
+41	Elson P	Dreicer R	Developmental Therapeutics	GU Malignancies	undirected
+41	Elson P	Stephenson A	Developmental Therapeutics	GU Malignancies	undirected
+41	Elson P	Finke J	Developmental Therapeutics	GU Malignancies	undirected
+41	Elson P	Garcia J	Developmental Therapeutics	GU Malignancies	undirected
+41	Elson P	Heston W	Developmental Therapeutics	GU Malignancies	undirected
+41	Elson P	Gilligan T	Developmental Therapeutics	GU Malignancies	undirected
+41	Elson P	Campbell S	Developmental Therapeutics	GU Malignancies	undirected
+41	Elson P	Rini B	Developmental Therapeutics	GU Malignancies	undirected
+41	Elson P	Magi galluzzi C	Developmental Therapeutics	GU Malignancies	undirected
+36	Dowlati A	Cooney M	Developmental Therapeutics	GU Malignancies	undirected
+36	Dowlati A	Dreicer R	Developmental Therapeutics	GU Malignancies	undirected
+36	Dowlati A	Garcia J	Developmental Therapeutics	GU Malignancies	undirected
+36	Dowlati A	Rini B	Developmental Therapeutics	GU Malignancies	undirected
+36	Fu P	Gupta S	Developmental Therapeutics	GU Malignancies	undirected
+36	Fu P	Maclennan G	Developmental Therapeutics	GU Malignancies	undirected
+36	Fu P	Cooney M	Developmental Therapeutics	GU Malignancies	undirected
+25	Rini B	Ganapathi R	GU Malignancies	Developmental Therapeutics	undirected
+25	Rini B	Klein E	GU Malignancies	GU Malignancies	undirected
+25	Rini B	Vogelbaum M	GU Malignancies	Developmental Therapeutics	undirected
+25	Rini B	Borden E	GU Malignancies	Developmental Therapeutics	undirected
+25	Rini B	Triozzi P	GU Malignancies	Developmental Therapeutics	undirected
+25	Rini B	Campbell S	GU Malignancies	GU Malignancies	undirected
+25	Rini B	Cooney M	GU Malignancies	GU Malignancies	undirected
+25	Rini B	Finke J	GU Malignancies	GU Malignancies	undirected
+25	Rini B	Saunthararajah Y	GU Malignancies	Hematopoietic Disorders	undirected
+25	Rini B	Eng C	GU Malignancies	Cancer Genetics	undirected
+25	Rini B	Gilligan T	GU Malignancies	GU Malignancies	undirected
+25	Rini B	Hansel D	GU Malignancies	GU Malignancies	undirected
+25	Rini B	Garcia J	GU Malignancies	GU Malignancies	undirected
+25	Rini B	Dowlati A	GU Malignancies	Developmental Therapeutics	undirected
+25	Rini B	Elson P	GU Malignancies	Developmental Therapeutics	undirected
+25	Rini B	Bokar J	GU Malignancies	Developmental Therapeutics	undirected
+25	Rini B	Lindner D	GU Malignancies	Cell Death Regulation	undirected
+25	Rini B	Budd G	GU Malignancies	Developmental Therapeutics	undirected
+25	Rini B	Tannenbaum C	GU Malignancies	GU Malignancies	undirected
+25	Rini B	Dreicer R	GU Malignancies	GU Malignancies	undirected
+25	Rini B	Stephenson A	GU Malignancies	GU Malignancies	undirected
+23	Klein E	Elson P	GU Malignancies	Developmental Therapeutics	undirected
+23	Klein E	Rini B	GU Malignancies	GU Malignancies	undirected
+23	Klein E	Magi galluzzi C	GU Malignancies	GU Malignancies	undirected
+23	Klein E	Campbell S	GU Malignancies	GU Malignancies	undirected
+23	Klein E	Byzova T	GU Malignancies	GU Malignancies	undirected
+23	Klein E	Manor D	GU Malignancies	Cancer Cell Signaling	undirected
+23	Klein E	Dreicer R	GU Malignancies	GU Malignancies	undirected
+23	Klein E	Garcia J	GU Malignancies	GU Malignancies	undirected
+23	Klein E	Wells B	GU Malignancies	Cancer Prevention, Control and Population Research	undirected
+23	Klein E	Ciezki J	GU Malignancies	GU Malignancies	undirected
+23	Klein E	Gilligan T	GU Malignancies	GU Malignancies	undirected
+23	Klein E	Triozzi P	GU Malignancies	Developmental Therapeutics	undirected
+23	Klein E	Stephenson A	GU Malignancies	GU Malignancies	undirected
+23	Klein E	Hansel D	GU Malignancies	GU Malignancies	undirected
+23	Klein E	Silverman R	GU Malignancies	GU Malignancies	undirected
+23	Klein E	Danielpour D	GU Malignancies	GU Malignancies	undirected
+23	Klein E	Barnholtz sloan J	GU Malignancies	Cancer Genetics	undirected
+23	Klein E	Chao S	GU Malignancies	Cancer Imaging	undirected
+23	Klein E	Kattan M	GU Malignancies	Cancer Prevention, Control and Population Research	undirected
+22	Cooney M	Ponsky L	GU Malignancies	GU Malignancies	undirected
+22	Cooney M	Dowlati A	GU Malignancies	Developmental Therapeutics	undirected
+22	Cooney M	Elson P	GU Malignancies	Developmental Therapeutics	undirected
+22	Cooney M	Krishnamurthi S	GU Malignancies	Developmental Therapeutics	undirected
+22	Cooney M	Budd G	GU Malignancies	Developmental Therapeutics	undirected
+22	Cooney M	Triozzi P	GU Malignancies	Developmental Therapeutics	undirected
+22	Cooney M	Rini B	GU Malignancies	GU Malignancies	undirected
+22	Cooney M	Dreicer R	GU Malignancies	GU Malignancies	undirected
+22	Cooney M	Nock C	GU Malignancies	Developmental Therapeutics	undirected
+22	Cooney M	Bokar J	GU Malignancies	Developmental Therapeutics	undirected
+22	Cooney M	Maclennan G	GU Malignancies	GU Malignancies	undirected
+22	Cooney M	Garcia J	GU Malignancies	GU Malignancies	undirected
+22	Cooney M	Savvides P	GU Malignancies	Developmental Therapeutics	undirected
+22	Cooney M	Cooper B	GU Malignancies	Hematopoietic Disorders	undirected
+22	Cooney M	Ganapathi R	GU Malignancies	Developmental Therapeutics	undirected
+22	Cooney M	Borden E	GU Malignancies	Developmental Therapeutics	undirected
+22	Cooney M	Lavertu P	GU Malignancies	Developmental Therapeutics	undirected
+22	Cooney M	Fu P	GU Malignancies	Developmental Therapeutics	undirected
+21	Garcia J	Campbell S	GU Malignancies	GU Malignancies	undirected
+21	Garcia J	Stephenson A	GU Malignancies	GU Malignancies	undirected
+21	Garcia J	Triozzi P	GU Malignancies	Developmental Therapeutics	undirected
+21	Garcia J	Dreicer R	GU Malignancies	GU Malignancies	undirected
+21	Garcia J	Bokar J	GU Malignancies	Developmental Therapeutics	undirected
+21	Garcia J	Shepard D	GU Malignancies	Aging-Cancer Research	undirected
+21	Garcia J	Hansel D	GU Malignancies	GU Malignancies	undirected
+21	Garcia J	Finke J	GU Malignancies	GU Malignancies	undirected
+21	Garcia J	Vogelbaum M	GU Malignancies	Developmental Therapeutics	undirected
+21	Garcia J	Cooney M	GU Malignancies	GU Malignancies	undirected
+21	Garcia J	Dowlati A	GU Malignancies	Developmental Therapeutics	undirected
+21	Garcia J	Elson P	GU Malignancies	Developmental Therapeutics	undirected
+21	Garcia J	Klein E	GU Malignancies	GU Malignancies	undirected
+21	Garcia J	Rini B	GU Malignancies	GU Malignancies	undirected
+21	Garcia J	Borden E	GU Malignancies	Developmental Therapeutics	undirected
+21	Garcia J	Budd G	GU Malignancies	Developmental Therapeutics	undirected
+21	Garcia J	Gilligan T	GU Malignancies	GU Malignancies	undirected
+21	Garcia J	Danielpour D	GU Malignancies	GU Malignancies	undirected
+21	Borden E	Rini B	Developmental Therapeutics	GU Malignancies	undirected
+21	Borden E	Byzova T	Developmental Therapeutics	GU Malignancies	undirected
+21	Borden E	Dreicer R	Developmental Therapeutics	GU Malignancies	undirected
+21	Borden E	Garcia J	Developmental Therapeutics	GU Malignancies	undirected
+21	Borden E	Cooney M	Developmental Therapeutics	GU Malignancies	undirected
+21	Borden E	Finke J	Developmental Therapeutics	GU Malignancies	undirected
+20	Dreicer R	Garcia J	GU Malignancies	GU Malignancies	undirected
+20	Dreicer R	Stephenson A	GU Malignancies	GU Malignancies	undirected
+20	Dreicer R	Gilligan T	GU Malignancies	GU Malignancies	undirected
+20	Dreicer R	Triozzi P	GU Malignancies	Developmental Therapeutics	undirected
+20	Dreicer R	Ganapathi R	GU Malignancies	Developmental Therapeutics	undirected
+20	Dreicer R	Elson P	GU Malignancies	Developmental Therapeutics	undirected
+20	Dreicer R	Budd G	GU Malignancies	Developmental Therapeutics	undirected
+20	Dreicer R	Cooney M	GU Malignancies	GU Malignancies	undirected
+20	Dreicer R	Hansel D	GU Malignancies	GU Malignancies	undirected
+20	Dreicer R	Klein E	GU Malignancies	GU Malignancies	undirected
+20	Dreicer R	Borden E	GU Malignancies	Developmental Therapeutics	undirected
+20	Dreicer R	Dowlati A	GU Malignancies	Developmental Therapeutics	undirected
+20	Dreicer R	Shepard D	GU Malignancies	Aging-Cancer Research	undirected
+20	Dreicer R	Bokar J	GU Malignancies	Developmental Therapeutics	undirected
+20	Dreicer R	Rini B	GU Malignancies	GU Malignancies	undirected
+20	Dreicer R	Finke J	GU Malignancies	GU Malignancies	undirected
+20	Dreicer R	Campbell S	GU Malignancies	GU Malignancies	undirected
+19	Cooper B	Cooney M	Hematopoietic Disorders	GU Malignancies	undirected
+16	Copelan E	Finke J	Hematopoietic Disorders	GU Malignancies	undirected
+16	Vogelbaum M	Rini B	Developmental Therapeutics	GU Malignancies	undirected
+16	Vogelbaum M	Finke J	Developmental Therapeutics	GU Malignancies	undirected
+16	Vogelbaum M	Garcia J	Developmental Therapeutics	GU Malignancies	undirected
+16	Triozzi P	Garcia J	Developmental Therapeutics	GU Malignancies	undirected
+16	Triozzi P	Rini B	Developmental Therapeutics	GU Malignancies	undirected
+16	Triozzi P	Cooney M	Developmental Therapeutics	GU Malignancies	undirected
+16	Triozzi P	Dreicer R	Developmental Therapeutics	GU Malignancies	undirected
+16	Triozzi P	Finke J	Developmental Therapeutics	GU Malignancies	undirected
+16	Triozzi P	Klein E	Developmental Therapeutics	GU Malignancies	undirected
+16	Elston R	Wang B	Cancer Genetics	GU Malignancies	undirected
+15	Barnholtz sloan J	Danielpour D	Cancer Genetics	GU Malignancies	undirected
+15	Barnholtz sloan J	Klein E	Cancer Genetics	GU Malignancies	undirected
+15	Bokar J	Garcia J	Developmental Therapeutics	GU Malignancies	undirected
+15	Bokar J	Cooney M	Developmental Therapeutics	GU Malignancies	undirected
+15	Bokar J	Rini B	Developmental Therapeutics	GU Malignancies	undirected
+15	Bokar J	Dreicer R	Developmental Therapeutics	GU Malignancies	undirected
+14	Lee Z	Wang B	Cancer Imaging	GU Malignancies	undirected
+14	Lee Z	Maclennan G	Cancer Imaging	GU Malignancies	undirected
+14	Sloan A	Wang B	Developmental Therapeutics	GU Malignancies	undirected
+14	Sloan A	Danielpour D	Developmental Therapeutics	GU Malignancies	undirected
+13	Chao S	Stephenson A	Cancer Imaging	GU Malignancies	undirected
+13	Chao S	Ciezki J	Cancer Imaging	GU Malignancies	undirected
+13	Chao S	Campbell S	Cancer Imaging	GU Malignancies	undirected
+13	Chao S	Klein E	Cancer Imaging	GU Malignancies	undirected
+13	Budd G	Cooney M	Developmental Therapeutics	GU Malignancies	undirected
+13	Budd G	Dreicer R	Developmental Therapeutics	GU Malignancies	undirected
+13	Budd G	Garcia J	Developmental Therapeutics	GU Malignancies	undirected
+13	Budd G	Rini B	Developmental Therapeutics	GU Malignancies	undirected
+13	Basilion J	Wang B	Cancer Imaging	GU Malignancies	undirected
+13	Basilion J	Danielpour D	Cancer Imaging	GU Malignancies	undirected
+13	Stephenson A	Chao S	GU Malignancies	Cancer Imaging	undirected
+13	Stephenson A	Garcia J	GU Malignancies	GU Malignancies	undirected
+13	Stephenson A	Dreicer R	GU Malignancies	GU Malignancies	undirected
+13	Stephenson A	Hansel D	GU Malignancies	GU Malignancies	undirected
+13	Stephenson A	Ciezki J	GU Malignancies	GU Malignancies	undirected
+13	Stephenson A	Wells B	GU Malignancies	Cancer Prevention, Control and Population Research	undirected
+13	Stephenson A	Elson P	GU Malignancies	Developmental Therapeutics	undirected
+13	Stephenson A	Kattan M	GU Malignancies	Cancer Prevention, Control and Population Research	undirected
+13	Stephenson A	Campbell S	GU Malignancies	GU Malignancies	undirected
+13	Stephenson A	Gilligan T	GU Malignancies	GU Malignancies	undirected
+13	Stephenson A	Klein E	GU Malignancies	GU Malignancies	undirected
+13	Stephenson A	Rini B	GU Malignancies	GU Malignancies	undirected
+13	Finke J	Garcia J	GU Malignancies	GU Malignancies	undirected
+13	Finke J	Rini B	GU Malignancies	GU Malignancies	undirected
+13	Finke J	Vogelbaum M	GU Malignancies	Developmental Therapeutics	undirected
+13	Finke J	Elson P	GU Malignancies	Developmental Therapeutics	undirected
+13	Finke J	Tannenbaum C	GU Malignancies	GU Malignancies	undirected
+13	Finke J	Bolwell B	GU Malignancies	Hematopoietic Disorders	undirected
+13	Finke J	Copelan E	GU Malignancies	Hematopoietic Disorders	undirected
+13	Finke J	Triozzi P	GU Malignancies	Developmental Therapeutics	undirected
+13	Finke J	Borden E	GU Malignancies	Developmental Therapeutics	undirected
+13	Finke J	Dreicer R	GU Malignancies	GU Malignancies	undirected
+12	Hansel D	Eng C	GU Malignancies	Cancer Genetics	undirected
+12	Hansel D	Stephenson A	GU Malignancies	GU Malignancies	undirected
+12	Hansel D	Maclennan G	GU Malignancies	GU Malignancies	undirected
+12	Hansel D	Garcia J	GU Malignancies	GU Malignancies	undirected
+12	Hansel D	Elson P	GU Malignancies	Developmental Therapeutics	undirected
+12	Hansel D	Dreicer R	GU Malignancies	GU Malignancies	undirected
+12	Hansel D	Campbell S	GU Malignancies	GU Malignancies	undirected
+12	Hansel D	Rini B	GU Malignancies	GU Malignancies	undirected
+12	Hansel D	Heston W	GU Malignancies	GU Malignancies	undirected
+12	Hansel D	Magi galluzzi C	GU Malignancies	GU Malignancies	undirected
+12	Hansel D	Klein E	GU Malignancies	GU Malignancies	undirected
+12	Saunthararajah Y	Rini B	Hematopoietic Disorders	GU Malignancies	undirected
+12	Bolwell B	Finke J	Hematopoietic Disorders	GU Malignancies	undirected
+11	Maclennan G	Rollins A	GU Malignancies	Cancer Imaging	undirected
+11	Maclennan G	Hansel D	GU Malignancies	GU Malignancies	undirected
+11	Maclennan G	Ponsky L	GU Malignancies	GU Malignancies	undirected
+11	Maclennan G	Zhu H	GU Malignancies	GU Malignancies	undirected
+11	Maclennan G	Cooney M	GU Malignancies	GU Malignancies	undirected
+11	Maclennan G	Gupta S	GU Malignancies	GU Malignancies	undirected
+11	Maclennan G	Lee Z	GU Malignancies	Cancer Imaging	undirected
+11	Maclennan G	Fu P	GU Malignancies	Developmental Therapeutics	undirected
+11	Silverman R	Weinberg A	GU Malignancies	Cancer Prevention, Control and Population Research	undirected
+11	Silverman R	Heston W	GU Malignancies	GU Malignancies	undirected
+11	Silverman R	Eng C	GU Malignancies	Cancer Genetics	undirected
+11	Silverman R	Sen G	GU Malignancies	Cancer Cell Signaling	undirected
+11	Silverman R	Harding C	GU Malignancies	Hematopoietic Disorders	undirected
+11	Silverman R	Klein E	GU Malignancies	GU Malignancies	undirected
+11	Silverman R	Lederman M	GU Malignancies	Cancer Prevention, Control and Population Research	undirected
+11	Koroukian S	Cherullo E	Cancer Prevention, Control and Population Research	GU Malignancies	undirected
+11	Koroukian S	Gupta S	Cancer Prevention, Control and Population Research	GU Malignancies	undirected
+11	Ganapathi R	Rini B	Developmental Therapeutics	GU Malignancies	undirected
+11	Ganapathi R	Dreicer R	Developmental Therapeutics	GU Malignancies	undirected
+11	Ganapathi R	Cooney M	Developmental Therapeutics	GU Malignancies	undirected
+11	Eng C	Hansel D	Cancer Genetics	GU Malignancies	undirected
+11	Eng C	Heston W	Cancer Genetics	GU Malignancies	undirected
+11	Eng C	Silverman R	Cancer Genetics	GU Malignancies	undirected
+11	Eng C	Rini B	Cancer Genetics	GU Malignancies	undirected
+11	Eng C	Magi galluzzi C	Cancer Genetics	GU Malignancies	undirected
+10	Weinberg A	Silverman R	Cancer Prevention, Control and Population Research	GU Malignancies	undirected
+10	Lindner D	Rini B	Cell Death Regulation	GU Malignancies	undirected
+10	Campbell S	Garcia J	GU Malignancies	GU Malignancies	undirected
+10	Campbell S	Klein E	GU Malignancies	GU Malignancies	undirected
+10	Campbell S	Rini B	GU Malignancies	GU Malignancies	undirected
+10	Campbell S	Hansel D	GU Malignancies	GU Malignancies	undirected
+10	Campbell S	Stephenson A	GU Malignancies	GU Malignancies	undirected
+10	Campbell S	Ciezki J	GU Malignancies	GU Malignancies	undirected
+10	Campbell S	Elson P	GU Malignancies	Developmental Therapeutics	undirected
+10	Campbell S	Chao S	GU Malignancies	Cancer Imaging	undirected
+10	Campbell S	Dreicer R	GU Malignancies	GU Malignancies	undirected
+10	Savvides P	Cooney M	Developmental Therapeutics	GU Malignancies	undirected
+10	Krishnamurthi S	Cooney M	Developmental Therapeutics	GU Malignancies	undirected
+9	Gilligan T	Dreicer R	GU Malignancies	GU Malignancies	undirected
+9	Gilligan T	Kattan M	GU Malignancies	Cancer Prevention, Control and Population Research	undirected
+9	Gilligan T	Rini B	GU Malignancies	GU Malignancies	undirected
+9	Gilligan T	Wells B	GU Malignancies	Cancer Prevention, Control and Population Research	undirected
+9	Gilligan T	Stephenson A	GU Malignancies	GU Malignancies	undirected
+9	Gilligan T	Elson P	GU Malignancies	Developmental Therapeutics	undirected
+9	Gilligan T	Klein E	GU Malignancies	GU Malignancies	undirected
+9	Gilligan T	Garcia J	GU Malignancies	GU Malignancies	undirected
+9	Wang B	Lee Z	GU Malignancies	Cancer Imaging	undirected
+9	Wang B	Basilion J	GU Malignancies	Cancer Imaging	undirected
+9	Wang B	Sloan A	GU Malignancies	Developmental Therapeutics	undirected
+9	Wang B	Luo G	GU Malignancies	Cell Death Regulation	undirected
+9	Wang B	Danielpour D	GU Malignancies	GU Malignancies	undirected
+9	Wang B	Buck M	GU Malignancies	Cancer Cell Signaling	undirected
+9	Wang B	Iyengar S	GU Malignancies	Cancer Genetics	undirected
+9	Wang B	Elston R	GU Malignancies	Cancer Genetics	undirected
+9	Danielpour D	Barnholtz sloan J	GU Malignancies	Cancer Genetics	undirected
+9	Danielpour D	Basilion J	GU Malignancies	Cancer Imaging	undirected
+9	Danielpour D	Matsuyama S	GU Malignancies	Cell Death Regulation	undirected
+9	Danielpour D	Wang B	GU Malignancies	GU Malignancies	undirected
+9	Danielpour D	Manor D	GU Malignancies	Cancer Cell Signaling	undirected
+9	Danielpour D	Jackson M	GU Malignancies	Cancer Genetics	undirected
+9	Danielpour D	Sloan A	GU Malignancies	Developmental Therapeutics	undirected
+9	Danielpour D	Klein E	GU Malignancies	GU Malignancies	undirected
+9	Danielpour D	Garcia J	GU Malignancies	GU Malignancies	undirected
+8	Lavertu P	Cooney M	Developmental Therapeutics	GU Malignancies	undirected
+8	Nock C	Cooney M	Developmental Therapeutics	GU Malignancies	undirected
+8	Lederman M	Silverman R	Cancer Prevention, Control and Population Research	GU Malignancies	undirected
+7	Rollins A	Maclennan G	Cancer Imaging	GU Malignancies	undirected
+7	Rollins A	Zhu H	Cancer Imaging	GU Malignancies	undirected
+7	Gupta S	Fu P	GU Malignancies	Developmental Therapeutics	undirected
+7	Gupta S	Koroukian S	GU Malignancies	Cancer Prevention, Control and Population Research	undirected
+7	Gupta S	Cherullo E	GU Malignancies	GU Malignancies	undirected
+7	Gupta S	Maclennan G	GU Malignancies	GU Malignancies	undirected
+7	Cherullo E	Koroukian S	GU Malignancies	Cancer Prevention, Control and Population Research	undirected
+7	Cherullo E	Ponsky L	GU Malignancies	GU Malignancies	undirected
+7	Cherullo E	Gupta S	GU Malignancies	GU Malignancies	undirected
+7	Cherullo E	Haaga J	GU Malignancies	Cancer Imaging	undirected
+7	Matsuyama S	Danielpour D	Cell Death Regulation	GU Malignancies	undirected
+7	Kattan M	Ciezki J	Cancer Prevention, Control and Population Research	GU Malignancies	undirected
+7	Kattan M	Gilligan T	Cancer Prevention, Control and Population Research	GU Malignancies	undirected
+7	Kattan M	Stephenson A	Cancer Prevention, Control and Population Research	GU Malignancies	undirected
+7	Kattan M	Klein E	Cancer Prevention, Control and Population Research	GU Malignancies	undirected
+7	Ciezki J	Stephenson A	GU Malignancies	GU Malignancies	undirected
+7	Ciezki J	Kattan M	GU Malignancies	Cancer Prevention, Control and Population Research	undirected
+7	Ciezki J	Campbell S	GU Malignancies	GU Malignancies	undirected
+7	Ciezki J	Chao S	GU Malignancies	Cancer Imaging	undirected
+7	Ciezki J	Klein E	GU Malignancies	GU Malignancies	undirected
+6	Harding C	Silverman R	Hematopoietic Disorders	GU Malignancies	undirected
+6	Jackson M	Danielpour D	Cancer Genetics	GU Malignancies	undirected
+6	Byzova T	Qin J	GU Malignancies	Cancer Cell Signaling	undirected
+6	Byzova T	Klein E	GU Malignancies	GU Malignancies	undirected
+6	Byzova T	Borden E	GU Malignancies	Developmental Therapeutics	undirected
+6	Byzova T	Plow E	GU Malignancies	Cancer Cell Signaling	undirected
+6	Byzova T	Sossey alaoui K	GU Malignancies	Cancer Cell Signaling	undirected
+5	Magi galluzzi C	Klein E	GU Malignancies	GU Malignancies	undirected
+5	Magi galluzzi C	Heston W	GU Malignancies	GU Malignancies	undirected
+5	Magi galluzzi C	Hansel D	GU Malignancies	GU Malignancies	undirected
+5	Magi galluzzi C	Elson P	GU Malignancies	Developmental Therapeutics	undirected
+5	Magi galluzzi C	Eng C	GU Malignancies	Cancer Genetics	undirected
+5	Plow E	Byzova T	Cancer Cell Signaling	GU Malignancies	undirected
+5	Luo G	Wang B	Cell Death Regulation	GU Malignancies	undirected
+5	Haaga J	Cherullo E	Cancer Imaging	GU Malignancies	undirected
+5	Haaga J	Ponsky L	Cancer Imaging	GU Malignancies	undirected
+5	Heston W	Eng C	GU Malignancies	Cancer Genetics	undirected
+5	Heston W	Silverman R	GU Malignancies	GU Malignancies	undirected
+5	Heston W	Magi galluzzi C	GU Malignancies	GU Malignancies	undirected
+5	Heston W	Hansel D	GU Malignancies	GU Malignancies	undirected
+5	Heston W	Elson P	GU Malignancies	Developmental Therapeutics	undirected
+4	Manor D	Klein E	Cancer Cell Signaling	GU Malignancies	undirected
+4	Manor D	Danielpour D	Cancer Cell Signaling	GU Malignancies	undirected
+4	Iyengar S	Wang B	Cancer Genetics	GU Malignancies	undirected
+4	Sen G	Silverman R	Cancer Cell Signaling	GU Malignancies	undirected
+4	Wells B	Stephenson A	Cancer Prevention, Control and Population Research	GU Malignancies	undirected
+4	Wells B	Gilligan T	Cancer Prevention, Control and Population Research	GU Malignancies	undirected
+4	Wells B	Klein E	Cancer Prevention, Control and Population Research	GU Malignancies	undirected
+4	Qin J	Byzova T	Cancer Cell Signaling	GU Malignancies	undirected
+4	Shepard D	Garcia J	Aging-Cancer Research	GU Malignancies	undirected
+4	Shepard D	Dreicer R	Aging-Cancer Research	GU Malignancies	undirected
+4	Ponsky L	Cooney M	GU Malignancies	GU Malignancies	undirected
+4	Ponsky L	Maclennan G	GU Malignancies	GU Malignancies	undirected
+4	Ponsky L	Cherullo E	GU Malignancies	GU Malignancies	undirected
+4	Ponsky L	Haaga J	GU Malignancies	Cancer Imaging	undirected
+3	Zhu H	Maclennan G	GU Malignancies	GU Malignancies	undirected
+3	Zhu H	Lou H	GU Malignancies	Cancer Genetics	undirected
+3	Zhu H	Rollins A	GU Malignancies	Cancer Imaging	undirected
+3	Tannenbaum C	Finke J	GU Malignancies	GU Malignancies	undirected
+3	Tannenbaum C	Rini B	GU Malignancies	GU Malignancies	undirected
+3	Buck M	Wang B	Cancer Cell Signaling	GU Malignancies	undirected
+3	Sossey alaoui K	Byzova T	Cancer Cell Signaling	GU Malignancies	undirected
+2	Lou H	Zhu H	Cancer Genetics	GU Malignancies	undirected
