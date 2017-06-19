@@ -52,7 +52,7 @@ public class JavaMulticlassClassificationMetricsExample {
             PrintWriter out = new PrintWriter(new FileWriter("/Users/HIA/Na/serious/0615_3040features_statistic.csv", true), true);
             out.write("topNumberedFeatures");
             out.write(",");
-            out.write("class label");
+            out.write("class label"); //class labe1 = 0.0, without death; class label 1.0, with death. 
             out.write(",");
             out.write("precision");
             out.write(",");
