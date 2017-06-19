@@ -10,7 +10,7 @@
 Later source codes are based on this version, refer to folder "Generate new features/Features.java" to see updated version to get above data.
   
 - Generate new features : 
-  - This folder has source code to generate data of trial id, Number of Participant, Mean Age, Phase, Intervention, Condition and Serious Adverse Events, all these features are imported from a csv file which consists of 3040 features. Features.java will generate "3040 features" result, which is the input to JavaMulticlassClassificationMetricsExample.java, this classification model will generate
+  - This folder has source code to generate data of trial id, Number of Participant, Mean Age, Phase, Intervention, Condition and Serious Adverse Events, all these features are imported from a csv file which consists of 3040 features. Features.java will generate "3040 features" result, which is the input to  JavaMulticlassClassificationMetricsExample.java,  this classification model will generate
 class label(0.0 - without death; 1.0 - with death), precision, recall, f1-score, accuracy, or confusion matrix. 
 
   - For other classification source code, please refer to spark-rdd-dataframe-dataset-master project in IntelliJ IDEA.
