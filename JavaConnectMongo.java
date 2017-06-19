@@ -23,9 +23,7 @@ import static java.util.Arrays.asList;
 public class javaConnectMongo {
     
     public static void inputQuery(MongoCursor<Document> cursor)
-    {
-        
-        
+    {  
         try {
             while (cursor.hasNext()) {
                 Document doc = cursor.next();
@@ -94,24 +92,19 @@ public class javaConnectMongo {
                                     Map<String,String> event_ca = new HashMap<String, String>();
                                     
                                     int subjects_affected_size = 0;
-                                    
-                                    
-                                    
+
                                     // j is the row index of serious adverse events table,except j=0 (neglect total result)
                                     for (int j = 1; j < arr_category.length(); j++)
                                     {
                                         
                                         JSONObject event_list = arr_category.getJSONObject(j).getJSONObject("event_list");
-                                        
-                                        
+ 
                                         //if event is JSONObject
                                         if (event_list.get("event") instanceof JSONObject)
-                                            
                                         {
                                             //what if counts is not array even group is an array? for NCT00401778
                                             JSONObject event = event_list.getJSONObject("event");
-                                            
-                                            
+
                                             if (event.get("counts") instanceof JSONArray)
                                             {
                                                 if (iCount < event.getJSONArray("counts").length()) {
@@ -161,7 +154,6 @@ public class javaConnectMongo {
                                                     //sub_title is JSONObject
                                                 } else if (event.get("sub_title") instanceof JSONObject) {
                                                     
-                                                    
                                                     if(arr_category.getJSONObject(j).has("title")) {
                                                         
                                                         category.append(arr_category.getJSONObject(j).getString("title").toString().replace(",","").replace(" ","_"));
@@ -189,9 +181,8 @@ public class javaConnectMongo {
                                         } else if (event_list.get("event") instanceof JSONArray) {
                                             
                                             JSONArray event = event_list.getJSONArray("event");
-                                            
-                                            
                                             category.append("\n");
+                                            
                                             //traverse event array size
                                             for (int iEvent = 0; iEvent < event.length(); iEvent++) {
                                                 //**************** to fix NCT00088881 issue: the third group exists but counts only has two groups content
@@ -203,8 +194,7 @@ public class javaConnectMongo {
                                                         if (counts.getJSONObject(iCount).has("subjects_affected")) {
                                                             subjects_affected_size = counts.getJSONObject(iCount).getInt("subjects_affected");
                                                         }
-                                                        
-                                                        
+                  
                                                     }
                                                 } else if (event.getJSONObject(iEvent).get("counts") instanceof JSONObject) {
                                                     
@@ -222,8 +212,7 @@ public class javaConnectMongo {
                                                     if (event.getJSONObject(iEvent).has("sub_title")) {
                                                         
                                                         if (event.getJSONObject(iEvent).get("sub_title") instanceof String) {
-                                                            
-                                                            
+                                                                                                                   
                                                             if(arr_category.getJSONObject(j).has("title")) {
                                                                 
                                                                 category.append(arr_category.getJSONObject(j).getString("title").toString().replace(",", "").replace(" ", "_"));
@@ -384,8 +373,7 @@ public class javaConnectMongo {
                     trial_death.close();
                     category.close();
                     
-            
-                        
+         
                         Iterator<Map.Entry<String, String>> iterator = map_cat.entrySet().iterator();
                         
                         while (iterator.hasNext()) {
@@ -407,10 +395,7 @@ public class javaConnectMongo {
         } catch (JSONException e) {
             e.printStackTrace();
         }
-        
-        
-        
-        
+         
     }
     
     
