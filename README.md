@@ -6,9 +6,9 @@
  conditions, interventions, phase, serious adverse events, participants average age, participant#, etc.
  
 - JavaConnectMongo.java :
-  - This is the basic source file to generate serious adverse event subtitle, its category, clinical trial id, condition, intervention....,definitely not the most simple one. The coding style is following Robomongo trial data structure, you can remove or add more searching criteria. Make sure refer to schema.txt to updata data element in "MongoCursor<Document> cursor" of JavaConnectMongo.java
+   - This is the basic source file to generate serious adverse event subtitle, its category, clinical trial id, condition, intervention....,definitely not the most simple one. The coding style is following Robomongo trial data structure, you can remove or add more searching criteria. Make sure refer to schema.txt to updata data element in "MongoCursor<Document> cursor" of JavaConnectMongo.java
  
- - Later source codes are based on this version, refer to folder "Generate new features/Features.java" to see updated version to get above data.
+  -Later source codes are based on this version, refer to folder "Generate new features/Features.java" to see updated version to get above data.
   
 - Generate new features : 
 This folder has source code to generate data of trial id, Number of Participant, Mean Age, Phase, Intervention, Condition and Serious Adverse Events, all these features are imported from a csv file which consists of 3040 features. 
