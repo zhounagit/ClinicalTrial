@@ -18,8 +18,8 @@ import static java.util.Arrays.asList;
 
 /**
  * Created by Na on 1/10/16. This is the first version of javaConnectMongo to generate serious adverse event subtitle, trial id,
- condition,intervention, etc. It can be simplified up to your needs, even the coding style is very basic. Please welcome to make it more
- efficient.
+ condition,intervention, etc. It can be simplified up to your needs, even the coding style is very basic. Welcome to make it more
+ efficient. Later source codes are based on this version, you can refer to Features.java to see updated version to get above data.
  */
 
 public class javaConnectMongo {
