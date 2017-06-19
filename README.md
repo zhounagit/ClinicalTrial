@@ -6,7 +6,7 @@
  conditions, interventions, phase, serious adverse events, participants average age, participant#, etc.
  
 - JavaConnectMongo.java :
-   - This is the basic source file to generate serious adverse event subtitle, its category, clinical trial id, condition, intervention....,definitely not the most simple one. The coding style is following Robomongo trial data structure, you can remove or add more searching criteria. Make sure refer to schema.txt to updata data element in "MongoCursor<Document> cursor" of JavaConnectMongo.java.
+   - This is the basic source file to generate serious adverse event subtitle, its category, clinical trial id, condition, intervention....,definitely not the most simple one. The coding style is following Robomongo trial data structure, you can remove or add more searching criteria. Make sure refer to schema.txt to update data element in "MongoCursor<Document> cursor" of JavaConnectMongo.java.
 Later source codes are based on this version, refer to folder "Generate new features/Features.java" to see updated version to get above data.
   
 - Generate new features : 
@@ -15,9 +15,9 @@ class label(0.0 - without death; 1.0 - with death), precision, recall, f1-score,
 
   - For other classification source code, please refer to spark-rdd-dataframe-dataset-master project in IntelliJ IDEA.
   
-- Folder gephi graph (demo) folders have previous graphs made to domenstrate top high confidence/frequency serious adverse events to event "Death". 
+- Folder gephi graph (demo) folders have previous graphs made to demonstrate top high confidence/frequency serious adverse events to event "Death". 
 
-- For more source data, please refer to Appendix.doc.
+- For more generated data, please refer to Appendix.doc.
 
 - Analyzing Lethal Adverse Event Association Patterns in Clinical Trials_Draft.docx is the earlier version of paper draft, the classfication model on 3040 selected features can be considered in final paper. 
 
