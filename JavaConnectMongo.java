@@ -17,7 +17,9 @@ import static com.mongodb.client.model.Projections.*;
 import static java.util.Arrays.asList;
 
 /**
- * Created by Na on 1/10/16.
+ * Created by Na on 1/10/16. This is the first version of javaConnectMongo to generate serious adverse event subtitle, trial id,
+ condition,intervention, etc. It can be simplified up to your needs, even the coding style is very basic. Please welcome to make it more
+ efficient.
  */
 
 public class javaConnectMongo {
@@ -276,13 +278,11 @@ public class javaConnectMongo {
                                     {
                                         
                                         if(s.contains("Death"))
-                                        {
-                                            
-                                            trial_death.write(nct_id+"\n");
-                                            
+                                        {                  
+                                            trial_death.write(nct_id+"\n"); 
                                             if (json.optJSONObject("clinical_study").has("condition")) {
                                                 
-                                                if(nct_temp1==nct_id){
+                                                if(nct_temp1==nct_id){ //this part can be omitted
                                                     
                                                 }else{
                                                     
@@ -318,7 +318,7 @@ public class javaConnectMongo {
                                             
                                             if (json.optJSONObject("clinical_study").has("intervention")) {
                                                 
-                                                if(nct_temp2==nct_id){
+                                                if(nct_temp2==nct_id){ //this part can be omitted
                                                     
                                                 }else{
                                                     
