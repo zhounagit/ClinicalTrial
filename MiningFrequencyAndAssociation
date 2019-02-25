@@ -1,0 +1,132 @@
+import org.apache.spark.SparkConf;
+import org.apache.spark.api.java.JavaRDD;
+import org.apache.spark.api.java.JavaSparkContext;
+import org.apache.spark.api.java.function.Function;
+import org.apache.spark.mllib.fpm.AssociationRules;
+import org.apache.spark.mllib.fpm.FPGrowth;
+import org.apache.spark.mllib.fpm.FPGrowthModel;
+
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.util.*;
+import java.util.Map.Entry;
+
+
+public class MiningFrequencyAndAssociation {
+    public static void main(String[] args) {
+        String inputFile = "/Users/nazhou/Downloads/testdata.txt";
+        SparkConf conf = new SparkConf ().setAppName ("FP-Growth Example").setMaster ("local");
+        JavaSparkContext sc = new JavaSparkContext (conf);
+        JavaRDD<String> data = sc.textFile (inputFile).cache ();
+        JavaRDD<List<String>> transactions = data.map (
+                (Function<String, List<String>>) line -> {
+                    String[] parts = line.split (" ");
+                    return Arrays.asList (parts);
+                }
+        );
+
+        FPGrowth fpg = new FPGrowth ()
+                .setMinSupport (0.3)
+                .setNumPartitions (3);
+
+        FPGrowthModel<String> model = fpg.run (transactions);
+        Map<String, Integer> freqMap = new HashMap<> ();
+        Map<String, Double> confMap = new HashMap<> ();
+
+        try {
+            PrintWriter completeConfidence = new PrintWriter (new FileOutputStream (("/Users/nazhou/Downloads/output/Confidence.csv"), false));
+            PrintWriter completeFrequency = new PrintWriter (new FileOutputStream (("/Users/nazhou/Downloads/output/FrequencyPatterns.csv"), false));
+            CreateColumnsHeader(completeFrequency, completeConfidence);
+
+            //Mining frequent patterns
+            for (FPGrowth.FreqItemset<String> itemset : model.freqItemsets ().toJavaRDD ().collect ()) {
+
+                freqMap.put (itemset.javaItems ().toString (), (int) itemset.freq ());
+            }
+
+            Map sortedFreq = SortByValues(freqMap);
+            CollectValues ((HashMap<String, Integer>)sortedFreq, completeFrequency);
+
+            //Discover association rules on items > Min Support
+            double minConfidence = 0.5;
+            for (AssociationRules.Rule<String> rule : model.generateAssociationRules (minConfidence).toJavaRDD ().collect ()) {
+                confMap.put (rule.javaAntecedent () + "->" + rule.javaConsequent (), rule.confidence ());
+            }
+
+            Map sortedConf = SortByValues (confMap);
+            CollectValues ((HashMap<String, Integer>)sortedConf, completeConfidence);
+
+
+            completeFrequency.close ();
+            completeConfidence.close ();
+
+        } catch (IOException e) {
+            e.printStackTrace ();
+        }
+    }
+
+    private static void CreateColumnsHeader(PrintWriter completeFrequency, PrintWriter completeConfidence) {
+        completeFrequency.append("ItemSet");
+        completeFrequency.append(",");
+        completeFrequency.append("Frequency");
+        completeFrequency.append(",");
+        completeFrequency.append("\n");
+
+        completeConfidence.append("Source -> Target");
+        completeConfidence.append(",");
+        completeConfidence.append("Confidence");
+        completeConfidence.append(",");
+        completeConfidence.append("\n");
+    }
+
+    private static void CollectValues(HashMap sortedFreqMap, PrintWriter writer) {
+        Set s = sortedFreqMap.entrySet ();
+        Iterator iterator = s.iterator ();
+        while (iterator.hasNext ()) {
+            Map.Entry entry = (Map.Entry) iterator.next ();
+            String key = entry.getKey ().toString ();
+            writer.append (key);
+            writer.append (",");
+            Object value = entry.getValue ();
+            writer.append (value.toString ());
+            writer.append (",");
+            writer.append ("\n");
+        }
+    }
+
+    public static <K extends Comparable,V extends Comparable> Map<K,V> SortByValues(Map<K,V> map){
+        List<Map.Entry<K,V>> entries = new LinkedList<Map.Entry<K,V>>(map.entrySet());
+
+        Collections.sort(entries, new Comparator<Map.Entry<K,V>>() {
+            @Override
+            public int compare(Entry<K, V> o1, Entry<K, V> o2) {
+                return o2.getValue().compareTo(o1.getValue());
+            }
+        });
+
+        Map<K,V> sortedMap = new LinkedHashMap<K,V>();
+        for(Map.Entry<K,V> entry: entries){
+            sortedMap.put(entry.getKey(), entry.getValue());
+        }
+
+        return sortedMap;
+    }
+
+    //Sorting map by key is easier than by values because keys are unique, values can be duplicated or null
+    public static <K extends Comparable,V extends Comparable> Map<K,V> SortByKeys(Map<K,V> map){
+        List<K> keys = new LinkedList<K>(map.keySet());
+        Collections.sort(keys);
+        Map<K,V> sortedMap = new LinkedHashMap<K,V>();
+        for(K key: keys){
+            sortedMap.put(key, map.get(key));
+        }
+
+        return sortedMap;
+    }
+
+
+
+}
+
+
