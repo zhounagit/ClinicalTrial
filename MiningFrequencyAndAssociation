@@ -10,7 +10,6 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.*;
-import java.util.Map.Entry;
 
 
 public class MiningFrequencyAndAssociation {
@@ -37,14 +36,14 @@ public class MiningFrequencyAndAssociation {
         try {
             PrintWriter completeConfidence = new PrintWriter (new FileOutputStream (("/Users/nazhou/Downloads/output/Confidence.csv"), false));
             PrintWriter completeFrequency = new PrintWriter (new FileOutputStream (("/Users/nazhou/Downloads/output/FrequencyPatterns.csv"), false));
-            CreateColumnsHeader(completeFrequency, completeConfidence);
+            PrintWriter gephiConfidence = new PrintWriter (new FileOutputStream (("/Users/nazhou/Downloads/output/gephiConfidence.csv"), false));
+            CreateColumnsHeader(completeFrequency, completeConfidence,gephiConfidence);
 
             //Mining frequent patterns
             for (FPGrowth.FreqItemset<String> itemset : model.freqItemsets ().toJavaRDD ().collect ()) {
 
                 freqMap.put (itemset.javaItems ().toString (), (int) itemset.freq ());
             }
-
             Map sortedFreq = SortByValues(freqMap);
             CollectValues ((HashMap<String, Integer>)sortedFreq, completeFrequency);
 
@@ -52,12 +51,22 @@ public class MiningFrequencyAndAssociation {
             double minConfidence = 0.5;
             for (AssociationRules.Rule<String> rule : model.generateAssociationRules (minConfidence).toJavaRDD ().collect ()) {
                 confMap.put (rule.javaAntecedent () + "->" + rule.javaConsequent (), rule.confidence ());
-            }
 
+                String antecedent = CleanString (rule.javaAntecedent ().toString ());
+                String consequent = CleanString (rule.javaConsequent ().toString ());
+                gephiConfidence.append (antecedent);
+                gephiConfidence.append(",");
+                gephiConfidence.append (consequent);
+                gephiConfidence.append(",");
+                gephiConfidence.append (Double.toString (rule.confidence ()));
+                gephiConfidence.append(",");
+                gephiConfidence.append("Directed");
+                gephiConfidence.append("\n");
+            }
             Map sortedConf = SortByValues (confMap);
             CollectValues ((HashMap<String, Integer>)sortedConf, completeConfidence);
 
-
+            gephiConfidence.close ();
             completeFrequency.close ();
             completeConfidence.close ();
 
@@ -66,7 +75,7 @@ public class MiningFrequencyAndAssociation {
         }
     }
 
-    private static void CreateColumnsHeader(PrintWriter completeFrequency, PrintWriter completeConfidence) {
+    private static void CreateColumnsHeader(PrintWriter completeFrequency, PrintWriter completeConfidence, PrintWriter gephiConfidence) {
         completeFrequency.append("ItemSet");
         completeFrequency.append(",");
         completeFrequency.append("Frequency");
@@ -78,6 +87,15 @@ public class MiningFrequencyAndAssociation {
         completeConfidence.append("Confidence");
         completeConfidence.append(",");
         completeConfidence.append("\n");
+
+        gephiConfidence.append ("Source");
+        gephiConfidence.append(",");
+        gephiConfidence.append ("Target");
+        gephiConfidence.append(",");
+        gephiConfidence.append ("Confidence");
+        gephiConfidence.append(",");
+        gephiConfidence.append ("Type");
+        gephiConfidence.append("\n");
     }
 
     private static void CollectValues(HashMap sortedFreqMap, PrintWriter writer) {
@@ -85,25 +103,25 @@ public class MiningFrequencyAndAssociation {
         Iterator iterator = s.iterator ();
         while (iterator.hasNext ()) {
             Map.Entry entry = (Map.Entry) iterator.next ();
-            String key = entry.getKey ().toString ();
+            String key = CleanString(entry.getKey ().toString ());
             writer.append (key);
             writer.append (",");
-            Object value = entry.getValue ();
-            writer.append (value.toString ());
+            String value = CleanString(entry.getValue ().toString ());
+            writer.append (value);
             writer.append (",");
             writer.append ("\n");
         }
     }
 
+
+    public static String CleanString(String s){
+        return s.replace (",", "").replace ("[","").replace ("]","");
+    }
+
     public static <K extends Comparable,V extends Comparable> Map<K,V> SortByValues(Map<K,V> map){
         List<Map.Entry<K,V>> entries = new LinkedList<Map.Entry<K,V>>(map.entrySet());
 
-        Collections.sort(entries, new Comparator<Map.Entry<K,V>>() {
-            @Override
-            public int compare(Entry<K, V> o1, Entry<K, V> o2) {
-                return o2.getValue().compareTo(o1.getValue());
-            }
-        });
+        Collections.sort(entries, (o1, o2) -> o2.getValue().compareTo(o1.getValue()));
 
         Map<K,V> sortedMap = new LinkedHashMap<K,V>();
         for(Map.Entry<K,V> entry: entries){
@@ -124,8 +142,6 @@ public class MiningFrequencyAndAssociation {
 
         return sortedMap;
     }
-
-
 
 }
 
